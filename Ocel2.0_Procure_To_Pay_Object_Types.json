@@ -1,0 +1,64 @@
+{
+    "objectTypes":
+    [
+        {"name":"goods receipt","attributes":
+        [
+            {"name":"Invoice Receipt (MSEG-WEAHR)","type":"string"},
+            {"name":"Movement Type (MSEG-BWART)","type":"string"},
+            {"name":"new_value","type":"string"},
+            {"name":"Posting Date (MKPF-BLDAT)","type":"string"}
+        ]
+    },
+        {"name":"invoice receipt","attributes":
+        [
+            {"name":"Credit Amount (BSEG-WRBTR)","type":"string"},
+            {"name":"Debit Amount (BSEG-DMBTR)","type":"string"},
+            {"name":"Payment Block (RSEG-ZLSPR)","type":"string"},
+            {"name":"new_value","type":"string"}
+        ]
+    },
+        {"name":"material","attributes":
+        [
+            {"name":"Net Price (EKPO-NETPR)","type":"float"},
+            {"name":"Quantity (EKPO-MENGE)","type":"float"},
+            {"name":"Delivery Date (EKPO-BEDAT)","type":"time"},
+            {"name":"Plant (EKPO-WERKS)","type":"string"},
+            {"name":"Material (EKPO-MATNR)","type":"string"},
+            {"name":"Storage Location (EKPO-LGORT)","type":"string"}
+            ]
+        },
+        {"name":"payment","attributes":
+            [
+                {"name":"Payment Method (ZLSCH)","type":"string"},
+                {"name":"Amount (DMBTR)","type":"string"},
+                {"name":"new_value","type":"string"}
+            ]
+        },
+        {"name":"purchase_order","attributes":
+            [
+                {"name":"Purchasing Group (EKKO-EKGRP)","type":"string"},
+                {"name":"Purchasing Organization (EKKO-EKORG)","type":"string"},
+                {"name":"Document Type (EKKO-BSART)","type":"string"},
+                {"name":"Release Status (EKKO-FRGZU)","type":"string"},
+                {"name":"Vendor (EKKO-LIFNR)","type":"string"},
+                {"name":"new_value","type":"string"}
+            ]
+        },
+        {"name":"purchase_requisition","attributes":
+        [
+            {"name":"Purchasing Group (EBAN-EKGRP)","type":"string"},
+            {"name":"Release Indicator (EBAN-FRGZU)","type":"string"},
+            {"name":"new_value","type":"string"}
+        ]
+    },
+        {"name":"quotation","attributes":
+        [
+            {"name":"Purchasing Group (EBAN-EKGRP)","type":"string"},
+            {"name":"RFQ Type (EBAN-BSART)","type":"string"},
+            {"name":"Purchasing Organization (EBAN-EKORG)","type":"string"},
+            {"name":"Vendor (EBAN-LIFNR)","type":"string"},
+            {"name":"new_value","type":"string"}
+        ]
+    }
+]
+}
