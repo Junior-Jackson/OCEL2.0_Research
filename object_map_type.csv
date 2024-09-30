@@ -1,0 +1,8 @@
+ocel_type,ocel_type_map
+goods receipt,goodsreceipt
+invoice receipt,invoicereceipt
+material,material
+payment,payment
+purchase_order,purchase_order
+purchase_requisition,purchase_requisition
+quotation,quotation

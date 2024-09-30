@@ -1,0 +1,3260 @@
+ocel_id,ocel_time,PaymentMethodZLSCH,AmountDMBTR,new_value,ocel_changed_field
+payment:629,1970-01-01T00:00:00.000Z,D:Direct Debit,2850.0,,
+payment:629,2024-01-11T14:48:00.000Z,,,,AmountDMBTR
+payment:629,2024-01-11T14:48:00.000Z,,,,PaymentMethodZLSCH
+payment:812,1970-01-01T00:00:00.000Z,D:Direct Debit,33000.0,,
+payment:812,2024-06-28T21:10:00.000Z,,,,AmountDMBTR
+payment:812,2024-06-28T21:10:00.000Z,,,,PaymentMethodZLSCH
+payment:812,2024-07-06T14:04:00.000Z,,,,AmountDMBTR
+payment:812,2024-07-06T14:04:00.000Z,,,,PaymentMethodZLSCH
+payment:812,2024-07-08T11:06:00.000Z,,,,AmountDMBTR
+payment:812,2024-07-08T11:06:00.000Z,,,,PaymentMethodZLSCH
+payment:448,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,48850.0,,
+payment:448,2023-07-22T11:31:00.000Z,,,,AmountDMBTR
+payment:448,2023-07-22T11:31:00.000Z,,,,PaymentMethodZLSCH
+payment:807,1970-01-01T00:00:00.000Z,D:Direct Debit,96750.0,,
+payment:807,2024-06-24T16:19:00.000Z,,,,AmountDMBTR
+payment:807,2024-06-24T16:19:00.000Z,,,,PaymentMethodZLSCH
+payment:6,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,53700.0,,
+payment:6,2022-04-26T21:23:00.000Z,,,,AmountDMBTR
+payment:6,2022-04-26T21:23:00.000Z,,,,PaymentMethodZLSCH
+payment:298,1970-01-01T00:00:00.000Z,C: Bank Collection,15750.0,,
+payment:298,2023-02-22T12:56:00.000Z,,,,AmountDMBTR
+payment:298,2023-02-22T12:56:00.000Z,,,,PaymentMethodZLSCH
+payment:298,2023-02-28T22:59:00.000Z,,,,AmountDMBTR
+payment:298,2023-02-28T22:59:00.000Z,,,,PaymentMethodZLSCH
+payment:32,1970-01-01T00:00:00.000Z,D:Direct Debit,600.0,,
+payment:32,2022-05-19T17:45:00.000Z,,,,AmountDMBTR
+payment:32,2022-05-19T17:45:00.000Z,,,,PaymentMethodZLSCH
+payment:67,1970-01-01T00:00:00.000Z,C: Bank Collection,84700.0,,
+payment:67,2022-06-20T06:12:00.000Z,,,,AmountDMBTR
+payment:67,2022-06-20T06:12:00.000Z,,,,PaymentMethodZLSCH
+payment:377,1970-01-01T00:00:00.000Z,C: Bank Collection,19500.0,,
+payment:377,2023-05-11T16:06:00.000Z,,,,AmountDMBTR
+payment:377,2023-05-11T16:06:00.000Z,,,,PaymentMethodZLSCH
+payment:152,1970-01-01T00:00:00.000Z,C: Bank Collection,90250.0,,
+payment:152,2022-09-14T13:45:00.000Z,,,,AmountDMBTR
+payment:152,2022-09-14T13:45:00.000Z,,,,PaymentMethodZLSCH
+payment:146,1970-01-01T00:00:00.000Z,C: Bank Collection,105600.0,,
+payment:146,2022-09-11T13:55:00.000Z,,,,AmountDMBTR
+payment:146,2022-09-11T13:55:00.000Z,,,,PaymentMethodZLSCH
+payment:672,1970-01-01T00:00:00.000Z,C: Bank Collection,2200.0,,
+payment:672,2024-02-22T23:06:00.000Z,,,,AmountDMBTR
+payment:672,2024-02-22T23:06:00.000Z,,,,PaymentMethodZLSCH
+payment:605,1970-01-01T00:00:00.000Z,D:Direct Debit,9500.0,,
+payment:605,2023-12-15T11:35:00.000Z,,,,AmountDMBTR
+payment:605,2023-12-15T11:35:00.000Z,,,,PaymentMethodZLSCH
+payment:368,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,51600.0,,
+payment:368,2023-04-27T14:30:00.000Z,,,,AmountDMBTR
+payment:368,2023-04-27T14:30:00.000Z,,,,PaymentMethodZLSCH
+payment:368,2023-04-28T11:14:00.000Z,,,,AmountDMBTR
+payment:368,2023-04-28T11:14:00.000Z,,,,PaymentMethodZLSCH
+payment:757,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,107400.0,,
+payment:757,2024-05-09T08:23:00.000Z,,,,AmountDMBTR
+payment:757,2024-05-09T08:23:00.000Z,,,,PaymentMethodZLSCH
+payment:599,1970-01-01T00:00:00.000Z,C: Bank Collection,85500.0,,
+payment:599,2023-12-14T21:57:00.000Z,,,,AmountDMBTR
+payment:599,2023-12-14T21:57:00.000Z,,,,PaymentMethodZLSCH
+payment:15,1970-01-01T00:00:00.000Z,C: Bank Collection,6500.0,,
+payment:15,2022-05-06T11:16:00.000Z,,,,AmountDMBTR
+payment:15,2022-05-06T11:16:00.000Z,,,,PaymentMethodZLSCH
+payment:113,1970-01-01T00:00:00.000Z,D:Direct Debit,57200.0,,
+payment:113,2022-08-10T17:11:00.000Z,,,,AmountDMBTR
+payment:113,2022-08-10T17:11:00.000Z,,,,PaymentMethodZLSCH
+payment:58,1970-01-01T00:00:00.000Z,C: Bank Collection,12750.0,,
+payment:58,2022-06-08T04:49:00.000Z,,,,AmountDMBTR
+payment:58,2022-06-08T04:49:00.000Z,,,,PaymentMethodZLSCH
+payment:835,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,259000.0,,
+payment:835,2024-07-24T04:01:00.000Z,,,,AmountDMBTR
+payment:835,2024-07-24T04:01:00.000Z,,,,PaymentMethodZLSCH
+payment:429,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,38500.0,,
+payment:429,2023-07-04T21:22:00.000Z,,,,AmountDMBTR
+payment:429,2023-07-04T21:22:00.000Z,,,,PaymentMethodZLSCH
+payment:551,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9000.0,,
+payment:551,2023-11-01T18:16:00.000Z,,,,AmountDMBTR
+payment:551,2023-11-01T18:16:00.000Z,,,,PaymentMethodZLSCH
+payment:871,1970-01-01T00:00:00.000Z,D:Direct Debit,69600.0,,
+payment:871,2024-09-05T13:16:00.000Z,,,,AmountDMBTR
+payment:871,2024-09-05T13:16:00.000Z,,,,PaymentMethodZLSCH
+payment:871,2024-09-07T19:32:00.000Z,,,,AmountDMBTR
+payment:871,2024-09-07T19:32:00.000Z,,,,PaymentMethodZLSCH
+payment:871,2024-09-18T01:28:00.000Z,,,,AmountDMBTR
+payment:871,2024-09-18T01:28:00.000Z,,,,PaymentMethodZLSCH
+payment:833,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,80000.0,,
+payment:833,2024-07-24T21:53:00.000Z,,,,AmountDMBTR
+payment:833,2024-07-24T21:53:00.000Z,,,,PaymentMethodZLSCH
+payment:621,1970-01-01T00:00:00.000Z,C: Bank Collection,45000.0,,
+payment:621,2024-01-02T12:11:00.000Z,,,,AmountDMBTR
+payment:621,2024-01-02T12:11:00.000Z,,,,PaymentMethodZLSCH
+payment:699,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,20250.0,,
+payment:699,2024-03-12T15:15:00.000Z,,,,AmountDMBTR
+payment:699,2024-03-12T15:15:00.000Z,,,,PaymentMethodZLSCH
+payment:763,1970-01-01T00:00:00.000Z,D:Direct Debit,2600.0,,
+payment:763,2024-05-13T19:58:00.000Z,,,,AmountDMBTR
+payment:763,2024-05-13T19:58:00.000Z,,,,PaymentMethodZLSCH
+payment:763,2024-05-15T20:37:00.000Z,,,,AmountDMBTR
+payment:763,2024-05-15T20:37:00.000Z,,,,PaymentMethodZLSCH
+payment:763,2024-05-16T07:44:00.000Z,,,,AmountDMBTR
+payment:763,2024-05-16T07:44:00.000Z,,,,PaymentMethodZLSCH
+payment:763,2024-05-17T22:40:00.000Z,,,,AmountDMBTR
+payment:763,2024-05-17T22:40:00.000Z,,,,PaymentMethodZLSCH
+payment:701,1970-01-01T00:00:00.000Z,C: Bank Collection,33000.0,,
+payment:701,2024-03-12T14:34:00.000Z,,,,AmountDMBTR
+payment:701,2024-03-12T14:34:00.000Z,,,,PaymentMethodZLSCH
+payment:437,1970-01-01T00:00:00.000Z,C: Bank Collection,24850.0,,
+payment:437,2023-07-07T20:42:00.000Z,,,,AmountDMBTR
+payment:437,2023-07-07T20:42:00.000Z,,,,PaymentMethodZLSCH
+payment:310,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,79600.0,,
+payment:310,2023-03-08T07:04:00.000Z,,,,AmountDMBTR
+payment:310,2023-03-08T07:04:00.000Z,,,,PaymentMethodZLSCH
+payment:310,2023-03-18T14:38:00.000Z,,,,AmountDMBTR
+payment:310,2023-03-18T14:38:00.000Z,,,,PaymentMethodZLSCH
+payment:310,2023-03-20T09:09:00.000Z,,,,AmountDMBTR
+payment:310,2023-03-20T09:09:00.000Z,,,,PaymentMethodZLSCH
+payment:324,1970-01-01T00:00:00.000Z,C: Bank Collection,38100.0,,
+payment:324,2023-03-15T12:51:00.000Z,,,,AmountDMBTR
+payment:324,2023-03-15T12:51:00.000Z,,,,PaymentMethodZLSCH
+payment:237,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,90250.0,,
+payment:237,2022-12-02T08:15:00.000Z,,,,AmountDMBTR
+payment:237,2022-12-02T08:15:00.000Z,,,,PaymentMethodZLSCH
+payment:854,1970-01-01T00:00:00.000Z,C: Bank Collection,124600.0,,
+payment:854,2024-08-12T08:02:00.000Z,,,,AmountDMBTR
+payment:854,2024-08-12T08:02:00.000Z,,,,PaymentMethodZLSCH
+payment:854,2024-08-14T17:34:00.000Z,,,,AmountDMBTR
+payment:854,2024-08-14T17:34:00.000Z,,,,PaymentMethodZLSCH
+payment:128,1970-01-01T00:00:00.000Z,D:Direct Debit,42500.0,,
+payment:128,2022-08-20T07:58:00.000Z,,,,AmountDMBTR
+payment:128,2022-08-20T07:58:00.000Z,,,,PaymentMethodZLSCH
+payment:507,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27100.0,,
+payment:507,2023-09-13T11:59:00.000Z,,,,AmountDMBTR
+payment:507,2023-09-13T11:59:00.000Z,,,,PaymentMethodZLSCH
+payment:553,1970-01-01T00:00:00.000Z,C: Bank Collection,21150.0,,
+payment:553,2023-11-07T02:46:00.000Z,,,,AmountDMBTR
+payment:553,2023-11-07T02:46:00.000Z,,,,PaymentMethodZLSCH
+payment:355,1970-01-01T00:00:00.000Z,C: Bank Collection,5800.0,,
+payment:355,2023-04-14T12:38:00.000Z,,,,AmountDMBTR
+payment:355,2023-04-14T12:38:00.000Z,,,,PaymentMethodZLSCH
+payment:781,1970-01-01T00:00:00.000Z,D:Direct Debit,7200.0,,
+payment:781,2024-05-31T07:30:00.000Z,,,,AmountDMBTR
+payment:781,2024-05-31T07:30:00.000Z,,,,PaymentMethodZLSCH
+payment:148,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,45450.0,,
+payment:148,2022-09-10T04:24:00.000Z,,,,AmountDMBTR
+payment:148,2022-09-10T04:24:00.000Z,,,,PaymentMethodZLSCH
+payment:30,1970-01-01T00:00:00.000Z,C: Bank Collection,30450.0,,
+payment:30,2022-05-18T13:59:00.000Z,,,,AmountDMBTR
+payment:30,2022-05-18T13:59:00.000Z,,,,PaymentMethodZLSCH
+payment:855,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,14250.0,,
+payment:855,2024-08-13T03:54:00.000Z,,,,AmountDMBTR
+payment:855,2024-08-13T03:54:00.000Z,,,,PaymentMethodZLSCH
+payment:776,1970-01-01T00:00:00.000Z,D:Direct Debit,18000.0,,
+payment:776,2024-05-28T00:40:00.000Z,,,,AmountDMBTR
+payment:776,2024-05-28T00:40:00.000Z,,,,PaymentMethodZLSCH
+payment:165,1970-01-01T00:00:00.000Z,D:Direct Debit,8000.0,,
+payment:165,2022-09-19T07:28:00.000Z,,,,AmountDMBTR
+payment:165,2022-09-19T07:28:00.000Z,,,,PaymentMethodZLSCH
+payment:659,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,7350.0,,
+payment:659,2024-02-15T14:38:00.000Z,,,,AmountDMBTR
+payment:659,2024-02-15T14:38:00.000Z,,,,PaymentMethodZLSCH
+payment:297,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,68350.0,,
+payment:297,2023-02-28T18:58:00.000Z,,,,AmountDMBTR
+payment:297,2023-02-28T18:58:00.000Z,,,,PaymentMethodZLSCH
+payment:297,2023-03-03T10:35:00.000Z,,,,AmountDMBTR
+payment:297,2023-03-03T10:35:00.000Z,,,,PaymentMethodZLSCH
+payment:248,1970-01-01T00:00:00.000Z,C: Bank Collection,283750.0,,
+payment:248,2022-12-21T10:13:00.000Z,,,,AmountDMBTR
+payment:248,2022-12-21T10:13:00.000Z,,,,PaymentMethodZLSCH
+payment:474,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,44350.0,,
+payment:474,2023-08-12T12:32:00.000Z,,,,AmountDMBTR
+payment:474,2023-08-12T12:32:00.000Z,,,,PaymentMethodZLSCH
+payment:474,2023-08-20T19:08:00.000Z,,,,AmountDMBTR
+payment:474,2023-08-20T19:08:00.000Z,,,,PaymentMethodZLSCH
+payment:201,1970-01-01T00:00:00.000Z,C: Bank Collection,77400.0,,
+payment:201,2022-10-12T04:25:00.000Z,,,,AmountDMBTR
+payment:201,2022-10-12T04:25:00.000Z,,,,PaymentMethodZLSCH
+payment:386,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,30400.0,,
+payment:386,2023-05-24T13:03:00.000Z,,,,AmountDMBTR
+payment:386,2023-05-24T13:03:00.000Z,,,,PaymentMethodZLSCH
+payment:560,1970-01-01T00:00:00.000Z,C: Bank Collection,6250.0,,
+payment:560,2023-11-12T16:11:00.000Z,,,,AmountDMBTR
+payment:560,2023-11-12T16:11:00.000Z,,,,PaymentMethodZLSCH
+payment:645,1970-01-01T00:00:00.000Z,D:Direct Debit,300.0,,
+payment:645,2024-02-04T08:40:00.000Z,,,,AmountDMBTR
+payment:645,2024-02-04T08:40:00.000Z,,,,PaymentMethodZLSCH
+payment:285,1970-01-01T00:00:00.000Z,C: Bank Collection,52800.0,,
+payment:285,2023-02-10T01:36:00.000Z,,,,AmountDMBTR
+payment:285,2023-02-10T01:36:00.000Z,,,,PaymentMethodZLSCH
+payment:59,1970-01-01T00:00:00.000Z,D:Direct Debit,30550.0,,
+payment:59,2022-06-09T20:09:00.000Z,,,,AmountDMBTR
+payment:59,2022-06-09T20:09:00.000Z,,,,PaymentMethodZLSCH
+payment:56,1970-01-01T00:00:00.000Z,C: Bank Collection,260100.0,,
+payment:56,2022-06-11T00:24:00.000Z,,,,AmountDMBTR
+payment:56,2022-06-11T00:24:00.000Z,,,,PaymentMethodZLSCH
+payment:239,1970-01-01T00:00:00.000Z,C: Bank Collection,55850.0,,
+payment:239,2022-12-09T06:20:00.000Z,,,,AmountDMBTR
+payment:239,2022-12-09T06:20:00.000Z,,,,PaymentMethodZLSCH
+payment:294,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40500.0,,
+payment:294,2023-02-24T16:15:00.000Z,,,,AmountDMBTR
+payment:294,2023-02-24T16:15:00.000Z,,,,PaymentMethodZLSCH
+payment:194,1970-01-01T00:00:00.000Z,C: Bank Collection,119900.0,,
+payment:194,2022-10-07T00:57:00.000Z,,,,AmountDMBTR
+payment:194,2022-10-07T00:57:00.000Z,,,,PaymentMethodZLSCH
+payment:478,1970-01-01T00:00:00.000Z,D:Direct Debit,300.0,,
+payment:478,2023-08-16T14:25:00.000Z,,,,AmountDMBTR
+payment:478,2023-08-16T14:25:00.000Z,,,,PaymentMethodZLSCH
+payment:671,1970-01-01T00:00:00.000Z,C: Bank Collection,135050.0,,
+payment:671,2024-02-15T14:26:00.000Z,,,,AmountDMBTR
+payment:671,2024-02-15T14:26:00.000Z,,,,PaymentMethodZLSCH
+payment:80,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,13800.0,,
+payment:80,2022-07-01T22:11:00.000Z,,,,AmountDMBTR
+payment:80,2022-07-01T22:11:00.000Z,,,,PaymentMethodZLSCH
+payment:400,1970-01-01T00:00:00.000Z,D:Direct Debit,58000.0,,
+payment:400,2023-06-05T12:59:00.000Z,,,,AmountDMBTR
+payment:400,2023-06-05T12:59:00.000Z,,,,PaymentMethodZLSCH
+payment:400,2023-06-08T01:51:00.000Z,,,,AmountDMBTR
+payment:400,2023-06-08T01:51:00.000Z,,,,PaymentMethodZLSCH
+payment:400,2023-06-13T08:25:00.000Z,,,,AmountDMBTR
+payment:400,2023-06-13T08:25:00.000Z,,,,PaymentMethodZLSCH
+payment:295,1970-01-01T00:00:00.000Z,C: Bank Collection,21600.0,,
+payment:295,2023-02-20T19:56:00.000Z,,,,AmountDMBTR
+payment:295,2023-02-20T19:56:00.000Z,,,,PaymentMethodZLSCH
+payment:273,1970-01-01T00:00:00.000Z,D:Direct Debit,122200.0,,
+payment:273,2023-01-21T01:44:00.000Z,,,,AmountDMBTR
+payment:273,2023-01-21T01:44:00.000Z,,,,PaymentMethodZLSCH
+payment:366,1970-01-01T00:00:00.000Z,C: Bank Collection,92700.0,,
+payment:366,2023-04-25T23:05:00.000Z,,,,AmountDMBTR
+payment:366,2023-04-25T23:05:00.000Z,,,,PaymentMethodZLSCH
+payment:104,1970-01-01T00:00:00.000Z,C: Bank Collection,5850.0,,
+payment:104,2022-07-25T09:28:00.000Z,,,,AmountDMBTR
+payment:104,2022-07-25T09:28:00.000Z,,,,PaymentMethodZLSCH
+payment:135,1970-01-01T00:00:00.000Z,C: Bank Collection,1200.0,,
+payment:135,2022-08-31T05:53:00.000Z,,,,AmountDMBTR
+payment:135,2022-08-31T05:53:00.000Z,,,,PaymentMethodZLSCH
+payment:853,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,16800.0,,
+payment:853,2024-08-08T12:44:00.000Z,,,,AmountDMBTR
+payment:853,2024-08-08T12:44:00.000Z,,,,PaymentMethodZLSCH
+payment:886,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,106250.0,,
+payment:886,2024-09-20T08:23:00.000Z,,,,AmountDMBTR
+payment:886,2024-09-20T08:23:00.000Z,,,,PaymentMethodZLSCH
+payment:301,1970-01-01T00:00:00.000Z,D:Direct Debit,16050.0,,
+payment:301,2023-02-24T07:50:00.000Z,,,,AmountDMBTR
+payment:301,2023-02-24T07:50:00.000Z,,,,PaymentMethodZLSCH
+payment:565,1970-01-01T00:00:00.000Z,D:Direct Debit,27900.0,,
+payment:565,2023-11-22T23:34:00.000Z,,,,AmountDMBTR
+payment:565,2023-11-22T23:34:00.000Z,,,,PaymentMethodZLSCH
+payment:922,1970-01-01T00:00:00.000Z,C: Bank Collection,123200.0,,
+payment:922,2024-10-13T12:47:00.000Z,,,,AmountDMBTR
+payment:922,2024-10-13T12:47:00.000Z,,,,PaymentMethodZLSCH
+payment:800,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,113300.0,,
+payment:800,2024-06-18T05:31:00.000Z,,,,AmountDMBTR
+payment:800,2024-06-18T05:31:00.000Z,,,,PaymentMethodZLSCH
+payment:281,1970-01-01T00:00:00.000Z,C: Bank Collection,149700.0,,
+payment:281,2023-01-30T13:37:00.000Z,,,,AmountDMBTR
+payment:281,2023-01-30T13:37:00.000Z,,,,PaymentMethodZLSCH
+payment:446,1970-01-01T00:00:00.000Z,D:Direct Debit,290000.0,,
+payment:446,2023-07-22T05:17:00.000Z,,,,AmountDMBTR
+payment:446,2023-07-22T05:17:00.000Z,,,,PaymentMethodZLSCH
+payment:750,1970-01-01T00:00:00.000Z,C: Bank Collection,8000.0,,
+payment:750,2024-05-07T15:06:00.000Z,,,,AmountDMBTR
+payment:750,2024-05-07T15:06:00.000Z,,,,PaymentMethodZLSCH
+payment:750,2024-05-08T12:06:00.000Z,,,,AmountDMBTR
+payment:750,2024-05-08T12:06:00.000Z,,,,PaymentMethodZLSCH
+payment:750,2024-05-11T11:59:00.000Z,,,,AmountDMBTR
+payment:750,2024-05-11T11:59:00.000Z,,,,PaymentMethodZLSCH
+payment:327,1970-01-01T00:00:00.000Z,D:Direct Debit,80000.0,,
+payment:327,2023-03-16T13:10:00.000Z,,,,AmountDMBTR
+payment:327,2023-03-16T13:10:00.000Z,,,,PaymentMethodZLSCH
+payment:50,1970-01-01T00:00:00.000Z,C: Bank Collection,18000.0,,
+payment:50,2022-06-04T01:47:00.000Z,,,,AmountDMBTR
+payment:50,2022-06-04T01:47:00.000Z,,,,PaymentMethodZLSCH
+payment:115,1970-01-01T00:00:00.000Z,C: Bank Collection,30800.0,,
+payment:115,2022-08-11T02:47:00.000Z,,,,AmountDMBTR
+payment:115,2022-08-11T02:47:00.000Z,,,,PaymentMethodZLSCH
+payment:445,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,88500.0,,
+payment:445,2023-07-31T13:25:00.000Z,,,,AmountDMBTR
+payment:445,2023-07-31T13:25:00.000Z,,,,PaymentMethodZLSCH
+payment:166,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,45500.0,,
+payment:166,2022-09-20T13:31:00.000Z,,,,AmountDMBTR
+payment:166,2022-09-20T13:31:00.000Z,,,,PaymentMethodZLSCH
+payment:589,1970-01-01T00:00:00.000Z,C: Bank Collection,176250.0,,
+payment:589,2023-12-08T03:49:00.000Z,,,,AmountDMBTR
+payment:589,2023-12-08T03:49:00.000Z,,,,PaymentMethodZLSCH
+payment:371,1970-01-01T00:00:00.000Z,D:Direct Debit,54200.0,,
+payment:371,2023-05-05T03:18:00.000Z,,,,AmountDMBTR
+payment:371,2023-05-05T03:18:00.000Z,,,,PaymentMethodZLSCH
+payment:692,1970-01-01T00:00:00.000Z,C: Bank Collection,82600.0,,
+payment:692,2024-03-06T22:00:00.000Z,,,,AmountDMBTR
+payment:692,2024-03-06T22:00:00.000Z,,,,PaymentMethodZLSCH
+payment:692,2024-03-13T06:18:00.000Z,,,,AmountDMBTR
+payment:692,2024-03-13T06:18:00.000Z,,,,PaymentMethodZLSCH
+payment:690,1970-01-01T00:00:00.000Z,C: Bank Collection,11750.0,,
+payment:690,2024-03-13T07:30:00.000Z,,,,AmountDMBTR
+payment:690,2024-03-13T07:30:00.000Z,,,,PaymentMethodZLSCH
+payment:690,2024-03-17T02:22:00.000Z,,,,AmountDMBTR
+payment:690,2024-03-17T02:22:00.000Z,,,,PaymentMethodZLSCH
+payment:314,1970-01-01T00:00:00.000Z,C: Bank Collection,2850.0,,
+payment:314,2023-03-15T09:18:00.000Z,,,,AmountDMBTR
+payment:314,2023-03-15T09:18:00.000Z,,,,PaymentMethodZLSCH
+payment:516,1970-01-01T00:00:00.000Z,C: Bank Collection,27500.0,,
+payment:516,2023-09-23T19:18:00.000Z,,,,AmountDMBTR
+payment:516,2023-09-23T19:18:00.000Z,,,,PaymentMethodZLSCH
+payment:516,2023-09-26T19:49:00.000Z,,,,AmountDMBTR
+payment:516,2023-09-26T19:49:00.000Z,,,,PaymentMethodZLSCH
+payment:29,1970-01-01T00:00:00.000Z,C: Bank Collection,63200.0,,
+payment:29,2022-05-19T22:14:00.000Z,,,,AmountDMBTR
+payment:29,2022-05-19T22:14:00.000Z,,,,PaymentMethodZLSCH
+payment:27,1970-01-01T00:00:00.000Z,C: Bank Collection,130900.0,,
+payment:27,2022-05-17T18:32:00.000Z,,,,AmountDMBTR
+payment:27,2022-05-17T18:32:00.000Z,,,,PaymentMethodZLSCH
+payment:27,2022-05-25T13:06:00.000Z,,,,AmountDMBTR
+payment:27,2022-05-25T13:06:00.000Z,,,,PaymentMethodZLSCH
+payment:523,1970-01-01T00:00:00.000Z,D:Direct Debit,23900.0,,
+payment:523,2023-10-07T18:42:00.000Z,,,,AmountDMBTR
+payment:523,2023-10-07T18:42:00.000Z,,,,PaymentMethodZLSCH
+payment:136,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,6500.0,,
+payment:136,2022-08-26T19:49:00.000Z,,,,AmountDMBTR
+payment:136,2022-08-26T19:49:00.000Z,,,,PaymentMethodZLSCH
+payment:639,1970-01-01T00:00:00.000Z,D:Direct Debit,50400.0,,
+payment:639,2024-01-14T17:07:00.000Z,,,,AmountDMBTR
+payment:639,2024-01-14T17:07:00.000Z,,,,PaymentMethodZLSCH
+payment:490,1970-01-01T00:00:00.000Z,D:Direct Debit,2850.0,,
+payment:490,2023-09-08T07:20:00.000Z,,,,AmountDMBTR
+payment:490,2023-09-08T07:20:00.000Z,,,,PaymentMethodZLSCH
+payment:435,1970-01-01T00:00:00.000Z,C: Bank Collection,16250.0,,
+payment:435,2023-07-12T04:31:00.000Z,,,,AmountDMBTR
+payment:435,2023-07-12T04:31:00.000Z,,,,PaymentMethodZLSCH
+payment:893,1970-01-01T00:00:00.000Z,D:Direct Debit,122500.0,,
+payment:893,2024-09-24T13:36:00.000Z,,,,AmountDMBTR
+payment:893,2024-09-24T13:36:00.000Z,,,,PaymentMethodZLSCH
+payment:891,1970-01-01T00:00:00.000Z,D:Direct Debit,18100.0,,
+payment:891,2024-09-22T03:57:00.000Z,,,,AmountDMBTR
+payment:891,2024-09-22T03:57:00.000Z,,,,PaymentMethodZLSCH
+payment:57,1970-01-01T00:00:00.000Z,D:Direct Debit,44550.0,,
+payment:57,2022-06-06T19:19:00.000Z,,,,AmountDMBTR
+payment:57,2022-06-06T19:19:00.000Z,,,,PaymentMethodZLSCH
+payment:277,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,21000.0,,
+payment:277,2023-01-29T10:27:00.000Z,,,,AmountDMBTR
+payment:277,2023-01-29T10:27:00.000Z,,,,PaymentMethodZLSCH
+payment:123,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,134100.0,,
+payment:123,2022-08-18T19:08:00.000Z,,,,AmountDMBTR
+payment:123,2022-08-18T19:08:00.000Z,,,,PaymentMethodZLSCH
+payment:25,1970-01-01T00:00:00.000Z,C: Bank Collection,32800.0,,
+payment:25,2022-05-20T18:37:00.000Z,,,,AmountDMBTR
+payment:25,2022-05-20T18:37:00.000Z,,,,PaymentMethodZLSCH
+payment:98,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,153900.0,,
+payment:98,2022-07-20T12:37:00.000Z,,,,AmountDMBTR
+payment:98,2022-07-20T12:37:00.000Z,,,,PaymentMethodZLSCH
+payment:610,1970-01-01T00:00:00.000Z,D:Direct Debit,26250.0,,
+payment:610,2023-12-25T18:37:00.000Z,,,,AmountDMBTR
+payment:610,2023-12-25T18:37:00.000Z,,,,PaymentMethodZLSCH
+payment:443,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,170500.0,,
+payment:443,2023-07-17T22:52:00.000Z,,,,AmountDMBTR
+payment:443,2023-07-17T22:52:00.000Z,,,,PaymentMethodZLSCH
+payment:475,1970-01-01T00:00:00.000Z,D:Direct Debit,27000.0,,
+payment:475,2023-08-14T21:25:00.000Z,,,,AmountDMBTR
+payment:475,2023-08-14T21:25:00.000Z,,,,PaymentMethodZLSCH
+payment:631,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,900.0,,
+payment:631,2024-01-08T20:31:00.000Z,,,,AmountDMBTR
+payment:631,2024-01-08T20:31:00.000Z,,,,PaymentMethodZLSCH
+payment:753,1970-01-01T00:00:00.000Z,C: Bank Collection,14000.0,,
+payment:753,2024-05-10T16:11:00.000Z,,,,AmountDMBTR
+payment:753,2024-05-10T16:11:00.000Z,,,,PaymentMethodZLSCH
+payment:246,1970-01-01T00:00:00.000Z,D:Direct Debit,38250.0,,
+payment:246,2022-12-17T02:34:00.000Z,,,,AmountDMBTR
+payment:246,2022-12-17T02:34:00.000Z,,,,PaymentMethodZLSCH
+payment:798,1970-01-01T00:00:00.000Z,C: Bank Collection,172900.0,,
+payment:798,2024-06-13T21:02:00.000Z,,,,AmountDMBTR
+payment:798,2024-06-13T21:02:00.000Z,,,,PaymentMethodZLSCH
+payment:700,1970-01-01T00:00:00.000Z,C: Bank Collection,81900.0,,
+payment:700,2024-03-15T02:14:00.000Z,,,,AmountDMBTR
+payment:700,2024-03-15T02:14:00.000Z,,,,PaymentMethodZLSCH
+payment:894,1970-01-01T00:00:00.000Z,C: Bank Collection,21450.0,,
+payment:894,2024-09-30T07:56:00.000Z,,,,AmountDMBTR
+payment:894,2024-09-30T07:56:00.000Z,,,,PaymentMethodZLSCH
+payment:252,1970-01-01T00:00:00.000Z,C: Bank Collection,53100.0,,
+payment:252,2022-12-28T23:17:00.000Z,,,,AmountDMBTR
+payment:252,2022-12-28T23:17:00.000Z,,,,PaymentMethodZLSCH
+payment:252,2022-12-31T12:04:00.000Z,,,,AmountDMBTR
+payment:252,2022-12-31T12:04:00.000Z,,,,PaymentMethodZLSCH
+payment:806,1970-01-01T00:00:00.000Z,C: Bank Collection,121500.0,,
+payment:806,2024-06-25T22:41:00.000Z,,,,AmountDMBTR
+payment:806,2024-06-25T22:41:00.000Z,,,,PaymentMethodZLSCH
+payment:806,2024-06-28T18:22:00.000Z,,,,AmountDMBTR
+payment:806,2024-06-28T18:22:00.000Z,,,,PaymentMethodZLSCH
+payment:806,2024-07-04T16:40:00.000Z,,,,AmountDMBTR
+payment:806,2024-07-04T16:40:00.000Z,,,,PaymentMethodZLSCH
+payment:806,2024-07-08T18:58:00.000Z,,,,AmountDMBTR
+payment:806,2024-07-08T18:58:00.000Z,,,,PaymentMethodZLSCH
+payment:586,1970-01-01T00:00:00.000Z,D:Direct Debit,31250.0,,
+payment:586,2023-12-09T17:11:00.000Z,,,,AmountDMBTR
+payment:586,2023-12-09T17:11:00.000Z,,,,PaymentMethodZLSCH
+payment:250,1970-01-01T00:00:00.000Z,C: Bank Collection,1250.0,,
+payment:250,2022-12-26T02:28:00.000Z,,,,AmountDMBTR
+payment:250,2022-12-26T02:28:00.000Z,,,,PaymentMethodZLSCH
+payment:885,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,31500.0,,
+payment:885,2024-09-21T18:22:00.000Z,,,,AmountDMBTR
+payment:885,2024-09-21T18:22:00.000Z,,,,PaymentMethodZLSCH
+payment:221,1970-01-01T00:00:00.000Z,D:Direct Debit,22200.0,,
+payment:221,2022-11-09T10:00:00.000Z,,,,AmountDMBTR
+payment:221,2022-11-09T10:00:00.000Z,,,,PaymentMethodZLSCH
+payment:221,2022-11-09T15:33:00.000Z,,,,AmountDMBTR
+payment:221,2022-11-09T15:33:00.000Z,,,,PaymentMethodZLSCH
+payment:8,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,34400.0,,
+payment:8,2022-05-02T16:03:00.000Z,,,,AmountDMBTR
+payment:8,2022-05-02T16:03:00.000Z,,,,PaymentMethodZLSCH
+payment:8,2022-05-03T13:58:00.000Z,,,,AmountDMBTR
+payment:8,2022-05-03T13:58:00.000Z,,,,PaymentMethodZLSCH
+payment:110,1970-01-01T00:00:00.000Z,D:Direct Debit,18050.0,,
+payment:110,2022-08-05T14:56:00.000Z,,,,AmountDMBTR
+payment:110,2022-08-05T14:56:00.000Z,,,,PaymentMethodZLSCH
+payment:110,2022-08-08T03:48:00.000Z,,,,AmountDMBTR
+payment:110,2022-08-08T03:48:00.000Z,,,,PaymentMethodZLSCH
+payment:48,1970-01-01T00:00:00.000Z,C: Bank Collection,89700.0,,
+payment:48,2022-06-04T08:44:00.000Z,,,,AmountDMBTR
+payment:48,2022-06-04T08:44:00.000Z,,,,PaymentMethodZLSCH
+payment:48,2022-06-09T08:11:00.000Z,,,,AmountDMBTR
+payment:48,2022-06-09T08:11:00.000Z,,,,PaymentMethodZLSCH
+payment:130,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,15650.0,,
+payment:130,2022-08-24T00:44:00.000Z,,,,AmountDMBTR
+payment:130,2022-08-24T00:44:00.000Z,,,,PaymentMethodZLSCH
+payment:797,1970-01-01T00:00:00.000Z,C: Bank Collection,15400.0,,
+payment:797,2024-06-15T13:10:00.000Z,,,,AmountDMBTR
+payment:797,2024-06-15T13:10:00.000Z,,,,PaymentMethodZLSCH
+payment:825,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,47450.0,,
+payment:825,2024-07-14T09:41:00.000Z,,,,AmountDMBTR
+payment:825,2024-07-14T09:41:00.000Z,,,,PaymentMethodZLSCH
+payment:673,1970-01-01T00:00:00.000Z,C: Bank Collection,114800.0,,
+payment:673,2024-02-20T21:16:00.000Z,,,,AmountDMBTR
+payment:673,2024-02-20T21:16:00.000Z,,,,PaymentMethodZLSCH
+payment:921,1970-01-01T00:00:00.000Z,D:Direct Debit,34500.0,,
+payment:921,2024-10-21T04:28:00.000Z,,,,AmountDMBTR
+payment:921,2024-10-21T04:28:00.000Z,,,,PaymentMethodZLSCH
+payment:288,1970-01-01T00:00:00.000Z,C: Bank Collection,3000.0,,
+payment:288,2023-02-15T13:17:00.000Z,,,,AmountDMBTR
+payment:288,2023-02-15T13:17:00.000Z,,,,PaymentMethodZLSCH
+payment:348,1970-01-01T00:00:00.000Z,C: Bank Collection,115500.0,,
+payment:348,2023-04-06T19:31:00.000Z,,,,AmountDMBTR
+payment:348,2023-04-06T19:31:00.000Z,,,,PaymentMethodZLSCH
+payment:549,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,53100.0,,
+payment:549,2023-10-27T07:02:00.000Z,,,,AmountDMBTR
+payment:549,2023-10-27T07:02:00.000Z,,,,PaymentMethodZLSCH
+payment:592,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,72800.0,,
+payment:592,2023-12-08T10:15:00.000Z,,,,AmountDMBTR
+payment:592,2023-12-08T10:15:00.000Z,,,,PaymentMethodZLSCH
+payment:66,1970-01-01T00:00:00.000Z,D:Direct Debit,50350.0,,
+payment:66,2022-06-13T11:12:00.000Z,,,,AmountDMBTR
+payment:66,2022-06-13T11:12:00.000Z,,,,PaymentMethodZLSCH
+payment:664,1970-01-01T00:00:00.000Z,C: Bank Collection,45250.0,,
+payment:664,2024-02-16T12:30:00.000Z,,,,AmountDMBTR
+payment:664,2024-02-16T12:30:00.000Z,,,,PaymentMethodZLSCH
+payment:664,2024-02-20T03:54:00.000Z,,,,AmountDMBTR
+payment:664,2024-02-20T03:54:00.000Z,,,,PaymentMethodZLSCH
+payment:344,1970-01-01T00:00:00.000Z,D:Direct Debit,2400.0,,
+payment:344,2023-04-05T17:55:00.000Z,,,,AmountDMBTR
+payment:344,2023-04-05T17:55:00.000Z,,,,PaymentMethodZLSCH
+payment:344,2023-04-08T01:45:00.000Z,,,,AmountDMBTR
+payment:344,2023-04-08T01:45:00.000Z,,,,PaymentMethodZLSCH
+payment:344,2023-04-10T13:11:00.000Z,,,,AmountDMBTR
+payment:344,2023-04-10T13:11:00.000Z,,,,PaymentMethodZLSCH
+payment:344,2023-04-18T14:32:00.000Z,,,,AmountDMBTR
+payment:344,2023-04-18T14:32:00.000Z,,,,PaymentMethodZLSCH
+payment:225,1970-01-01T00:00:00.000Z,D:Direct Debit,11050.0,,
+payment:225,2022-11-19T16:37:00.000Z,,,,AmountDMBTR
+payment:225,2022-11-19T16:37:00.000Z,,,,PaymentMethodZLSCH
+payment:731,1970-01-01T00:00:00.000Z,C: Bank Collection,104350.0,,
+payment:731,2024-04-21T02:41:00.000Z,,,,AmountDMBTR
+payment:731,2024-04-21T02:41:00.000Z,,,,PaymentMethodZLSCH
+payment:731,2024-04-26T23:36:00.000Z,,,,AmountDMBTR
+payment:731,2024-04-26T23:36:00.000Z,,,,PaymentMethodZLSCH
+payment:731,2024-05-03T18:17:00.000Z,,,,AmountDMBTR
+payment:731,2024-05-03T18:17:00.000Z,,,,PaymentMethodZLSCH
+payment:143,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,92000.0,,
+payment:143,2022-09-02T16:03:00.000Z,,,,AmountDMBTR
+payment:143,2022-09-02T16:03:00.000Z,,,,PaymentMethodZLSCH
+payment:881,1970-01-01T00:00:00.000Z,C: Bank Collection,49350.0,,
+payment:881,2024-09-16T10:18:00.000Z,,,,AmountDMBTR
+payment:881,2024-09-16T10:18:00.000Z,,,,PaymentMethodZLSCH
+payment:280,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,115450.0,,
+payment:280,2023-01-27T02:00:00.000Z,,,,AmountDMBTR
+payment:280,2023-01-27T02:00:00.000Z,,,,PaymentMethodZLSCH
+payment:872,1970-01-01T00:00:00.000Z,D:Direct Debit,48750.0,,
+payment:872,2024-09-05T18:03:00.000Z,,,,AmountDMBTR
+payment:872,2024-09-05T18:03:00.000Z,,,,PaymentMethodZLSCH
+payment:419,1970-01-01T00:00:00.000Z,C: Bank Collection,83300.0,,
+payment:419,2023-06-24T03:56:00.000Z,,,,AmountDMBTR
+payment:419,2023-06-24T03:56:00.000Z,,,,PaymentMethodZLSCH
+payment:419,2023-07-01T07:44:00.000Z,,,,AmountDMBTR
+payment:419,2023-07-01T07:44:00.000Z,,,,PaymentMethodZLSCH
+payment:299,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,76800.0,,
+payment:299,2023-02-22T19:28:00.000Z,,,,AmountDMBTR
+payment:299,2023-02-22T19:28:00.000Z,,,,PaymentMethodZLSCH
+payment:60,1970-01-01T00:00:00.000Z,D:Direct Debit,72550.0,,
+payment:60,2022-06-09T07:50:00.000Z,,,,AmountDMBTR
+payment:60,2022-06-09T07:50:00.000Z,,,,PaymentMethodZLSCH
+payment:801,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,11200.0,,
+payment:801,2024-06-17T09:00:00.000Z,,,,AmountDMBTR
+payment:801,2024-06-17T09:00:00.000Z,,,,PaymentMethodZLSCH
+payment:42,1970-01-01T00:00:00.000Z,C: Bank Collection,79950.0,,
+payment:42,2022-05-31T08:10:00.000Z,,,,AmountDMBTR
+payment:42,2022-05-31T08:10:00.000Z,,,,PaymentMethodZLSCH
+payment:42,2022-06-05T01:26:00.000Z,,,,AmountDMBTR
+payment:42,2022-06-05T01:26:00.000Z,,,,PaymentMethodZLSCH
+payment:107,1970-01-01T00:00:00.000Z,D:Direct Debit,141000.0,,
+payment:107,2022-07-27T12:28:00.000Z,,,,AmountDMBTR
+payment:107,2022-07-27T12:28:00.000Z,,,,PaymentMethodZLSCH
+payment:766,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,99400.0,,
+payment:766,2024-05-19T09:18:00.000Z,,,,AmountDMBTR
+payment:766,2024-05-19T09:18:00.000Z,,,,PaymentMethodZLSCH
+payment:766,2024-05-26T15:58:00.000Z,,,,AmountDMBTR
+payment:766,2024-05-26T15:58:00.000Z,,,,PaymentMethodZLSCH
+payment:476,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,110600.0,,
+payment:476,2023-08-16T04:33:00.000Z,,,,AmountDMBTR
+payment:476,2023-08-16T04:33:00.000Z,,,,PaymentMethodZLSCH
+payment:45,1970-01-01T00:00:00.000Z,C: Bank Collection,90000.0,,
+payment:45,2022-06-02T01:58:00.000Z,,,,AmountDMBTR
+payment:45,2022-06-02T01:58:00.000Z,,,,PaymentMethodZLSCH
+payment:604,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,68250.0,,
+payment:604,2023-12-19T23:40:00.000Z,,,,AmountDMBTR
+payment:604,2023-12-19T23:40:00.000Z,,,,PaymentMethodZLSCH
+payment:495,1970-01-01T00:00:00.000Z,C: Bank Collection,11700.0,,
+payment:495,2023-09-06T04:01:00.000Z,,,,AmountDMBTR
+payment:495,2023-09-06T04:01:00.000Z,,,,PaymentMethodZLSCH
+payment:500,1970-01-01T00:00:00.000Z,C: Bank Collection,111250.0,,
+payment:500,2023-09-13T00:35:00.000Z,,,,AmountDMBTR
+payment:500,2023-09-13T00:35:00.000Z,,,,PaymentMethodZLSCH
+payment:496,1970-01-01T00:00:00.000Z,C: Bank Collection,11250.0,,
+payment:496,2023-09-05T17:28:00.000Z,,,,AmountDMBTR
+payment:496,2023-09-05T17:28:00.000Z,,,,PaymentMethodZLSCH
+payment:233,1970-01-01T00:00:00.000Z,D:Direct Debit,166800.0,,
+payment:233,2022-11-25T06:38:00.000Z,,,,AmountDMBTR
+payment:233,2022-11-25T06:38:00.000Z,,,,PaymentMethodZLSCH
+payment:245,1970-01-01T00:00:00.000Z,C: Bank Collection,18750.0,,
+payment:245,2022-12-17T10:32:00.000Z,,,,AmountDMBTR
+payment:245,2022-12-17T10:32:00.000Z,,,,PaymentMethodZLSCH
+payment:693,1970-01-01T00:00:00.000Z,D:Direct Debit,1000.0,,
+payment:693,2024-03-08T11:32:00.000Z,,,,AmountDMBTR
+payment:693,2024-03-08T11:32:00.000Z,,,,PaymentMethodZLSCH
+payment:408,1970-01-01T00:00:00.000Z,C: Bank Collection,46850.0,,
+payment:408,2023-06-18T17:56:00.000Z,,,,AmountDMBTR
+payment:408,2023-06-18T17:56:00.000Z,,,,PaymentMethodZLSCH
+payment:408,2023-06-20T10:28:00.000Z,,,,AmountDMBTR
+payment:408,2023-06-20T10:28:00.000Z,,,,PaymentMethodZLSCH
+payment:318,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9100.0,,
+payment:318,2023-03-14T21:01:00.000Z,,,,AmountDMBTR
+payment:318,2023-03-14T21:01:00.000Z,,,,PaymentMethodZLSCH
+payment:679,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24300.0,,
+payment:679,2024-02-24T21:51:00.000Z,,,,AmountDMBTR
+payment:679,2024-02-24T21:51:00.000Z,,,,PaymentMethodZLSCH
+payment:40,1970-01-01T00:00:00.000Z,C: Bank Collection,14950.0,,
+payment:40,2022-05-31T19:52:00.000Z,,,,AmountDMBTR
+payment:40,2022-05-31T19:52:00.000Z,,,,PaymentMethodZLSCH
+payment:13,1970-01-01T00:00:00.000Z,D:Direct Debit,115600.0,,
+payment:13,2022-05-07T02:37:00.000Z,,,,AmountDMBTR
+payment:13,2022-05-07T02:37:00.000Z,,,,PaymentMethodZLSCH
+payment:353,1970-01-01T00:00:00.000Z,C: Bank Collection,63000.0,,
+payment:353,2023-04-16T18:55:00.000Z,,,,AmountDMBTR
+payment:353,2023-04-16T18:55:00.000Z,,,,PaymentMethodZLSCH
+payment:154,1970-01-01T00:00:00.000Z,D:Direct Debit,47500.0,,
+payment:154,2022-09-13T10:20:00.000Z,,,,AmountDMBTR
+payment:154,2022-09-13T10:20:00.000Z,,,,PaymentMethodZLSCH
+payment:99,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,37050.0,,
+payment:99,2022-07-24T05:23:00.000Z,,,,AmountDMBTR
+payment:99,2022-07-24T05:23:00.000Z,,,,PaymentMethodZLSCH
+payment:291,1970-01-01T00:00:00.000Z,D:Direct Debit,152350.0,,
+payment:291,2023-02-22T02:19:00.000Z,,,,AmountDMBTR
+payment:291,2023-02-22T02:19:00.000Z,,,,PaymentMethodZLSCH
+payment:374,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,16000.0,,
+payment:374,2023-05-10T14:41:00.000Z,,,,AmountDMBTR
+payment:374,2023-05-10T14:41:00.000Z,,,,PaymentMethodZLSCH
+payment:417,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,18300.0,,
+payment:417,2023-06-22T20:45:00.000Z,,,,AmountDMBTR
+payment:417,2023-06-22T20:45:00.000Z,,,,PaymentMethodZLSCH
+payment:713,1970-01-01T00:00:00.000Z,D:Direct Debit,31850.0,,
+payment:713,2024-03-28T12:40:00.000Z,,,,AmountDMBTR
+payment:713,2024-03-28T12:40:00.000Z,,,,PaymentMethodZLSCH
+payment:62,1970-01-01T00:00:00.000Z,C: Bank Collection,65100.0,,
+payment:62,2022-06-11T03:46:00.000Z,,,,AmountDMBTR
+payment:62,2022-06-11T03:46:00.000Z,,,,PaymentMethodZLSCH
+payment:479,1970-01-01T00:00:00.000Z,D:Direct Debit,52200.0,,
+payment:479,2023-08-19T05:24:00.000Z,,,,AmountDMBTR
+payment:479,2023-08-19T05:24:00.000Z,,,,PaymentMethodZLSCH
+payment:337,1970-01-01T00:00:00.000Z,C: Bank Collection,15300.0,,
+payment:337,2023-03-31T22:29:00.000Z,,,,AmountDMBTR
+payment:337,2023-03-31T22:29:00.000Z,,,,PaymentMethodZLSCH
+payment:663,1970-01-01T00:00:00.000Z,D:Direct Debit,94500.0,,
+payment:663,2024-02-12T09:53:00.000Z,,,,AmountDMBTR
+payment:663,2024-02-12T09:53:00.000Z,,,,PaymentMethodZLSCH
+payment:378,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,99400.0,,
+payment:378,2023-05-13T11:58:00.000Z,,,,AmountDMBTR
+payment:378,2023-05-13T11:58:00.000Z,,,,PaymentMethodZLSCH
+payment:175,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,29100.0,,
+payment:175,2022-09-23T09:16:00.000Z,,,,AmountDMBTR
+payment:175,2022-09-23T09:16:00.000Z,,,,PaymentMethodZLSCH
+payment:492,1970-01-01T00:00:00.000Z,C: Bank Collection,25350.0,,
+payment:492,2023-09-11T20:26:00.000Z,,,,AmountDMBTR
+payment:492,2023-09-11T20:26:00.000Z,,,,PaymentMethodZLSCH
+payment:492,2023-09-13T08:30:00.000Z,,,,AmountDMBTR
+payment:492,2023-09-13T08:30:00.000Z,,,,PaymentMethodZLSCH
+payment:108,1970-01-01T00:00:00.000Z,D:Direct Debit,9800.0,,
+payment:108,2022-08-02T02:46:00.000Z,,,,AmountDMBTR
+payment:108,2022-08-02T02:46:00.000Z,,,,PaymentMethodZLSCH
+payment:279,1970-01-01T00:00:00.000Z,C: Bank Collection,50400.0,,
+payment:279,2023-01-30T23:20:00.000Z,,,,AmountDMBTR
+payment:279,2023-01-30T23:20:00.000Z,,,,PaymentMethodZLSCH
+payment:279,2023-02-04T16:46:00.000Z,,,,AmountDMBTR
+payment:279,2023-02-04T16:46:00.000Z,,,,PaymentMethodZLSCH
+payment:151,1970-01-01T00:00:00.000Z,C: Bank Collection,57400.0,,
+payment:151,2022-09-12T01:26:00.000Z,,,,AmountDMBTR
+payment:151,2022-09-12T01:26:00.000Z,,,,PaymentMethodZLSCH
+payment:413,1970-01-01T00:00:00.000Z,C: Bank Collection,275250.0,,
+payment:413,2023-06-18T22:27:00.000Z,,,,AmountDMBTR
+payment:413,2023-06-18T22:27:00.000Z,,,,PaymentMethodZLSCH
+payment:185,1970-01-01T00:00:00.000Z,D:Direct Debit,47350.0,,
+payment:185,2022-09-29T19:22:00.000Z,,,,AmountDMBTR
+payment:185,2022-09-29T19:22:00.000Z,,,,PaymentMethodZLSCH
+payment:381,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9900.0,,
+payment:381,2023-05-20T15:04:00.000Z,,,,AmountDMBTR
+payment:381,2023-05-20T15:04:00.000Z,,,,PaymentMethodZLSCH
+payment:381,2023-05-26T06:10:00.000Z,,,,AmountDMBTR
+payment:381,2023-05-26T06:10:00.000Z,,,,PaymentMethodZLSCH
+payment:636,1970-01-01T00:00:00.000Z,D:Direct Debit,17700.0,,
+payment:636,2024-01-12T06:24:00.000Z,,,,AmountDMBTR
+payment:636,2024-01-12T06:24:00.000Z,,,,PaymentMethodZLSCH
+payment:887,1970-01-01T00:00:00.000Z,C: Bank Collection,9000.0,,
+payment:887,2024-09-22T17:06:00.000Z,,,,AmountDMBTR
+payment:887,2024-09-22T17:06:00.000Z,,,,PaymentMethodZLSCH
+payment:710,1970-01-01T00:00:00.000Z,C: Bank Collection,81300.0,,
+payment:710,2024-03-27T09:48:00.000Z,,,,AmountDMBTR
+payment:710,2024-03-27T09:48:00.000Z,,,,PaymentMethodZLSCH
+payment:370,1970-01-01T00:00:00.000Z,C: Bank Collection,22700.0,,
+payment:370,2023-05-01T11:57:00.000Z,,,,AmountDMBTR
+payment:370,2023-05-01T11:57:00.000Z,,,,PaymentMethodZLSCH
+payment:370,2023-05-03T06:16:00.000Z,,,,AmountDMBTR
+payment:370,2023-05-03T06:16:00.000Z,,,,PaymentMethodZLSCH
+payment:537,1970-01-01T00:00:00.000Z,C: Bank Collection,65100.0,,
+payment:537,2023-10-13T13:43:00.000Z,,,,AmountDMBTR
+payment:537,2023-10-13T13:43:00.000Z,,,,PaymentMethodZLSCH
+payment:410,1970-01-01T00:00:00.000Z,D:Direct Debit,148100.0,,
+payment:410,2023-06-20T05:51:00.000Z,,,,AmountDMBTR
+payment:410,2023-06-20T05:51:00.000Z,,,,PaymentMethodZLSCH
+payment:721,1970-01-01T00:00:00.000Z,D:Direct Debit,31800.0,,
+payment:721,2024-04-16T15:52:00.000Z,,,,AmountDMBTR
+payment:721,2024-04-16T15:52:00.000Z,,,,PaymentMethodZLSCH
+payment:824,1970-01-01T00:00:00.000Z,C: Bank Collection,24850.0,,
+payment:824,2024-07-15T09:27:00.000Z,,,,AmountDMBTR
+payment:824,2024-07-15T09:27:00.000Z,,,,PaymentMethodZLSCH
+payment:322,1970-01-01T00:00:00.000Z,C: Bank Collection,6300.0,,
+payment:322,2023-03-20T13:35:00.000Z,,,,AmountDMBTR
+payment:322,2023-03-20T13:35:00.000Z,,,,PaymentMethodZLSCH
+payment:322,2023-03-20T21:15:00.000Z,,,,AmountDMBTR
+payment:322,2023-03-20T21:15:00.000Z,,,,PaymentMethodZLSCH
+payment:556,1970-01-01T00:00:00.000Z,C: Bank Collection,14200.0,,
+payment:556,2023-11-08T19:27:00.000Z,,,,AmountDMBTR
+payment:556,2023-11-08T19:27:00.000Z,,,,PaymentMethodZLSCH
+payment:556,2023-11-10T03:04:00.000Z,,,,AmountDMBTR
+payment:556,2023-11-10T03:04:00.000Z,,,,PaymentMethodZLSCH
+payment:556,2023-11-21T01:00:00.000Z,,,,AmountDMBTR
+payment:556,2023-11-21T01:00:00.000Z,,,,PaymentMethodZLSCH
+payment:493,1970-01-01T00:00:00.000Z,C: Bank Collection,64500.0,,
+payment:493,2023-09-10T23:49:00.000Z,,,,AmountDMBTR
+payment:493,2023-09-10T23:49:00.000Z,,,,PaymentMethodZLSCH
+payment:414,1970-01-01T00:00:00.000Z,D:Direct Debit,49400.0,,
+payment:414,2023-06-15T22:52:00.000Z,,,,AmountDMBTR
+payment:414,2023-06-15T22:52:00.000Z,,,,PaymentMethodZLSCH
+payment:272,1970-01-01T00:00:00.000Z,C: Bank Collection,112500.0,,
+payment:272,2023-01-22T10:13:00.000Z,,,,AmountDMBTR
+payment:272,2023-01-22T10:13:00.000Z,,,,PaymentMethodZLSCH
+payment:69,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,44700.0,,
+payment:69,2022-06-20T23:00:00.000Z,,,,AmountDMBTR
+payment:69,2022-06-20T23:00:00.000Z,,,,PaymentMethodZLSCH
+payment:832,1970-01-01T00:00:00.000Z,D:Direct Debit,65000.0,,
+payment:832,2024-08-04T16:53:00.000Z,,,,AmountDMBTR
+payment:832,2024-08-04T16:53:00.000Z,,,,PaymentMethodZLSCH
+payment:889,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,83750.0,,
+payment:889,2024-09-21T05:54:00.000Z,,,,AmountDMBTR
+payment:889,2024-09-21T05:54:00.000Z,,,,PaymentMethodZLSCH
+payment:1,1970-01-01T00:00:00.000Z,C: Bank Collection,63900.0,,
+payment:1,2022-04-24T14:58:00.000Z,,,,AmountDMBTR
+payment:1,2022-04-24T14:58:00.000Z,,,,PaymentMethodZLSCH
+payment:752,1970-01-01T00:00:00.000Z,C: Bank Collection,60800.0,,
+payment:752,2024-05-10T20:18:00.000Z,,,,AmountDMBTR
+payment:752,2024-05-10T20:18:00.000Z,,,,PaymentMethodZLSCH
+payment:156,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,86800.0,,
+payment:156,2022-09-15T02:10:00.000Z,,,,AmountDMBTR
+payment:156,2022-09-15T02:10:00.000Z,,,,PaymentMethodZLSCH
+payment:668,1970-01-01T00:00:00.000Z,C: Bank Collection,37650.0,,
+payment:668,2024-02-22T02:20:00.000Z,,,,AmountDMBTR
+payment:668,2024-02-22T02:20:00.000Z,,,,PaymentMethodZLSCH
+payment:509,1970-01-01T00:00:00.000Z,C: Bank Collection,100100.0,,
+payment:509,2023-09-21T13:43:00.000Z,,,,AmountDMBTR
+payment:509,2023-09-21T13:43:00.000Z,,,,PaymentMethodZLSCH
+payment:509,2023-09-21T14:45:00.000Z,,,,AmountDMBTR
+payment:509,2023-09-21T14:45:00.000Z,,,,PaymentMethodZLSCH
+payment:303,1970-01-01T00:00:00.000Z,C: Bank Collection,136300.0,,
+payment:303,2023-02-24T16:39:00.000Z,,,,AmountDMBTR
+payment:303,2023-02-24T16:39:00.000Z,,,,PaymentMethodZLSCH
+payment:303,2023-02-27T14:21:00.000Z,,,,AmountDMBTR
+payment:303,2023-02-27T14:21:00.000Z,,,,PaymentMethodZLSCH
+payment:439,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,181050.0,,
+payment:439,2023-07-20T15:54:00.000Z,,,,AmountDMBTR
+payment:439,2023-07-20T15:54:00.000Z,,,,PaymentMethodZLSCH
+payment:226,1970-01-01T00:00:00.000Z,C: Bank Collection,18850.0,,
+payment:226,2022-11-13T05:25:00.000Z,,,,AmountDMBTR
+payment:226,2022-11-13T05:25:00.000Z,,,,PaymentMethodZLSCH
+payment:795,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,5400.0,,
+payment:795,2024-06-12T14:36:00.000Z,,,,AmountDMBTR
+payment:795,2024-06-12T14:36:00.000Z,,,,PaymentMethodZLSCH
+payment:364,1970-01-01T00:00:00.000Z,D:Direct Debit,31500.0,,
+payment:364,2023-04-28T11:10:00.000Z,,,,AmountDMBTR
+payment:364,2023-04-28T11:10:00.000Z,,,,PaymentMethodZLSCH
+payment:394,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,21000.0,,
+payment:394,2023-06-04T00:58:00.000Z,,,,AmountDMBTR
+payment:394,2023-06-04T00:58:00.000Z,,,,PaymentMethodZLSCH
+payment:43,1970-01-01T00:00:00.000Z,D:Direct Debit,34500.0,,
+payment:43,2022-06-02T11:13:00.000Z,,,,AmountDMBTR
+payment:43,2022-06-02T11:13:00.000Z,,,,PaymentMethodZLSCH
+payment:43,2022-06-03T15:09:00.000Z,,,,AmountDMBTR
+payment:43,2022-06-03T15:09:00.000Z,,,,PaymentMethodZLSCH
+payment:282,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,38600.0,,
+payment:282,2023-02-06T22:19:00.000Z,,,,AmountDMBTR
+payment:282,2023-02-06T22:19:00.000Z,,,,PaymentMethodZLSCH
+payment:267,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,80400.0,,
+payment:267,2023-01-15T14:18:00.000Z,,,,AmountDMBTR
+payment:267,2023-01-15T14:18:00.000Z,,,,PaymentMethodZLSCH
+payment:267,2023-01-18T05:00:00.000Z,,,,AmountDMBTR
+payment:267,2023-01-18T05:00:00.000Z,,,,PaymentMethodZLSCH
+payment:689,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,56550.0,,
+payment:689,2024-03-04T13:01:00.000Z,,,,AmountDMBTR
+payment:689,2024-03-04T13:01:00.000Z,,,,PaymentMethodZLSCH
+payment:328,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,3400.0,,
+payment:328,2023-03-16T17:09:00.000Z,,,,AmountDMBTR
+payment:328,2023-03-16T17:09:00.000Z,,,,PaymentMethodZLSCH
+payment:914,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,3750.0,,
+payment:914,2024-10-16T04:08:00.000Z,,,,AmountDMBTR
+payment:914,2024-10-16T04:08:00.000Z,,,,PaymentMethodZLSCH
+payment:87,1970-01-01T00:00:00.000Z,D:Direct Debit,251100.0,,
+payment:87,2022-07-05T13:12:00.000Z,,,,AmountDMBTR
+payment:87,2022-07-05T13:12:00.000Z,,,,PaymentMethodZLSCH
+payment:87,2022-07-08T02:09:00.000Z,,,,AmountDMBTR
+payment:87,2022-07-08T02:09:00.000Z,,,,PaymentMethodZLSCH
+payment:95,1970-01-01T00:00:00.000Z,D:Direct Debit,29150.0,,
+payment:95,2022-07-14T02:35:00.000Z,,,,AmountDMBTR
+payment:95,2022-07-14T02:35:00.000Z,,,,PaymentMethodZLSCH
+payment:759,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,18250.0,,
+payment:759,2024-05-14T13:29:00.000Z,,,,AmountDMBTR
+payment:759,2024-05-14T13:29:00.000Z,,,,PaymentMethodZLSCH
+payment:477,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,750.0,,
+payment:477,2023-08-16T01:06:00.000Z,,,,AmountDMBTR
+payment:477,2023-08-16T01:06:00.000Z,,,,PaymentMethodZLSCH
+payment:465,1970-01-01T00:00:00.000Z,C: Bank Collection,24400.0,,
+payment:465,2023-08-12T11:15:00.000Z,,,,AmountDMBTR
+payment:465,2023-08-12T11:15:00.000Z,,,,PaymentMethodZLSCH
+payment:558,1970-01-01T00:00:00.000Z,D:Direct Debit,18000.0,,
+payment:558,2023-11-11T01:52:00.000Z,,,,AmountDMBTR
+payment:558,2023-11-11T01:52:00.000Z,,,,PaymentMethodZLSCH
+payment:666,1970-01-01T00:00:00.000Z,D:Direct Debit,19950.0,,
+payment:666,2024-02-13T19:23:00.000Z,,,,AmountDMBTR
+payment:666,2024-02-13T19:23:00.000Z,,,,PaymentMethodZLSCH
+payment:666,2024-02-18T12:14:00.000Z,,,,AmountDMBTR
+payment:666,2024-02-18T12:14:00.000Z,,,,PaymentMethodZLSCH
+payment:834,1970-01-01T00:00:00.000Z,C: Bank Collection,60750.0,,
+payment:834,2024-07-22T15:19:00.000Z,,,,AmountDMBTR
+payment:834,2024-07-22T15:19:00.000Z,,,,PaymentMethodZLSCH
+payment:606,1970-01-01T00:00:00.000Z,D:Direct Debit,21850.0,,
+payment:606,2023-12-27T01:23:00.000Z,,,,AmountDMBTR
+payment:606,2023-12-27T01:23:00.000Z,,,,PaymentMethodZLSCH
+payment:346,1970-01-01T00:00:00.000Z,D:Direct Debit,9150.0,,
+payment:346,2023-04-07T23:36:00.000Z,,,,AmountDMBTR
+payment:346,2023-04-07T23:36:00.000Z,,,,PaymentMethodZLSCH
+payment:340,1970-01-01T00:00:00.000Z,D:Direct Debit,82950.0,,
+payment:340,2023-04-05T15:46:00.000Z,,,,AmountDMBTR
+payment:340,2023-04-05T15:46:00.000Z,,,,PaymentMethodZLSCH
+payment:347,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,112650.0,,
+payment:347,2023-04-09T05:42:00.000Z,,,,AmountDMBTR
+payment:347,2023-04-09T05:42:00.000Z,,,,PaymentMethodZLSCH
+payment:234,1970-01-01T00:00:00.000Z,C: Bank Collection,81700.0,,
+payment:234,2022-11-29T21:21:00.000Z,,,,AmountDMBTR
+payment:234,2022-11-29T21:21:00.000Z,,,,PaymentMethodZLSCH
+payment:412,1970-01-01T00:00:00.000Z,D:Direct Debit,4900.0,,
+payment:412,2023-06-20T19:30:00.000Z,,,,AmountDMBTR
+payment:412,2023-06-20T19:30:00.000Z,,,,PaymentMethodZLSCH
+payment:412,2023-06-22T02:10:00.000Z,,,,AmountDMBTR
+payment:412,2023-06-22T02:10:00.000Z,,,,PaymentMethodZLSCH
+payment:557,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,89450.0,,
+payment:557,2023-11-14T16:40:00.000Z,,,,AmountDMBTR
+payment:557,2023-11-14T16:40:00.000Z,,,,PaymentMethodZLSCH
+payment:24,1970-01-01T00:00:00.000Z,C: Bank Collection,38000.0,,
+payment:24,2022-05-15T08:37:00.000Z,,,,AmountDMBTR
+payment:24,2022-05-15T08:37:00.000Z,,,,PaymentMethodZLSCH
+payment:741,1970-01-01T00:00:00.000Z,C: Bank Collection,69300.0,,
+payment:741,2024-05-01T13:53:00.000Z,,,,AmountDMBTR
+payment:741,2024-05-01T13:53:00.000Z,,,,PaymentMethodZLSCH
+payment:323,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,23400.0,,
+payment:323,2023-03-18T05:59:00.000Z,,,,AmountDMBTR
+payment:323,2023-03-18T05:59:00.000Z,,,,PaymentMethodZLSCH
+payment:596,1970-01-01T00:00:00.000Z,D:Direct Debit,252950.0,,
+payment:596,2023-12-14T22:13:00.000Z,,,,AmountDMBTR
+payment:596,2023-12-14T22:13:00.000Z,,,,PaymentMethodZLSCH
+payment:640,1970-01-01T00:00:00.000Z,C: Bank Collection,4200.0,,
+payment:640,2024-01-12T16:11:00.000Z,,,,AmountDMBTR
+payment:640,2024-01-12T16:11:00.000Z,,,,PaymentMethodZLSCH
+payment:224,1970-01-01T00:00:00.000Z,C: Bank Collection,222400.0,,
+payment:224,2022-11-13T01:15:00.000Z,,,,AmountDMBTR
+payment:224,2022-11-13T01:15:00.000Z,,,,PaymentMethodZLSCH
+payment:691,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,127200.0,,
+payment:691,2024-03-07T19:56:00.000Z,,,,AmountDMBTR
+payment:691,2024-03-07T19:56:00.000Z,,,,PaymentMethodZLSCH
+payment:616,1970-01-01T00:00:00.000Z,C: Bank Collection,83600.0,,
+payment:616,2024-01-01T04:26:00.000Z,,,,AmountDMBTR
+payment:616,2024-01-01T04:26:00.000Z,,,,PaymentMethodZLSCH
+payment:481,1970-01-01T00:00:00.000Z,D:Direct Debit,216050.0,,
+payment:481,2023-08-22T09:49:00.000Z,,,,AmountDMBTR
+payment:481,2023-08-22T09:49:00.000Z,,,,PaymentMethodZLSCH
+payment:481,2023-08-22T10:46:00.000Z,,,,AmountDMBTR
+payment:481,2023-08-22T10:46:00.000Z,,,,PaymentMethodZLSCH
+payment:711,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,155550.0,,
+payment:711,2024-03-27T21:33:00.000Z,,,,AmountDMBTR
+payment:711,2024-03-27T21:33:00.000Z,,,,PaymentMethodZLSCH
+payment:391,1970-01-01T00:00:00.000Z,D:Direct Debit,12800.0,,
+payment:391,2023-06-08T03:03:00.000Z,,,,AmountDMBTR
+payment:391,2023-06-08T03:03:00.000Z,,,,PaymentMethodZLSCH
+payment:131,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,100100.0,,
+payment:131,2022-08-23T13:10:00.000Z,,,,AmountDMBTR
+payment:131,2022-08-23T13:10:00.000Z,,,,PaymentMethodZLSCH
+payment:736,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,100800.0,,
+payment:736,2024-04-27T06:39:00.000Z,,,,AmountDMBTR
+payment:736,2024-04-27T06:39:00.000Z,,,,PaymentMethodZLSCH
+payment:430,1970-01-01T00:00:00.000Z,D:Direct Debit,11550.0,,
+payment:430,2023-07-06T06:09:00.000Z,,,,AmountDMBTR
+payment:430,2023-07-06T06:09:00.000Z,,,,PaymentMethodZLSCH
+payment:402,1970-01-01T00:00:00.000Z,C: Bank Collection,60750.0,,
+payment:402,2023-06-04T03:08:00.000Z,,,,AmountDMBTR
+payment:402,2023-06-04T03:08:00.000Z,,,,PaymentMethodZLSCH
+payment:576,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,21000.0,,
+payment:576,2023-12-03T12:43:00.000Z,,,,AmountDMBTR
+payment:576,2023-12-03T12:43:00.000Z,,,,PaymentMethodZLSCH
+payment:242,1970-01-01T00:00:00.000Z,D:Direct Debit,38400.0,,
+payment:242,2022-12-15T03:21:00.000Z,,,,AmountDMBTR
+payment:242,2022-12-15T03:21:00.000Z,,,,PaymentMethodZLSCH
+payment:590,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,17000.0,,
+payment:590,2023-12-10T20:04:00.000Z,,,,AmountDMBTR
+payment:590,2023-12-10T20:04:00.000Z,,,,PaymentMethodZLSCH
+payment:184,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,105000.0,,
+payment:184,2022-09-27T08:02:00.000Z,,,,AmountDMBTR
+payment:184,2022-09-27T08:02:00.000Z,,,,PaymentMethodZLSCH
+payment:222,1970-01-01T00:00:00.000Z,D:Direct Debit,87450.0,,
+payment:222,2022-11-04T19:45:00.000Z,,,,AmountDMBTR
+payment:222,2022-11-04T19:45:00.000Z,,,,PaymentMethodZLSCH
+payment:571,1970-01-01T00:00:00.000Z,D:Direct Debit,39900.0,,
+payment:571,2023-11-28T22:34:00.000Z,,,,AmountDMBTR
+payment:571,2023-11-28T22:34:00.000Z,,,,PaymentMethodZLSCH
+payment:453,1970-01-01T00:00:00.000Z,D:Direct Debit,15400.0,,
+payment:453,2023-08-01T21:36:00.000Z,,,,AmountDMBTR
+payment:453,2023-08-01T21:36:00.000Z,,,,PaymentMethodZLSCH
+payment:623,1970-01-01T00:00:00.000Z,C: Bank Collection,28700.0,,
+payment:623,2024-01-06T02:46:00.000Z,,,,AmountDMBTR
+payment:623,2024-01-06T02:46:00.000Z,,,,PaymentMethodZLSCH
+payment:623,2024-01-09T08:23:00.000Z,,,,AmountDMBTR
+payment:623,2024-01-09T08:23:00.000Z,,,,PaymentMethodZLSCH
+payment:76,1970-01-01T00:00:00.000Z,C: Bank Collection,78400.0,,
+payment:76,2022-06-29T05:31:00.000Z,,,,AmountDMBTR
+payment:76,2022-06-29T05:31:00.000Z,,,,PaymentMethodZLSCH
+payment:76,2022-07-04T01:18:00.000Z,,,,AmountDMBTR
+payment:76,2022-07-04T01:18:00.000Z,,,,PaymentMethodZLSCH
+payment:483,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27900.0,,
+payment:483,2023-08-26T17:55:00.000Z,,,,AmountDMBTR
+payment:483,2023-08-26T17:55:00.000Z,,,,PaymentMethodZLSCH
+payment:900,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,85500.0,,
+payment:900,2024-10-01T08:06:00.000Z,,,,AmountDMBTR
+payment:900,2024-10-01T08:06:00.000Z,,,,PaymentMethodZLSCH
+payment:900,2024-10-07T00:14:00.000Z,,,,AmountDMBTR
+payment:900,2024-10-07T00:14:00.000Z,,,,PaymentMethodZLSCH
+payment:379,1970-01-01T00:00:00.000Z,D:Direct Debit,95000.0,,
+payment:379,2023-05-18T06:21:00.000Z,,,,AmountDMBTR
+payment:379,2023-05-18T06:21:00.000Z,,,,PaymentMethodZLSCH
+payment:88,1970-01-01T00:00:00.000Z,C: Bank Collection,40800.0,,
+payment:88,2022-07-15T07:31:00.000Z,,,,AmountDMBTR
+payment:88,2022-07-15T07:31:00.000Z,,,,PaymentMethodZLSCH
+payment:707,1970-01-01T00:00:00.000Z,D:Direct Debit,26600.0,,
+payment:707,2024-03-20T12:40:00.000Z,,,,AmountDMBTR
+payment:707,2024-03-20T12:40:00.000Z,,,,PaymentMethodZLSCH
+payment:480,1970-01-01T00:00:00.000Z,D:Direct Debit,700.0,,
+payment:480,2023-08-24T08:40:00.000Z,,,,AmountDMBTR
+payment:480,2023-08-24T08:40:00.000Z,,,,PaymentMethodZLSCH
+payment:823,1970-01-01T00:00:00.000Z,D:Direct Debit,90000.0,,
+payment:823,2024-07-15T20:47:00.000Z,,,,AmountDMBTR
+payment:823,2024-07-15T20:47:00.000Z,,,,PaymentMethodZLSCH
+payment:144,1970-01-01T00:00:00.000Z,C: Bank Collection,11200.0,,
+payment:144,2022-09-06T08:52:00.000Z,,,,AmountDMBTR
+payment:144,2022-09-06T08:52:00.000Z,,,,PaymentMethodZLSCH
+payment:3,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,4500.0,,
+payment:3,2022-04-21T12:36:00.000Z,,,,AmountDMBTR
+payment:3,2022-04-21T12:36:00.000Z,,,,PaymentMethodZLSCH
+payment:613,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,89300.0,,
+payment:613,2024-01-04T04:03:00.000Z,,,,AmountDMBTR
+payment:613,2024-01-04T04:03:00.000Z,,,,PaymentMethodZLSCH
+payment:613,2024-01-14T04:53:00.000Z,,,,AmountDMBTR
+payment:613,2024-01-14T04:53:00.000Z,,,,PaymentMethodZLSCH
+payment:244,1970-01-01T00:00:00.000Z,C: Bank Collection,133300.0,,
+payment:244,2022-12-15T22:23:00.000Z,,,,AmountDMBTR
+payment:244,2022-12-15T22:23:00.000Z,,,,PaymentMethodZLSCH
+payment:212,1970-01-01T00:00:00.000Z,C: Bank Collection,131250.0,,
+payment:212,2022-10-26T09:41:00.000Z,,,,AmountDMBTR
+payment:212,2022-10-26T09:41:00.000Z,,,,PaymentMethodZLSCH
+payment:304,1970-01-01T00:00:00.000Z,C: Bank Collection,112900.0,,
+payment:304,2023-03-04T23:32:00.000Z,,,,AmountDMBTR
+payment:304,2023-03-04T23:32:00.000Z,,,,PaymentMethodZLSCH
+payment:304,2023-03-06T18:31:00.000Z,,,,AmountDMBTR
+payment:304,2023-03-06T18:31:00.000Z,,,,PaymentMethodZLSCH
+payment:845,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24500.0,,
+payment:845,2024-07-29T18:05:00.000Z,,,,AmountDMBTR
+payment:845,2024-07-29T18:05:00.000Z,,,,PaymentMethodZLSCH
+payment:883,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,25800.0,,
+payment:883,2024-10-01T09:25:00.000Z,,,,AmountDMBTR
+payment:883,2024-10-01T09:25:00.000Z,,,,PaymentMethodZLSCH
+payment:883,2024-10-04T07:00:00.000Z,,,,AmountDMBTR
+payment:883,2024-10-04T07:00:00.000Z,,,,PaymentMethodZLSCH
+payment:405,1970-01-01T00:00:00.000Z,C: Bank Collection,14500.0,,
+payment:405,2023-06-08T20:06:00.000Z,,,,AmountDMBTR
+payment:405,2023-06-08T20:06:00.000Z,,,,PaymentMethodZLSCH
+payment:354,1970-01-01T00:00:00.000Z,D:Direct Debit,18900.0,,
+payment:354,2023-04-20T02:02:00.000Z,,,,AmountDMBTR
+payment:354,2023-04-20T02:02:00.000Z,,,,PaymentMethodZLSCH
+payment:94,1970-01-01T00:00:00.000Z,D:Direct Debit,109200.0,,
+payment:94,2022-07-12T18:59:00.000Z,,,,AmountDMBTR
+payment:94,2022-07-12T18:59:00.000Z,,,,PaymentMethodZLSCH
+payment:94,2022-07-13T23:25:00.000Z,,,,AmountDMBTR
+payment:94,2022-07-13T23:25:00.000Z,,,,PaymentMethodZLSCH
+payment:550,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,3450.0,,
+payment:550,2023-10-31T00:47:00.000Z,,,,AmountDMBTR
+payment:550,2023-10-31T00:47:00.000Z,,,,PaymentMethodZLSCH
+payment:64,1970-01-01T00:00:00.000Z,C: Bank Collection,102900.0,,
+payment:64,2022-06-12T06:48:00.000Z,,,,AmountDMBTR
+payment:64,2022-06-12T06:48:00.000Z,,,,PaymentMethodZLSCH
+payment:64,2022-06-23T16:08:00.000Z,,,,AmountDMBTR
+payment:64,2022-06-23T16:08:00.000Z,,,,PaymentMethodZLSCH
+payment:720,1970-01-01T00:00:00.000Z,C: Bank Collection,109250.0,,
+payment:720,2024-04-09T03:44:00.000Z,,,,AmountDMBTR
+payment:720,2024-04-09T03:44:00.000Z,,,,PaymentMethodZLSCH
+payment:746,1970-01-01T00:00:00.000Z,D:Direct Debit,104400.0,,
+payment:746,2024-05-05T02:21:00.000Z,,,,AmountDMBTR
+payment:746,2024-05-05T02:21:00.000Z,,,,PaymentMethodZLSCH
+payment:561,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,160700.0,,
+payment:561,2023-11-18T03:38:00.000Z,,,,AmountDMBTR
+payment:561,2023-11-18T03:38:00.000Z,,,,PaymentMethodZLSCH
+payment:740,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,54000.0,,
+payment:740,2024-04-26T02:45:00.000Z,,,,AmountDMBTR
+payment:740,2024-04-26T02:45:00.000Z,,,,PaymentMethodZLSCH
+payment:740,2024-04-26T13:27:00.000Z,,,,AmountDMBTR
+payment:740,2024-04-26T13:27:00.000Z,,,,PaymentMethodZLSCH
+payment:740,2024-05-02T16:47:00.000Z,,,,AmountDMBTR
+payment:740,2024-05-02T16:47:00.000Z,,,,PaymentMethodZLSCH
+payment:738,1970-01-01T00:00:00.000Z,C: Bank Collection,20900.0,,
+payment:738,2024-05-01T06:34:00.000Z,,,,AmountDMBTR
+payment:738,2024-05-01T06:34:00.000Z,,,,PaymentMethodZLSCH
+payment:407,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,32900.0,,
+payment:407,2023-06-10T13:46:00.000Z,,,,AmountDMBTR
+payment:407,2023-06-10T13:46:00.000Z,,,,PaymentMethodZLSCH
+payment:694,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9750.0,,
+payment:694,2024-03-12T04:25:00.000Z,,,,AmountDMBTR
+payment:694,2024-03-12T04:25:00.000Z,,,,PaymentMethodZLSCH
+payment:849,1970-01-01T00:00:00.000Z,D:Direct Debit,21600.0,,
+payment:849,2024-08-04T05:25:00.000Z,,,,AmountDMBTR
+payment:849,2024-08-04T05:25:00.000Z,,,,PaymentMethodZLSCH
+payment:528,1970-01-01T00:00:00.000Z,D:Direct Debit,1000.0,,
+payment:528,2023-09-29T17:48:00.000Z,,,,AmountDMBTR
+payment:528,2023-09-29T17:48:00.000Z,,,,PaymentMethodZLSCH
+payment:734,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,111250.0,,
+payment:734,2024-04-27T11:10:00.000Z,,,,AmountDMBTR
+payment:734,2024-04-27T11:10:00.000Z,,,,PaymentMethodZLSCH
+payment:499,1970-01-01T00:00:00.000Z,D:Direct Debit,19950.0,,
+payment:499,2023-09-09T00:12:00.000Z,,,,AmountDMBTR
+payment:499,2023-09-09T00:12:00.000Z,,,,PaymentMethodZLSCH
+payment:642,1970-01-01T00:00:00.000Z,C: Bank Collection,97350.0,,
+payment:642,2024-01-18T12:52:00.000Z,,,,AmountDMBTR
+payment:642,2024-01-18T12:52:00.000Z,,,,PaymentMethodZLSCH
+payment:755,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,130200.0,,
+payment:755,2024-05-10T23:59:00.000Z,,,,AmountDMBTR
+payment:755,2024-05-10T23:59:00.000Z,,,,PaymentMethodZLSCH
+payment:598,1970-01-01T00:00:00.000Z,D:Direct Debit,71750.0,,
+payment:598,2023-12-17T13:48:00.000Z,,,,AmountDMBTR
+payment:598,2023-12-17T13:48:00.000Z,,,,PaymentMethodZLSCH
+payment:90,1970-01-01T00:00:00.000Z,D:Direct Debit,232650.0,,
+payment:90,2022-07-09T09:54:00.000Z,,,,AmountDMBTR
+payment:90,2022-07-09T09:54:00.000Z,,,,PaymentMethodZLSCH
+payment:373,1970-01-01T00:00:00.000Z,C: Bank Collection,48000.0,,
+payment:373,2023-05-09T05:57:00.000Z,,,,AmountDMBTR
+payment:373,2023-05-09T05:57:00.000Z,,,,PaymentMethodZLSCH
+payment:577,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,11700.0,,
+payment:577,2023-11-29T01:46:00.000Z,,,,AmountDMBTR
+payment:577,2023-11-29T01:46:00.000Z,,,,PaymentMethodZLSCH
+payment:486,1970-01-01T00:00:00.000Z,D:Direct Debit,15000.0,,
+payment:486,2023-08-30T11:40:00.000Z,,,,AmountDMBTR
+payment:486,2023-08-30T11:40:00.000Z,,,,PaymentMethodZLSCH
+payment:542,1970-01-01T00:00:00.000Z,C: Bank Collection,133750.0,,
+payment:542,2023-10-16T12:47:00.000Z,,,,AmountDMBTR
+payment:542,2023-10-16T12:47:00.000Z,,,,PaymentMethodZLSCH
+payment:816,1970-01-01T00:00:00.000Z,D:Direct Debit,112800.0,,
+payment:816,2024-07-05T13:22:00.000Z,,,,AmountDMBTR
+payment:816,2024-07-05T13:22:00.000Z,,,,PaymentMethodZLSCH
+payment:611,1970-01-01T00:00:00.000Z,C: Bank Collection,47600.0,,
+payment:611,2023-12-26T08:43:00.000Z,,,,AmountDMBTR
+payment:611,2023-12-26T08:43:00.000Z,,,,PaymentMethodZLSCH
+payment:522,1970-01-01T00:00:00.000Z,D:Direct Debit,67600.0,,
+payment:522,2023-09-26T03:40:00.000Z,,,,AmountDMBTR
+payment:522,2023-09-26T03:40:00.000Z,,,,PaymentMethodZLSCH
+payment:116,1970-01-01T00:00:00.000Z,D:Direct Debit,15000.0,,
+payment:116,2022-08-08T20:09:00.000Z,,,,AmountDMBTR
+payment:116,2022-08-08T20:09:00.000Z,,,,PaymentMethodZLSCH
+payment:918,1970-01-01T00:00:00.000Z,C: Bank Collection,72200.0,,
+payment:918,2024-10-11T04:40:00.000Z,,,,AmountDMBTR
+payment:918,2024-10-11T04:40:00.000Z,,,,PaymentMethodZLSCH
+payment:532,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,124200.0,,
+payment:532,2023-10-08T21:41:00.000Z,,,,AmountDMBTR
+payment:532,2023-10-08T21:41:00.000Z,,,,PaymentMethodZLSCH
+payment:532,2023-10-11T15:59:00.000Z,,,,AmountDMBTR
+payment:532,2023-10-11T15:59:00.000Z,,,,PaymentMethodZLSCH
+payment:877,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,90700.0,,
+payment:877,2024-09-15T07:50:00.000Z,,,,AmountDMBTR
+payment:877,2024-09-15T07:50:00.000Z,,,,PaymentMethodZLSCH
+payment:846,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,1950.0,,
+payment:846,2024-07-30T19:59:00.000Z,,,,AmountDMBTR
+payment:846,2024-07-30T19:59:00.000Z,,,,PaymentMethodZLSCH
+payment:725,1970-01-01T00:00:00.000Z,D:Direct Debit,36250.0,,
+payment:725,2024-04-20T03:39:00.000Z,,,,AmountDMBTR
+payment:725,2024-04-20T03:39:00.000Z,,,,PaymentMethodZLSCH
+payment:725,2024-04-22T20:04:00.000Z,,,,AmountDMBTR
+payment:725,2024-04-22T20:04:00.000Z,,,,PaymentMethodZLSCH
+payment:311,1970-01-01T00:00:00.000Z,D:Direct Debit,78100.0,,
+payment:311,2023-03-12T21:23:00.000Z,,,,AmountDMBTR
+payment:311,2023-03-12T21:23:00.000Z,,,,PaymentMethodZLSCH
+payment:205,1970-01-01T00:00:00.000Z,D:Direct Debit,42250.0,,
+payment:205,2022-10-20T13:27:00.000Z,,,,AmountDMBTR
+payment:205,2022-10-20T13:27:00.000Z,,,,PaymentMethodZLSCH
+payment:142,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,36250.0,,
+payment:142,2022-09-01T07:43:00.000Z,,,,AmountDMBTR
+payment:142,2022-09-01T07:43:00.000Z,,,,PaymentMethodZLSCH
+payment:485,1970-01-01T00:00:00.000Z,D:Direct Debit,92750.0,,
+payment:485,2023-08-27T19:42:00.000Z,,,,AmountDMBTR
+payment:485,2023-08-27T19:42:00.000Z,,,,PaymentMethodZLSCH
+payment:287,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40500.0,,
+payment:287,2023-02-15T11:29:00.000Z,,,,AmountDMBTR
+payment:287,2023-02-15T11:29:00.000Z,,,,PaymentMethodZLSCH
+payment:735,1970-01-01T00:00:00.000Z,D:Direct Debit,50050.0,,
+payment:735,2024-04-23T07:53:00.000Z,,,,AmountDMBTR
+payment:735,2024-04-23T07:53:00.000Z,,,,PaymentMethodZLSCH
+payment:332,1970-01-01T00:00:00.000Z,D:Direct Debit,36400.0,,
+payment:332,2023-03-23T06:18:00.000Z,,,,AmountDMBTR
+payment:332,2023-03-23T06:18:00.000Z,,,,PaymentMethodZLSCH
+payment:276,1970-01-01T00:00:00.000Z,C: Bank Collection,13000.0,,
+payment:276,2023-01-26T16:20:00.000Z,,,,AmountDMBTR
+payment:276,2023-01-26T16:20:00.000Z,,,,PaymentMethodZLSCH
+payment:436,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,198450.0,,
+payment:436,2023-07-11T00:23:00.000Z,,,,AmountDMBTR
+payment:436,2023-07-11T00:23:00.000Z,,,,PaymentMethodZLSCH
+payment:436,2023-07-11T12:00:00.000Z,,,,AmountDMBTR
+payment:436,2023-07-11T12:00:00.000Z,,,,PaymentMethodZLSCH
+payment:325,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,67100.0,,
+payment:325,2023-03-15T11:32:00.000Z,,,,AmountDMBTR
+payment:325,2023-03-15T11:32:00.000Z,,,,PaymentMethodZLSCH
+payment:648,1970-01-01T00:00:00.000Z,C: Bank Collection,25900.0,,
+payment:648,2024-01-27T16:01:00.000Z,,,,AmountDMBTR
+payment:648,2024-01-27T16:01:00.000Z,,,,PaymentMethodZLSCH
+payment:648,2024-02-02T18:43:00.000Z,,,,AmountDMBTR
+payment:648,2024-02-02T18:43:00.000Z,,,,PaymentMethodZLSCH
+payment:648,2024-02-13T11:18:00.000Z,,,,AmountDMBTR
+payment:648,2024-02-13T11:18:00.000Z,,,,PaymentMethodZLSCH
+payment:258,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,128050.0,,
+payment:258,2023-01-04T17:47:00.000Z,,,,AmountDMBTR
+payment:258,2023-01-04T17:47:00.000Z,,,,PaymentMethodZLSCH
+payment:403,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,89000.0,,
+payment:403,2023-06-05T17:28:00.000Z,,,,AmountDMBTR
+payment:403,2023-06-05T17:28:00.000Z,,,,PaymentMethodZLSCH
+payment:46,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,22750.0,,
+payment:46,2022-06-05T11:59:00.000Z,,,,AmountDMBTR
+payment:46,2022-06-05T11:59:00.000Z,,,,PaymentMethodZLSCH
+payment:737,1970-01-01T00:00:00.000Z,D:Direct Debit,27250.0,,
+payment:737,2024-04-25T14:31:00.000Z,,,,AmountDMBTR
+payment:737,2024-04-25T14:31:00.000Z,,,,PaymentMethodZLSCH
+payment:203,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,35900.0,,
+payment:203,2022-10-21T10:07:00.000Z,,,,AmountDMBTR
+payment:203,2022-10-21T10:07:00.000Z,,,,PaymentMethodZLSCH
+payment:363,1970-01-01T00:00:00.000Z,D:Direct Debit,185900.0,,
+payment:363,2023-04-24T09:52:00.000Z,,,,AmountDMBTR
+payment:363,2023-04-24T09:52:00.000Z,,,,PaymentMethodZLSCH
+payment:555,1970-01-01T00:00:00.000Z,C: Bank Collection,44200.0,,
+payment:555,2023-11-03T15:08:00.000Z,,,,AmountDMBTR
+payment:555,2023-11-03T15:08:00.000Z,,,,PaymentMethodZLSCH
+payment:454,1970-01-01T00:00:00.000Z,D:Direct Debit,21750.0,,
+payment:454,2023-08-01T08:43:00.000Z,,,,AmountDMBTR
+payment:454,2023-08-01T08:43:00.000Z,,,,PaymentMethodZLSCH
+payment:654,1970-01-01T00:00:00.000Z,C: Bank Collection,53300.0,,
+payment:654,2024-02-16T22:02:00.000Z,,,,AmountDMBTR
+payment:654,2024-02-16T22:02:00.000Z,,,,PaymentMethodZLSCH
+payment:654,2024-02-23T04:55:00.000Z,,,,AmountDMBTR
+payment:654,2024-02-23T04:55:00.000Z,,,,PaymentMethodZLSCH
+payment:68,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,64000.0,,
+payment:68,2022-06-16T05:49:00.000Z,,,,AmountDMBTR
+payment:68,2022-06-16T05:49:00.000Z,,,,PaymentMethodZLSCH
+payment:263,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,42900.0,,
+payment:263,2023-01-13T04:03:00.000Z,,,,AmountDMBTR
+payment:263,2023-01-13T04:03:00.000Z,,,,PaymentMethodZLSCH
+payment:263,2023-01-19T06:44:00.000Z,,,,AmountDMBTR
+payment:263,2023-01-19T06:44:00.000Z,,,,PaymentMethodZLSCH
+payment:275,1970-01-01T00:00:00.000Z,C: Bank Collection,26000.0,,
+payment:275,2023-01-27T06:30:00.000Z,,,,AmountDMBTR
+payment:275,2023-01-27T06:30:00.000Z,,,,PaymentMethodZLSCH
+payment:275,2023-01-27T16:34:00.000Z,,,,AmountDMBTR
+payment:275,2023-01-27T16:34:00.000Z,,,,PaymentMethodZLSCH
+payment:47,1970-01-01T00:00:00.000Z,D:Direct Debit,38850.0,,
+payment:47,2022-06-01T22:19:00.000Z,,,,AmountDMBTR
+payment:47,2022-06-01T22:19:00.000Z,,,,PaymentMethodZLSCH
+payment:218,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,78950.0,,
+payment:218,2022-10-26T21:11:00.000Z,,,,AmountDMBTR
+payment:218,2022-10-26T21:11:00.000Z,,,,PaymentMethodZLSCH
+payment:503,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,93450.0,,
+payment:503,2023-09-11T10:34:00.000Z,,,,AmountDMBTR
+payment:503,2023-09-11T10:34:00.000Z,,,,PaymentMethodZLSCH
+payment:719,1970-01-01T00:00:00.000Z,D:Direct Debit,47250.0,,
+payment:719,2024-04-06T18:25:00.000Z,,,,AmountDMBTR
+payment:719,2024-04-06T18:25:00.000Z,,,,PaymentMethodZLSCH
+payment:352,1970-01-01T00:00:00.000Z,C: Bank Collection,18450.0,,
+payment:352,2023-04-11T02:53:00.000Z,,,,AmountDMBTR
+payment:352,2023-04-11T02:53:00.000Z,,,,PaymentMethodZLSCH
+payment:190,1970-01-01T00:00:00.000Z,C: Bank Collection,25500.0,,
+payment:190,2022-10-01T15:43:00.000Z,,,,AmountDMBTR
+payment:190,2022-10-01T15:43:00.000Z,,,,PaymentMethodZLSCH
+payment:190,2022-10-03T13:43:00.000Z,,,,AmountDMBTR
+payment:190,2022-10-03T13:43:00.000Z,,,,PaymentMethodZLSCH
+payment:190,2022-10-05T01:04:00.000Z,,,,AmountDMBTR
+payment:190,2022-10-05T01:04:00.000Z,,,,PaymentMethodZLSCH
+payment:917,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,118900.0,,
+payment:917,2024-10-09T18:11:00.000Z,,,,AmountDMBTR
+payment:917,2024-10-09T18:11:00.000Z,,,,PaymentMethodZLSCH
+payment:917,2024-10-11T04:01:00.000Z,,,,AmountDMBTR
+payment:917,2024-10-11T04:01:00.000Z,,,,PaymentMethodZLSCH
+payment:635,1970-01-01T00:00:00.000Z,C: Bank Collection,36900.0,,
+payment:635,2024-01-12T15:07:00.000Z,,,,AmountDMBTR
+payment:635,2024-01-12T15:07:00.000Z,,,,PaymentMethodZLSCH
+payment:830,1970-01-01T00:00:00.000Z,C: Bank Collection,35100.0,,
+payment:830,2024-07-17T21:53:00.000Z,,,,AmountDMBTR
+payment:830,2024-07-17T21:53:00.000Z,,,,PaymentMethodZLSCH
+payment:442,1970-01-01T00:00:00.000Z,C: Bank Collection,19600.0,,
+payment:442,2023-07-20T19:44:00.000Z,,,,AmountDMBTR
+payment:442,2023-07-20T19:44:00.000Z,,,,PaymentMethodZLSCH
+payment:618,1970-01-01T00:00:00.000Z,D:Direct Debit,7200.0,,
+payment:618,2023-12-29T22:38:00.000Z,,,,AmountDMBTR
+payment:618,2023-12-29T22:38:00.000Z,,,,PaymentMethodZLSCH
+payment:17,1970-01-01T00:00:00.000Z,C: Bank Collection,98700.0,,
+payment:17,2022-05-12T22:17:00.000Z,,,,AmountDMBTR
+payment:17,2022-05-12T22:17:00.000Z,,,,PaymentMethodZLSCH
+payment:472,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,135800.0,,
+payment:472,2023-08-13T10:04:00.000Z,,,,AmountDMBTR
+payment:472,2023-08-13T10:04:00.000Z,,,,PaymentMethodZLSCH
+payment:484,1970-01-01T00:00:00.000Z,C: Bank Collection,109200.0,,
+payment:484,2023-08-26T13:19:00.000Z,,,,AmountDMBTR
+payment:484,2023-08-26T13:19:00.000Z,,,,PaymentMethodZLSCH
+payment:789,1970-01-01T00:00:00.000Z,D:Direct Debit,98050.0,,
+payment:789,2024-06-15T07:00:00.000Z,,,,AmountDMBTR
+payment:789,2024-06-15T07:00:00.000Z,,,,PaymentMethodZLSCH
+payment:12,1970-01-01T00:00:00.000Z,C: Bank Collection,29000.0,,
+payment:12,2022-05-03T12:26:00.000Z,,,,AmountDMBTR
+payment:12,2022-05-03T12:26:00.000Z,,,,PaymentMethodZLSCH
+payment:12,2022-05-03T18:31:00.000Z,,,,AmountDMBTR
+payment:12,2022-05-03T18:31:00.000Z,,,,PaymentMethodZLSCH
+payment:192,1970-01-01T00:00:00.000Z,D:Direct Debit,133900.0,,
+payment:192,2022-10-09T04:27:00.000Z,,,,AmountDMBTR
+payment:192,2022-10-09T04:27:00.000Z,,,,PaymentMethodZLSCH
+payment:749,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,79200.0,,
+payment:749,2024-05-06T16:50:00.000Z,,,,AmountDMBTR
+payment:749,2024-05-06T16:50:00.000Z,,,,PaymentMethodZLSCH
+payment:544,1970-01-01T00:00:00.000Z,C: Bank Collection,20900.0,,
+payment:544,2023-10-22T21:22:00.000Z,,,,AmountDMBTR
+payment:544,2023-10-22T21:22:00.000Z,,,,PaymentMethodZLSCH
+payment:584,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,28500.0,,
+payment:584,2023-11-30T22:18:00.000Z,,,,AmountDMBTR
+payment:584,2023-11-30T22:18:00.000Z,,,,PaymentMethodZLSCH
+payment:838,1970-01-01T00:00:00.000Z,C: Bank Collection,110700.0,,
+payment:838,2024-07-27T12:54:00.000Z,,,,AmountDMBTR
+payment:838,2024-07-27T12:54:00.000Z,,,,PaymentMethodZLSCH
+payment:157,1970-01-01T00:00:00.000Z,D:Direct Debit,10150.0,,
+payment:157,2022-09-15T16:32:00.000Z,,,,AmountDMBTR
+payment:157,2022-09-15T16:32:00.000Z,,,,PaymentMethodZLSCH
+payment:851,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9800.0,,
+payment:851,2024-08-04T01:37:00.000Z,,,,AmountDMBTR
+payment:851,2024-08-04T01:37:00.000Z,,,,PaymentMethodZLSCH
+payment:260,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,160800.0,,
+payment:260,2023-01-12T23:17:00.000Z,,,,AmountDMBTR
+payment:260,2023-01-12T23:17:00.000Z,,,,PaymentMethodZLSCH
+payment:926,1970-01-01T00:00:00.000Z,C: Bank Collection,6750.0,,
+payment:926,2024-10-29T22:22:00.000Z,,,,AmountDMBTR
+payment:926,2024-10-29T22:22:00.000Z,,,,PaymentMethodZLSCH
+payment:926,2024-10-31T20:28:00.000Z,,,,AmountDMBTR
+payment:926,2024-10-31T20:28:00.000Z,,,,PaymentMethodZLSCH
+payment:118,1970-01-01T00:00:00.000Z,C: Bank Collection,96600.0,,
+payment:118,2022-08-08T19:11:00.000Z,,,,AmountDMBTR
+payment:118,2022-08-08T19:11:00.000Z,,,,PaymentMethodZLSCH
+payment:569,1970-01-01T00:00:00.000Z,D:Direct Debit,43500.0,,
+payment:569,2023-11-27T10:12:00.000Z,,,,AmountDMBTR
+payment:569,2023-11-27T10:12:00.000Z,,,,PaymentMethodZLSCH
+payment:569,2023-11-29T07:30:00.000Z,,,,AmountDMBTR
+payment:569,2023-11-29T07:30:00.000Z,,,,PaymentMethodZLSCH
+payment:770,1970-01-01T00:00:00.000Z,D:Direct Debit,3600.0,,
+payment:770,2024-05-20T10:51:00.000Z,,,,AmountDMBTR
+payment:770,2024-05-20T10:51:00.000Z,,,,PaymentMethodZLSCH
+payment:420,1970-01-01T00:00:00.000Z,D:Direct Debit,155600.0,,
+payment:420,2023-07-09T04:03:00.000Z,,,,AmountDMBTR
+payment:420,2023-07-09T04:03:00.000Z,,,,PaymentMethodZLSCH
+payment:390,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,86800.0,,
+payment:390,2023-05-25T13:08:00.000Z,,,,AmountDMBTR
+payment:390,2023-05-25T13:08:00.000Z,,,,PaymentMethodZLSCH
+payment:357,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,132000.0,,
+payment:357,2023-04-19T10:19:00.000Z,,,,AmountDMBTR
+payment:357,2023-04-19T10:19:00.000Z,,,,PaymentMethodZLSCH
+payment:357,2023-04-24T14:28:00.000Z,,,,AmountDMBTR
+payment:357,2023-04-24T14:28:00.000Z,,,,PaymentMethodZLSCH
+payment:357,2023-04-25T07:43:00.000Z,,,,AmountDMBTR
+payment:357,2023-04-25T07:43:00.000Z,,,,PaymentMethodZLSCH
+payment:284,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,74550.0,,
+payment:284,2023-02-07T03:18:00.000Z,,,,AmountDMBTR
+payment:284,2023-02-07T03:18:00.000Z,,,,PaymentMethodZLSCH
+payment:290,1970-01-01T00:00:00.000Z,C: Bank Collection,19000.0,,
+payment:290,2023-02-16T22:01:00.000Z,,,,AmountDMBTR
+payment:290,2023-02-16T22:01:00.000Z,,,,PaymentMethodZLSCH
+payment:183,1970-01-01T00:00:00.000Z,C: Bank Collection,146800.0,,
+payment:183,2022-09-30T04:53:00.000Z,,,,AmountDMBTR
+payment:183,2022-09-30T04:53:00.000Z,,,,PaymentMethodZLSCH
+payment:117,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,98100.0,,
+payment:117,2022-08-09T04:28:00.000Z,,,,AmountDMBTR
+payment:117,2022-08-09T04:28:00.000Z,,,,PaymentMethodZLSCH
+payment:117,2022-08-12T09:34:00.000Z,,,,AmountDMBTR
+payment:117,2022-08-12T09:34:00.000Z,,,,PaymentMethodZLSCH
+payment:774,1970-01-01T00:00:00.000Z,C: Bank Collection,127650.0,,
+payment:774,2024-05-27T11:59:00.000Z,,,,AmountDMBTR
+payment:774,2024-05-27T11:59:00.000Z,,,,PaymentMethodZLSCH
+payment:774,2024-05-29T20:50:00.000Z,,,,AmountDMBTR
+payment:774,2024-05-29T20:50:00.000Z,,,,PaymentMethodZLSCH
+payment:684,1970-01-01T00:00:00.000Z,C: Bank Collection,61300.0,,
+payment:684,2024-03-06T13:35:00.000Z,,,,AmountDMBTR
+payment:684,2024-03-06T13:35:00.000Z,,,,PaymentMethodZLSCH
+payment:497,1970-01-01T00:00:00.000Z,C: Bank Collection,6750.0,,
+payment:497,2023-09-07T02:09:00.000Z,,,,AmountDMBTR
+payment:497,2023-09-07T02:09:00.000Z,,,,PaymentMethodZLSCH
+payment:164,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40850.0,,
+payment:164,2022-09-17T15:19:00.000Z,,,,AmountDMBTR
+payment:164,2022-09-17T15:19:00.000Z,,,,PaymentMethodZLSCH
+payment:164,2022-09-22T11:48:00.000Z,,,,AmountDMBTR
+payment:164,2022-09-22T11:48:00.000Z,,,,PaymentMethodZLSCH
+payment:100,1970-01-01T00:00:00.000Z,C: Bank Collection,28200.0,,
+payment:100,2022-07-27T14:46:00.000Z,,,,AmountDMBTR
+payment:100,2022-07-27T14:46:00.000Z,,,,PaymentMethodZLSCH
+payment:100,2022-07-30T08:49:00.000Z,,,,AmountDMBTR
+payment:100,2022-07-30T08:49:00.000Z,,,,PaymentMethodZLSCH
+payment:491,1970-01-01T00:00:00.000Z,D:Direct Debit,103800.0,,
+payment:491,2023-09-02T13:05:00.000Z,,,,AmountDMBTR
+payment:491,2023-09-02T13:05:00.000Z,,,,PaymentMethodZLSCH
+payment:884,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27000.0,,
+payment:884,2024-09-23T13:13:00.000Z,,,,AmountDMBTR
+payment:884,2024-09-23T13:13:00.000Z,,,,PaymentMethodZLSCH
+payment:422,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,13900.0,,
+payment:422,2023-06-28T02:29:00.000Z,,,,AmountDMBTR
+payment:422,2023-06-28T02:29:00.000Z,,,,PaymentMethodZLSCH
+payment:330,1970-01-01T00:00:00.000Z,D:Direct Debit,2700.0,,
+payment:330,2023-03-17T17:09:00.000Z,,,,AmountDMBTR
+payment:330,2023-03-17T17:09:00.000Z,,,,PaymentMethodZLSCH
+payment:63,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,93600.0,,
+payment:63,2022-06-11T17:17:00.000Z,,,,AmountDMBTR
+payment:63,2022-06-11T17:17:00.000Z,,,,PaymentMethodZLSCH
+payment:423,1970-01-01T00:00:00.000Z,D:Direct Debit,75500.0,,
+payment:423,2023-07-01T05:49:00.000Z,,,,AmountDMBTR
+payment:423,2023-07-01T05:49:00.000Z,,,,PaymentMethodZLSCH
+payment:423,2023-07-06T22:27:00.000Z,,,,AmountDMBTR
+payment:423,2023-07-06T22:27:00.000Z,,,,PaymentMethodZLSCH
+payment:423,2023-07-11T07:04:00.000Z,,,,AmountDMBTR
+payment:423,2023-07-11T07:04:00.000Z,,,,PaymentMethodZLSCH
+payment:289,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,17100.0,,
+payment:289,2023-02-16T22:36:00.000Z,,,,AmountDMBTR
+payment:289,2023-02-16T22:36:00.000Z,,,,PaymentMethodZLSCH
+payment:510,1970-01-01T00:00:00.000Z,C: Bank Collection,126000.0,,
+payment:510,2023-09-17T23:59:00.000Z,,,,AmountDMBTR
+payment:510,2023-09-17T23:59:00.000Z,,,,PaymentMethodZLSCH
+payment:510,2023-09-18T07:58:00.000Z,,,,AmountDMBTR
+payment:510,2023-09-18T07:58:00.000Z,,,,PaymentMethodZLSCH
+payment:670,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,61600.0,,
+payment:670,2024-02-16T09:12:00.000Z,,,,AmountDMBTR
+payment:670,2024-02-16T09:12:00.000Z,,,,PaymentMethodZLSCH
+payment:925,1970-01-01T00:00:00.000Z,C: Bank Collection,80800.0,,
+payment:925,2024-10-29T14:14:00.000Z,,,,AmountDMBTR
+payment:925,2024-10-29T14:14:00.000Z,,,,PaymentMethodZLSCH
+payment:361,1970-01-01T00:00:00.000Z,D:Direct Debit,66000.0,,
+payment:361,2023-04-18T08:08:00.000Z,,,,AmountDMBTR
+payment:361,2023-04-18T08:08:00.000Z,,,,PaymentMethodZLSCH
+payment:361,2023-04-18T20:08:00.000Z,,,,AmountDMBTR
+payment:361,2023-04-18T20:08:00.000Z,,,,PaymentMethodZLSCH
+payment:361,2023-04-20T07:56:00.000Z,,,,AmountDMBTR
+payment:361,2023-04-20T07:56:00.000Z,,,,PaymentMethodZLSCH
+payment:903,1970-01-01T00:00:00.000Z,D:Direct Debit,28600.0,,
+payment:903,2024-10-04T09:50:00.000Z,,,,AmountDMBTR
+payment:903,2024-10-04T09:50:00.000Z,,,,PaymentMethodZLSCH
+payment:306,1970-01-01T00:00:00.000Z,D:Direct Debit,218000.0,,
+payment:306,2023-03-03T11:51:00.000Z,,,,AmountDMBTR
+payment:306,2023-03-03T11:51:00.000Z,,,,PaymentMethodZLSCH
+payment:306,2023-03-04T03:25:00.000Z,,,,AmountDMBTR
+payment:306,2023-03-04T03:25:00.000Z,,,,PaymentMethodZLSCH
+payment:37,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,71500.0,,
+payment:37,2022-05-24T21:24:00.000Z,,,,AmountDMBTR
+payment:37,2022-05-24T21:24:00.000Z,,,,PaymentMethodZLSCH
+payment:37,2022-05-28T13:09:00.000Z,,,,AmountDMBTR
+payment:37,2022-05-28T13:09:00.000Z,,,,PaymentMethodZLSCH
+payment:696,1970-01-01T00:00:00.000Z,D:Direct Debit,52800.0,,
+payment:696,2024-03-12T02:31:00.000Z,,,,AmountDMBTR
+payment:696,2024-03-12T02:31:00.000Z,,,,PaymentMethodZLSCH
+payment:178,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,11050.0,,
+payment:178,2022-09-24T23:12:00.000Z,,,,AmountDMBTR
+payment:178,2022-09-24T23:12:00.000Z,,,,PaymentMethodZLSCH
+payment:665,1970-01-01T00:00:00.000Z,D:Direct Debit,36100.0,,
+payment:665,2024-02-15T21:08:00.000Z,,,,AmountDMBTR
+payment:665,2024-02-15T21:08:00.000Z,,,,PaymentMethodZLSCH
+payment:317,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,65700.0,,
+payment:317,2023-03-14T04:43:00.000Z,,,,AmountDMBTR
+payment:317,2023-03-14T04:43:00.000Z,,,,PaymentMethodZLSCH
+payment:539,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,121000.0,,
+payment:539,2023-10-16T18:34:00.000Z,,,,AmountDMBTR
+payment:539,2023-10-16T18:34:00.000Z,,,,PaymentMethodZLSCH
+payment:308,1970-01-01T00:00:00.000Z,C: Bank Collection,35100.0,,
+payment:308,2023-03-06T15:52:00.000Z,,,,AmountDMBTR
+payment:308,2023-03-06T15:52:00.000Z,,,,PaymentMethodZLSCH
+payment:308,2023-03-09T22:05:00.000Z,,,,AmountDMBTR
+payment:308,2023-03-09T22:05:00.000Z,,,,PaymentMethodZLSCH
+payment:358,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,268650.0,,
+payment:358,2023-04-18T00:55:00.000Z,,,,AmountDMBTR
+payment:358,2023-04-18T00:55:00.000Z,,,,PaymentMethodZLSCH
+payment:461,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24850.0,,
+payment:461,2023-08-15T12:30:00.000Z,,,,AmountDMBTR
+payment:461,2023-08-15T12:30:00.000Z,,,,PaymentMethodZLSCH
+payment:365,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,120000.0,,
+payment:365,2023-04-23T11:02:00.000Z,,,,AmountDMBTR
+payment:365,2023-04-23T11:02:00.000Z,,,,PaymentMethodZLSCH
+payment:365,2023-04-25T15:55:00.000Z,,,,AmountDMBTR
+payment:365,2023-04-25T15:55:00.000Z,,,,PaymentMethodZLSCH
+payment:167,1970-01-01T00:00:00.000Z,C: Bank Collection,39850.0,,
+payment:167,2022-09-20T01:19:00.000Z,,,,AmountDMBTR
+payment:167,2022-09-20T01:19:00.000Z,,,,PaymentMethodZLSCH
+payment:167,2022-09-21T05:21:00.000Z,,,,AmountDMBTR
+payment:167,2022-09-21T05:21:00.000Z,,,,PaymentMethodZLSCH
+payment:869,1970-01-01T00:00:00.000Z,D:Direct Debit,74400.0,,
+payment:869,2024-08-30T00:35:00.000Z,,,,AmountDMBTR
+payment:869,2024-08-30T00:35:00.000Z,,,,PaymentMethodZLSCH
+payment:231,1970-01-01T00:00:00.000Z,D:Direct Debit,146400.0,,
+payment:231,2022-11-25T12:53:00.000Z,,,,AmountDMBTR
+payment:231,2022-11-25T12:53:00.000Z,,,,PaymentMethodZLSCH
+payment:695,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,6800.0,,
+payment:695,2024-03-08T20:06:00.000Z,,,,AmountDMBTR
+payment:695,2024-03-08T20:06:00.000Z,,,,PaymentMethodZLSCH
+payment:882,1970-01-01T00:00:00.000Z,D:Direct Debit,32400.0,,
+payment:882,2024-09-19T03:57:00.000Z,,,,AmountDMBTR
+payment:882,2024-09-19T03:57:00.000Z,,,,PaymentMethodZLSCH
+payment:597,1970-01-01T00:00:00.000Z,D:Direct Debit,33500.0,,
+payment:597,2023-12-12T18:38:00.000Z,,,,AmountDMBTR
+payment:597,2023-12-12T18:38:00.000Z,,,,PaymentMethodZLSCH
+payment:899,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,7750.0,,
+payment:899,2024-10-02T10:31:00.000Z,,,,AmountDMBTR
+payment:899,2024-10-02T10:31:00.000Z,,,,PaymentMethodZLSCH
+payment:790,1970-01-01T00:00:00.000Z,D:Direct Debit,7650.0,,
+payment:790,2024-06-13T13:09:00.000Z,,,,AmountDMBTR
+payment:790,2024-06-13T13:09:00.000Z,,,,PaymentMethodZLSCH
+payment:601,1970-01-01T00:00:00.000Z,C: Bank Collection,66450.0,,
+payment:601,2023-12-18T23:31:00.000Z,,,,AmountDMBTR
+payment:601,2023-12-18T23:31:00.000Z,,,,PaymentMethodZLSCH
+payment:601,2023-12-19T13:40:00.000Z,,,,AmountDMBTR
+payment:601,2023-12-19T13:40:00.000Z,,,,PaymentMethodZLSCH
+payment:473,1970-01-01T00:00:00.000Z,D:Direct Debit,14700.0,,
+payment:473,2023-08-11T00:29:00.000Z,,,,AmountDMBTR
+payment:473,2023-08-11T00:29:00.000Z,,,,PaymentMethodZLSCH
+payment:418,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,42250.0,,
+payment:418,2023-06-23T06:48:00.000Z,,,,AmountDMBTR
+payment:418,2023-06-23T06:48:00.000Z,,,,PaymentMethodZLSCH
+payment:71,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,295950.0,,
+payment:71,2022-06-22T09:13:00.000Z,,,,AmountDMBTR
+payment:71,2022-06-22T09:13:00.000Z,,,,PaymentMethodZLSCH
+payment:61,1970-01-01T00:00:00.000Z,C: Bank Collection,41800.0,,
+payment:61,2022-06-15T16:09:00.000Z,,,,AmountDMBTR
+payment:61,2022-06-15T16:09:00.000Z,,,,PaymentMethodZLSCH
+payment:240,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,23750.0,,
+payment:240,2022-12-07T04:32:00.000Z,,,,AmountDMBTR
+payment:240,2022-12-07T04:32:00.000Z,,,,PaymentMethodZLSCH
+payment:582,1970-01-01T00:00:00.000Z,D:Direct Debit,114550.0,,
+payment:582,2023-12-03T18:54:00.000Z,,,,AmountDMBTR
+payment:582,2023-12-03T18:54:00.000Z,,,,PaymentMethodZLSCH
+payment:582,2023-12-05T08:11:00.000Z,,,,AmountDMBTR
+payment:582,2023-12-05T08:11:00.000Z,,,,PaymentMethodZLSCH
+payment:257,1970-01-01T00:00:00.000Z,D:Direct Debit,96300.0,,
+payment:257,2023-01-15T12:52:00.000Z,,,,AmountDMBTR
+payment:257,2023-01-15T12:52:00.000Z,,,,PaymentMethodZLSCH
+payment:39,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,2100.0,,
+payment:39,2022-05-27T15:35:00.000Z,,,,AmountDMBTR
+payment:39,2022-05-27T15:35:00.000Z,,,,PaymentMethodZLSCH
+payment:646,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24500.0,,
+payment:646,2024-01-27T23:18:00.000Z,,,,AmountDMBTR
+payment:646,2024-01-27T23:18:00.000Z,,,,PaymentMethodZLSCH
+payment:913,1970-01-01T00:00:00.000Z,C: Bank Collection,29750.0,,
+payment:913,2024-10-12T11:54:00.000Z,,,,AmountDMBTR
+payment:913,2024-10-12T11:54:00.000Z,,,,PaymentMethodZLSCH
+payment:588,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,33250.0,,
+payment:588,2023-12-07T11:17:00.000Z,,,,AmountDMBTR
+payment:588,2023-12-07T11:17:00.000Z,,,,PaymentMethodZLSCH
+payment:786,1970-01-01T00:00:00.000Z,C: Bank Collection,38500.0,,
+payment:786,2024-06-07T14:05:00.000Z,,,,AmountDMBTR
+payment:786,2024-06-07T14:05:00.000Z,,,,PaymentMethodZLSCH
+payment:786,2024-06-09T06:57:00.000Z,,,,AmountDMBTR
+payment:786,2024-06-09T06:57:00.000Z,,,,PaymentMethodZLSCH
+payment:810,1970-01-01T00:00:00.000Z,D:Direct Debit,48600.0,,
+payment:810,2024-06-24T19:11:00.000Z,,,,AmountDMBTR
+payment:810,2024-06-24T19:11:00.000Z,,,,PaymentMethodZLSCH
+payment:112,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,13000.0,,
+payment:112,2022-08-02T13:22:00.000Z,,,,AmountDMBTR
+payment:112,2022-08-02T13:22:00.000Z,,,,PaymentMethodZLSCH
+payment:264,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,68600.0,,
+payment:264,2023-01-13T08:55:00.000Z,,,,AmountDMBTR
+payment:264,2023-01-13T08:55:00.000Z,,,,PaymentMethodZLSCH
+payment:264,2023-01-18T13:50:00.000Z,,,,AmountDMBTR
+payment:264,2023-01-18T13:50:00.000Z,,,,PaymentMethodZLSCH
+payment:603,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,93150.0,,
+payment:603,2023-12-16T09:08:00.000Z,,,,AmountDMBTR
+payment:603,2023-12-16T09:08:00.000Z,,,,PaymentMethodZLSCH
+payment:572,1970-01-01T00:00:00.000Z,D:Direct Debit,17200.0,,
+payment:572,2023-11-24T14:42:00.000Z,,,,AmountDMBTR
+payment:572,2023-11-24T14:42:00.000Z,,,,PaymentMethodZLSCH
+payment:760,1970-01-01T00:00:00.000Z,D:Direct Debit,18000.0,,
+payment:760,2024-05-15T11:57:00.000Z,,,,AmountDMBTR
+payment:760,2024-05-15T11:57:00.000Z,,,,PaymentMethodZLSCH
+payment:866,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9100.0,,
+payment:866,2024-08-29T21:54:00.000Z,,,,AmountDMBTR
+payment:866,2024-08-29T21:54:00.000Z,,,,PaymentMethodZLSCH
+payment:487,1970-01-01T00:00:00.000Z,C: Bank Collection,16900.0,,
+payment:487,2023-09-01T20:06:00.000Z,,,,AmountDMBTR
+payment:487,2023-09-01T20:06:00.000Z,,,,PaymentMethodZLSCH
+payment:683,1970-01-01T00:00:00.000Z,C: Bank Collection,12600.0,,
+payment:683,2024-03-05T06:10:00.000Z,,,,AmountDMBTR
+payment:683,2024-03-05T06:10:00.000Z,,,,PaymentMethodZLSCH
+payment:31,1970-01-01T00:00:00.000Z,C: Bank Collection,33950.0,,
+payment:31,2022-05-25T17:33:00.000Z,,,,AmountDMBTR
+payment:31,2022-05-25T17:33:00.000Z,,,,PaymentMethodZLSCH
+payment:506,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,50000.0,,
+payment:506,2023-09-17T22:18:00.000Z,,,,AmountDMBTR
+payment:506,2023-09-17T22:18:00.000Z,,,,PaymentMethodZLSCH
+payment:506,2023-09-18T12:15:00.000Z,,,,AmountDMBTR
+payment:506,2023-09-18T12:15:00.000Z,,,,PaymentMethodZLSCH
+payment:506,2023-09-19T15:18:00.000Z,,,,AmountDMBTR
+payment:506,2023-09-19T15:18:00.000Z,,,,PaymentMethodZLSCH
+payment:53,1970-01-01T00:00:00.000Z,C: Bank Collection,78850.0,,
+payment:53,2022-06-07T06:28:00.000Z,,,,AmountDMBTR
+payment:53,2022-06-07T06:28:00.000Z,,,,PaymentMethodZLSCH
+payment:53,2022-06-15T02:07:00.000Z,,,,AmountDMBTR
+payment:53,2022-06-15T02:07:00.000Z,,,,PaymentMethodZLSCH
+payment:874,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,104400.0,,
+payment:874,2024-09-18T18:43:00.000Z,,,,AmountDMBTR
+payment:874,2024-09-18T18:43:00.000Z,,,,PaymentMethodZLSCH
+payment:36,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40950.0,,
+payment:36,2022-05-29T10:41:00.000Z,,,,AmountDMBTR
+payment:36,2022-05-29T10:41:00.000Z,,,,PaymentMethodZLSCH
+payment:172,1970-01-01T00:00:00.000Z,C: Bank Collection,74250.0,,
+payment:172,2022-09-22T18:58:00.000Z,,,,AmountDMBTR
+payment:172,2022-09-22T18:58:00.000Z,,,,PaymentMethodZLSCH
+payment:714,1970-01-01T00:00:00.000Z,D:Direct Debit,25500.0,,
+payment:714,2024-04-04T06:26:00.000Z,,,,AmountDMBTR
+payment:714,2024-04-04T06:26:00.000Z,,,,PaymentMethodZLSCH
+payment:804,1970-01-01T00:00:00.000Z,C: Bank Collection,88200.0,,
+payment:804,2024-06-22T10:01:00.000Z,,,,AmountDMBTR
+payment:804,2024-06-22T10:01:00.000Z,,,,PaymentMethodZLSCH
+payment:119,1970-01-01T00:00:00.000Z,C: Bank Collection,91200.0,,
+payment:119,2022-08-15T00:14:00.000Z,,,,AmountDMBTR
+payment:119,2022-08-15T00:14:00.000Z,,,,PaymentMethodZLSCH
+payment:326,1970-01-01T00:00:00.000Z,C: Bank Collection,83700.0,,
+payment:326,2023-03-15T10:19:00.000Z,,,,AmountDMBTR
+payment:326,2023-03-15T10:19:00.000Z,,,,PaymentMethodZLSCH
+payment:524,1970-01-01T00:00:00.000Z,D:Direct Debit,210800.0,,
+payment:524,2023-09-29T17:48:00.000Z,,,,AmountDMBTR
+payment:524,2023-09-29T17:48:00.000Z,,,,PaymentMethodZLSCH
+payment:511,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,13500.0,,
+payment:511,2023-09-18T14:12:00.000Z,,,,AmountDMBTR
+payment:511,2023-09-18T14:12:00.000Z,,,,PaymentMethodZLSCH
+payment:541,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,75500.0,,
+payment:541,2023-10-19T05:04:00.000Z,,,,AmountDMBTR
+payment:541,2023-10-19T05:04:00.000Z,,,,PaymentMethodZLSCH
+payment:578,1970-01-01T00:00:00.000Z,D:Direct Debit,4050.0,,
+payment:578,2023-11-28T15:25:00.000Z,,,,AmountDMBTR
+payment:578,2023-11-28T15:25:00.000Z,,,,PaymentMethodZLSCH
+payment:270,1970-01-01T00:00:00.000Z,C: Bank Collection,68200.0,,
+payment:270,2023-01-20T23:56:00.000Z,,,,AmountDMBTR
+payment:270,2023-01-20T23:56:00.000Z,,,,PaymentMethodZLSCH
+payment:138,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,136500.0,,
+payment:138,2022-09-02T03:02:00.000Z,,,,AmountDMBTR
+payment:138,2022-09-02T03:02:00.000Z,,,,PaymentMethodZLSCH
+payment:426,1970-01-01T00:00:00.000Z,D:Direct Debit,17500.0,,
+payment:426,2023-06-30T14:35:00.000Z,,,,AmountDMBTR
+payment:426,2023-06-30T14:35:00.000Z,,,,PaymentMethodZLSCH
+payment:888,1970-01-01T00:00:00.000Z,C: Bank Collection,3300.0,,
+payment:888,2024-09-20T02:33:00.000Z,,,,AmountDMBTR
+payment:888,2024-09-20T02:33:00.000Z,,,,PaymentMethodZLSCH
+payment:888,2024-09-20T15:42:00.000Z,,,,AmountDMBTR
+payment:888,2024-09-20T15:42:00.000Z,,,,PaymentMethodZLSCH
+payment:888,2024-09-24T07:32:00.000Z,,,,AmountDMBTR
+payment:888,2024-09-24T07:32:00.000Z,,,,PaymentMethodZLSCH
+payment:5,1970-01-01T00:00:00.000Z,D:Direct Debit,100100.0,,
+payment:5,2022-04-25T23:03:00.000Z,,,,AmountDMBTR
+payment:5,2022-04-25T23:03:00.000Z,,,,PaymentMethodZLSCH
+payment:864,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,61200.0,,
+payment:864,2024-08-31T20:34:00.000Z,,,,AmountDMBTR
+payment:864,2024-08-31T20:34:00.000Z,,,,PaymentMethodZLSCH
+payment:111,1970-01-01T00:00:00.000Z,D:Direct Debit,115200.0,,
+payment:111,2022-08-08T23:56:00.000Z,,,,AmountDMBTR
+payment:111,2022-08-08T23:56:00.000Z,,,,PaymentMethodZLSCH
+payment:111,2022-08-09T16:05:00.000Z,,,,AmountDMBTR
+payment:111,2022-08-09T16:05:00.000Z,,,,PaymentMethodZLSCH
+payment:111,2022-08-12T17:01:00.000Z,,,,AmountDMBTR
+payment:111,2022-08-12T17:01:00.000Z,,,,PaymentMethodZLSCH
+payment:173,1970-01-01T00:00:00.000Z,C: Bank Collection,78100.0,,
+payment:173,2022-09-22T21:13:00.000Z,,,,AmountDMBTR
+payment:173,2022-09-22T21:13:00.000Z,,,,PaymentMethodZLSCH
+payment:447,1970-01-01T00:00:00.000Z,D:Direct Debit,44650.0,,
+payment:447,2023-07-21T09:53:00.000Z,,,,AmountDMBTR
+payment:447,2023-07-21T09:53:00.000Z,,,,PaymentMethodZLSCH
+payment:548,1970-01-01T00:00:00.000Z,C: Bank Collection,25200.0,,
+payment:548,2023-10-27T03:17:00.000Z,,,,AmountDMBTR
+payment:548,2023-10-27T03:17:00.000Z,,,,PaymentMethodZLSCH
+payment:548,2023-10-29T02:27:00.000Z,,,,AmountDMBTR
+payment:548,2023-10-29T02:27:00.000Z,,,,PaymentMethodZLSCH
+payment:548,2023-11-02T17:22:00.000Z,,,,AmountDMBTR
+payment:548,2023-11-02T17:22:00.000Z,,,,PaymentMethodZLSCH
+payment:857,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,10500.0,,
+payment:857,2024-08-17T15:27:00.000Z,,,,AmountDMBTR
+payment:857,2024-08-17T15:27:00.000Z,,,,PaymentMethodZLSCH
+payment:200,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,132450.0,,
+payment:200,2022-10-10T19:15:00.000Z,,,,AmountDMBTR
+payment:200,2022-10-10T19:15:00.000Z,,,,PaymentMethodZLSCH
+payment:7,1970-01-01T00:00:00.000Z,D:Direct Debit,154750.0,,
+payment:7,2022-04-29T02:04:00.000Z,,,,AmountDMBTR
+payment:7,2022-04-29T02:04:00.000Z,,,,PaymentMethodZLSCH
+payment:159,1970-01-01T00:00:00.000Z,C: Bank Collection,12100.0,,
+payment:159,2022-09-15T18:17:00.000Z,,,,AmountDMBTR
+payment:159,2022-09-15T18:17:00.000Z,,,,PaymentMethodZLSCH
+payment:462,1970-01-01T00:00:00.000Z,C: Bank Collection,32400.0,,
+payment:462,2023-08-09T07:40:00.000Z,,,,AmountDMBTR
+payment:462,2023-08-09T07:40:00.000Z,,,,PaymentMethodZLSCH
+payment:44,1970-01-01T00:00:00.000Z,C: Bank Collection,20800.0,,
+payment:44,2022-06-01T20:14:00.000Z,,,,AmountDMBTR
+payment:44,2022-06-01T20:14:00.000Z,,,,PaymentMethodZLSCH
+payment:44,2022-06-04T13:51:00.000Z,,,,AmountDMBTR
+payment:44,2022-06-04T13:51:00.000Z,,,,PaymentMethodZLSCH
+payment:44,2022-06-08T23:15:00.000Z,,,,AmountDMBTR
+payment:44,2022-06-08T23:15:00.000Z,,,,PaymentMethodZLSCH
+payment:44,2022-06-14T19:38:00.000Z,,,,AmountDMBTR
+payment:44,2022-06-14T19:38:00.000Z,,,,PaymentMethodZLSCH
+payment:170,1970-01-01T00:00:00.000Z,C: Bank Collection,17500.0,,
+payment:170,2022-09-19T20:06:00.000Z,,,,AmountDMBTR
+payment:170,2022-09-19T20:06:00.000Z,,,,PaymentMethodZLSCH
+payment:546,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,23300.0,,
+payment:546,2023-10-19T13:36:00.000Z,,,,AmountDMBTR
+payment:546,2023-10-19T13:36:00.000Z,,,,PaymentMethodZLSCH
+payment:619,1970-01-01T00:00:00.000Z,D:Direct Debit,87200.0,,
+payment:619,2024-01-10T02:31:00.000Z,,,,AmountDMBTR
+payment:619,2024-01-10T02:31:00.000Z,,,,PaymentMethodZLSCH
+payment:619,2024-01-16T09:14:00.000Z,,,,AmountDMBTR
+payment:619,2024-01-16T09:14:00.000Z,,,,PaymentMethodZLSCH
+payment:634,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,84500.0,,
+payment:634,2024-01-11T23:59:00.000Z,,,,AmountDMBTR
+payment:634,2024-01-11T23:59:00.000Z,,,,PaymentMethodZLSCH
+payment:133,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,139300.0,,
+payment:133,2022-08-26T23:12:00.000Z,,,,AmountDMBTR
+payment:133,2022-08-26T23:12:00.000Z,,,,PaymentMethodZLSCH
+payment:775,1970-01-01T00:00:00.000Z,D:Direct Debit,22200.0,,
+payment:775,2024-05-29T23:43:00.000Z,,,,AmountDMBTR
+payment:775,2024-05-29T23:43:00.000Z,,,,PaymentMethodZLSCH
+payment:266,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,31500.0,,
+payment:266,2023-01-14T05:29:00.000Z,,,,AmountDMBTR
+payment:266,2023-01-14T05:29:00.000Z,,,,PaymentMethodZLSCH
+payment:890,1970-01-01T00:00:00.000Z,D:Direct Debit,126600.0,,
+payment:890,2024-09-24T10:34:00.000Z,,,,AmountDMBTR
+payment:890,2024-09-24T10:34:00.000Z,,,,PaymentMethodZLSCH
+payment:890,2024-09-26T07:26:00.000Z,,,,AmountDMBTR
+payment:890,2024-09-26T07:26:00.000Z,,,,PaymentMethodZLSCH
+payment:787,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,283700.0,,
+payment:787,2024-06-10T09:54:00.000Z,,,,AmountDMBTR
+payment:787,2024-06-10T09:54:00.000Z,,,,PaymentMethodZLSCH
+payment:821,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,1400.0,,
+payment:821,2024-07-17T02:40:00.000Z,,,,AmountDMBTR
+payment:821,2024-07-17T02:40:00.000Z,,,,PaymentMethodZLSCH
+payment:649,1970-01-01T00:00:00.000Z,D:Direct Debit,16000.0,,
+payment:649,2024-02-03T11:55:00.000Z,,,,AmountDMBTR
+payment:649,2024-02-03T11:55:00.000Z,,,,PaymentMethodZLSCH
+payment:649,2024-02-06T15:12:00.000Z,,,,AmountDMBTR
+payment:649,2024-02-06T15:12:00.000Z,,,,PaymentMethodZLSCH
+payment:26,1970-01-01T00:00:00.000Z,C: Bank Collection,63450.0,,
+payment:26,2022-05-24T10:51:00.000Z,,,,AmountDMBTR
+payment:26,2022-05-24T10:51:00.000Z,,,,PaymentMethodZLSCH
+payment:637,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,30150.0,,
+payment:637,2024-01-13T01:41:00.000Z,,,,AmountDMBTR
+payment:637,2024-01-13T01:41:00.000Z,,,,PaymentMethodZLSCH
+payment:685,1970-01-01T00:00:00.000Z,D:Direct Debit,29100.0,,
+payment:685,2024-03-08T22:00:00.000Z,,,,AmountDMBTR
+payment:685,2024-03-08T22:00:00.000Z,,,,PaymentMethodZLSCH
+payment:906,1970-01-01T00:00:00.000Z,D:Direct Debit,64500.0,,
+payment:906,2024-10-04T22:19:00.000Z,,,,AmountDMBTR
+payment:906,2024-10-04T22:19:00.000Z,,,,PaymentMethodZLSCH
+payment:906,2024-10-10T22:16:00.000Z,,,,AmountDMBTR
+payment:906,2024-10-10T22:16:00.000Z,,,,PaymentMethodZLSCH
+payment:906,2024-10-15T11:02:00.000Z,,,,AmountDMBTR
+payment:906,2024-10-15T11:02:00.000Z,,,,PaymentMethodZLSCH
+payment:906,2024-10-19T00:41:00.000Z,,,,AmountDMBTR
+payment:906,2024-10-19T00:41:00.000Z,,,,PaymentMethodZLSCH
+payment:73,1970-01-01T00:00:00.000Z,D:Direct Debit,143150.0,,
+payment:73,2022-06-23T05:41:00.000Z,,,,AmountDMBTR
+payment:73,2022-06-23T05:41:00.000Z,,,,PaymentMethodZLSCH
+payment:515,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40650.0,,
+payment:515,2023-09-20T00:09:00.000Z,,,,AmountDMBTR
+payment:515,2023-09-20T00:09:00.000Z,,,,PaymentMethodZLSCH
+payment:213,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,47550.0,,
+payment:213,2022-10-22T05:34:00.000Z,,,,AmountDMBTR
+payment:213,2022-10-22T05:34:00.000Z,,,,PaymentMethodZLSCH
+payment:392,1970-01-01T00:00:00.000Z,C: Bank Collection,3500.0,,
+payment:392,2023-05-29T08:17:00.000Z,,,,AmountDMBTR
+payment:392,2023-05-29T08:17:00.000Z,,,,PaymentMethodZLSCH
+payment:392,2023-05-31T04:52:00.000Z,,,,AmountDMBTR
+payment:392,2023-05-31T04:52:00.000Z,,,,PaymentMethodZLSCH
+payment:501,1970-01-01T00:00:00.000Z,C: Bank Collection,101250.0,,
+payment:501,2023-09-15T23:54:00.000Z,,,,AmountDMBTR
+payment:501,2023-09-15T23:54:00.000Z,,,,PaymentMethodZLSCH
+payment:397,1970-01-01T00:00:00.000Z,C: Bank Collection,10500.0,,
+payment:397,2023-05-31T01:27:00.000Z,,,,AmountDMBTR
+payment:397,2023-05-31T01:27:00.000Z,,,,PaymentMethodZLSCH
+payment:132,1970-01-01T00:00:00.000Z,D:Direct Debit,6800.0,,
+payment:132,2022-08-24T03:17:00.000Z,,,,AmountDMBTR
+payment:132,2022-08-24T03:17:00.000Z,,,,PaymentMethodZLSCH
+payment:744,1970-01-01T00:00:00.000Z,C: Bank Collection,126100.0,,
+payment:744,2024-05-01T21:57:00.000Z,,,,AmountDMBTR
+payment:744,2024-05-01T21:57:00.000Z,,,,PaymentMethodZLSCH
+payment:608,1970-01-01T00:00:00.000Z,D:Direct Debit,104000.0,,
+payment:608,2023-12-22T05:52:00.000Z,,,,AmountDMBTR
+payment:608,2023-12-22T05:52:00.000Z,,,,PaymentMethodZLSCH
+payment:241,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,58200.0,,
+payment:241,2022-12-07T19:22:00.000Z,,,,AmountDMBTR
+payment:241,2022-12-07T19:22:00.000Z,,,,PaymentMethodZLSCH
+payment:122,1970-01-01T00:00:00.000Z,D:Direct Debit,142500.0,,
+payment:122,2022-08-17T16:51:00.000Z,,,,AmountDMBTR
+payment:122,2022-08-17T16:51:00.000Z,,,,PaymentMethodZLSCH
+payment:627,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,91500.0,,
+payment:627,2024-01-07T12:48:00.000Z,,,,AmountDMBTR
+payment:627,2024-01-07T12:48:00.000Z,,,,PaymentMethodZLSCH
+payment:171,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,88500.0,,
+payment:171,2022-09-21T08:01:00.000Z,,,,AmountDMBTR
+payment:171,2022-09-21T08:01:00.000Z,,,,PaymentMethodZLSCH
+payment:74,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,59000.0,,
+payment:74,2022-06-23T09:17:00.000Z,,,,AmountDMBTR
+payment:74,2022-06-23T09:17:00.000Z,,,,PaymentMethodZLSCH
+payment:704,1970-01-01T00:00:00.000Z,D:Direct Debit,23000.0,,
+payment:704,2024-03-14T15:08:00.000Z,,,,AmountDMBTR
+payment:704,2024-03-14T15:08:00.000Z,,,,PaymentMethodZLSCH
+payment:92,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,58800.0,,
+payment:92,2022-07-14T10:02:00.000Z,,,,AmountDMBTR
+payment:92,2022-07-14T10:02:00.000Z,,,,PaymentMethodZLSCH
+payment:10,1970-01-01T00:00:00.000Z,D:Direct Debit,199800.0,,
+payment:10,2022-05-09T23:47:00.000Z,,,,AmountDMBTR
+payment:10,2022-05-09T23:47:00.000Z,,,,PaymentMethodZLSCH
+payment:828,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,57750.0,,
+payment:828,2024-07-19T16:26:00.000Z,,,,AmountDMBTR
+payment:828,2024-07-19T16:26:00.000Z,,,,PaymentMethodZLSCH
+payment:16,1970-01-01T00:00:00.000Z,C: Bank Collection,42000.0,,
+payment:16,2022-05-11T00:13:00.000Z,,,,AmountDMBTR
+payment:16,2022-05-11T00:13:00.000Z,,,,PaymentMethodZLSCH
+payment:764,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,6000.0,,
+payment:764,2024-05-23T00:58:00.000Z,,,,AmountDMBTR
+payment:764,2024-05-23T00:58:00.000Z,,,,PaymentMethodZLSCH
+payment:421,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,11450.0,,
+payment:421,2023-07-02T18:44:00.000Z,,,,AmountDMBTR
+payment:421,2023-07-02T18:44:00.000Z,,,,PaymentMethodZLSCH
+payment:904,1970-01-01T00:00:00.000Z,D:Direct Debit,85800.0,,
+payment:904,2024-10-05T06:08:00.000Z,,,,AmountDMBTR
+payment:904,2024-10-05T06:08:00.000Z,,,,PaymentMethodZLSCH
+payment:141,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,21000.0,,
+payment:141,2022-09-08T13:21:00.000Z,,,,AmountDMBTR
+payment:141,2022-09-08T13:21:00.000Z,,,,PaymentMethodZLSCH
+payment:206,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,161500.0,,
+payment:206,2022-10-17T14:59:00.000Z,,,,AmountDMBTR
+payment:206,2022-10-17T14:59:00.000Z,,,,PaymentMethodZLSCH
+payment:758,1970-01-01T00:00:00.000Z,D:Direct Debit,68800.0,,
+payment:758,2024-05-17T17:13:00.000Z,,,,AmountDMBTR
+payment:758,2024-05-17T17:13:00.000Z,,,,PaymentMethodZLSCH
+payment:176,1970-01-01T00:00:00.000Z,D:Direct Debit,54400.0,,
+payment:176,2022-09-22T18:57:00.000Z,,,,AmountDMBTR
+payment:176,2022-09-22T18:57:00.000Z,,,,PaymentMethodZLSCH
+payment:197,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,85500.0,,
+payment:197,2022-10-13T04:32:00.000Z,,,,AmountDMBTR
+payment:197,2022-10-13T04:32:00.000Z,,,,PaymentMethodZLSCH
+payment:34,1970-01-01T00:00:00.000Z,C: Bank Collection,128150.0,,
+payment:34,2022-05-23T08:51:00.000Z,,,,AmountDMBTR
+payment:34,2022-05-23T08:51:00.000Z,,,,PaymentMethodZLSCH
+payment:669,1970-01-01T00:00:00.000Z,D:Direct Debit,148700.0,,
+payment:669,2024-02-16T13:13:00.000Z,,,,AmountDMBTR
+payment:669,2024-02-16T13:13:00.000Z,,,,PaymentMethodZLSCH
+payment:784,1970-01-01T00:00:00.000Z,D:Direct Debit,12450.0,,
+payment:784,2024-06-03T12:22:00.000Z,,,,AmountDMBTR
+payment:784,2024-06-03T12:22:00.000Z,,,,PaymentMethodZLSCH
+payment:784,2024-06-04T06:14:00.000Z,,,,AmountDMBTR
+payment:784,2024-06-04T06:14:00.000Z,,,,PaymentMethodZLSCH
+payment:688,1970-01-01T00:00:00.000Z,C: Bank Collection,235000.0,,
+payment:688,2024-03-05T13:14:00.000Z,,,,AmountDMBTR
+payment:688,2024-03-05T13:14:00.000Z,,,,PaymentMethodZLSCH
+payment:688,2024-03-09T10:55:00.000Z,,,,AmountDMBTR
+payment:688,2024-03-09T10:55:00.000Z,,,,PaymentMethodZLSCH
+payment:688,2024-03-15T07:35:00.000Z,,,,AmountDMBTR
+payment:688,2024-03-15T07:35:00.000Z,,,,PaymentMethodZLSCH
+payment:902,1970-01-01T00:00:00.000Z,D:Direct Debit,85500.0,,
+payment:902,2024-10-02T20:36:00.000Z,,,,AmountDMBTR
+payment:902,2024-10-02T20:36:00.000Z,,,,PaymentMethodZLSCH
+payment:425,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,116750.0,,
+payment:425,2023-06-29T08:43:00.000Z,,,,AmountDMBTR
+payment:425,2023-06-29T08:43:00.000Z,,,,PaymentMethodZLSCH
+payment:513,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,12400.0,,
+payment:513,2023-09-19T22:19:00.000Z,,,,AmountDMBTR
+payment:513,2023-09-19T22:19:00.000Z,,,,PaymentMethodZLSCH
+payment:792,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,4200.0,,
+payment:792,2024-06-16T17:14:00.000Z,,,,AmountDMBTR
+payment:792,2024-06-16T17:14:00.000Z,,,,PaymentMethodZLSCH
+payment:49,1970-01-01T00:00:00.000Z,D:Direct Debit,21000.0,,
+payment:49,2022-06-04T05:04:00.000Z,,,,AmountDMBTR
+payment:49,2022-06-04T05:04:00.000Z,,,,PaymentMethodZLSCH
+payment:271,1970-01-01T00:00:00.000Z,D:Direct Debit,69250.0,,
+payment:271,2023-01-18T22:46:00.000Z,,,,AmountDMBTR
+payment:271,2023-01-18T22:46:00.000Z,,,,PaymentMethodZLSCH
+payment:424,1970-01-01T00:00:00.000Z,D:Direct Debit,61100.0,,
+payment:424,2023-06-30T02:11:00.000Z,,,,AmountDMBTR
+payment:424,2023-06-30T02:11:00.000Z,,,,PaymentMethodZLSCH
+payment:424,2023-07-02T13:51:00.000Z,,,,AmountDMBTR
+payment:424,2023-07-02T13:51:00.000Z,,,,PaymentMethodZLSCH
+payment:187,1970-01-01T00:00:00.000Z,D:Direct Debit,36900.0,,
+payment:187,2022-09-28T12:27:00.000Z,,,,AmountDMBTR
+payment:187,2022-09-28T12:27:00.000Z,,,,PaymentMethodZLSCH
+payment:661,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,26250.0,,
+payment:661,2024-02-13T09:13:00.000Z,,,,AmountDMBTR
+payment:661,2024-02-13T09:13:00.000Z,,,,PaymentMethodZLSCH
+payment:661,2024-02-16T07:42:00.000Z,,,,AmountDMBTR
+payment:661,2024-02-16T07:42:00.000Z,,,,PaymentMethodZLSCH
+payment:384,1970-01-01T00:00:00.000Z,D:Direct Debit,52500.0,,
+payment:384,2023-05-22T10:54:00.000Z,,,,AmountDMBTR
+payment:384,2023-05-22T10:54:00.000Z,,,,PaymentMethodZLSCH
+payment:384,2023-05-29T22:18:00.000Z,,,,AmountDMBTR
+payment:384,2023-05-29T22:18:00.000Z,,,,PaymentMethodZLSCH
+payment:120,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,225150.0,,
+payment:120,2022-08-13T02:27:00.000Z,,,,AmountDMBTR
+payment:120,2022-08-13T02:27:00.000Z,,,,PaymentMethodZLSCH
+payment:915,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,37200.0,,
+payment:915,2024-10-11T08:35:00.000Z,,,,AmountDMBTR
+payment:915,2024-10-11T08:35:00.000Z,,,,PaymentMethodZLSCH
+payment:923,1970-01-01T00:00:00.000Z,C: Bank Collection,26700.0,,
+payment:923,2024-10-23T03:47:00.000Z,,,,AmountDMBTR
+payment:923,2024-10-23T03:47:00.000Z,,,,PaymentMethodZLSCH
+payment:660,1970-01-01T00:00:00.000Z,D:Direct Debit,201000.0,,
+payment:660,2024-02-09T23:20:00.000Z,,,,AmountDMBTR
+payment:660,2024-02-09T23:20:00.000Z,,,,PaymentMethodZLSCH
+payment:217,1970-01-01T00:00:00.000Z,C: Bank Collection,52400.0,,
+payment:217,2022-10-26T18:59:00.000Z,,,,AmountDMBTR
+payment:217,2022-10-26T18:59:00.000Z,,,,PaymentMethodZLSCH
+payment:217,2022-10-28T03:14:00.000Z,,,,AmountDMBTR
+payment:217,2022-10-28T03:14:00.000Z,,,,PaymentMethodZLSCH
+payment:643,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,64500.0,,
+payment:643,2024-02-01T12:48:00.000Z,,,,AmountDMBTR
+payment:643,2024-02-01T12:48:00.000Z,,,,PaymentMethodZLSCH
+payment:860,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24000.0,,
+payment:860,2024-08-18T14:30:00.000Z,,,,AmountDMBTR
+payment:860,2024-08-18T14:30:00.000Z,,,,PaymentMethodZLSCH
+payment:575,1970-01-01T00:00:00.000Z,D:Direct Debit,82650.0,,
+payment:575,2023-12-02T20:59:00.000Z,,,,AmountDMBTR
+payment:575,2023-12-02T20:59:00.000Z,,,,PaymentMethodZLSCH
+payment:575,2023-12-09T16:58:00.000Z,,,,AmountDMBTR
+payment:575,2023-12-09T16:58:00.000Z,,,,PaymentMethodZLSCH
+payment:321,1970-01-01T00:00:00.000Z,C: Bank Collection,65300.0,,
+payment:321,2023-03-23T13:53:00.000Z,,,,AmountDMBTR
+payment:321,2023-03-23T13:53:00.000Z,,,,PaymentMethodZLSCH
+payment:321,2023-03-26T02:11:00.000Z,,,,AmountDMBTR
+payment:321,2023-03-26T02:11:00.000Z,,,,PaymentMethodZLSCH
+payment:321,2023-04-11T06:22:00.000Z,,,,AmountDMBTR
+payment:321,2023-04-11T06:22:00.000Z,,,,PaymentMethodZLSCH
+payment:574,1970-01-01T00:00:00.000Z,C: Bank Collection,21300.0,,
+payment:574,2023-11-27T23:48:00.000Z,,,,AmountDMBTR
+payment:574,2023-11-27T23:48:00.000Z,,,,PaymentMethodZLSCH
+payment:873,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,101600.0,,
+payment:873,2024-09-05T23:07:00.000Z,,,,AmountDMBTR
+payment:873,2024-09-05T23:07:00.000Z,,,,PaymentMethodZLSCH
+payment:139,1970-01-01T00:00:00.000Z,D:Direct Debit,47700.0,,
+payment:139,2022-08-30T21:08:00.000Z,,,,AmountDMBTR
+payment:139,2022-08-30T21:08:00.000Z,,,,PaymentMethodZLSCH
+payment:336,1970-01-01T00:00:00.000Z,C: Bank Collection,39800.0,,
+payment:336,2023-03-25T01:02:00.000Z,,,,AmountDMBTR
+payment:336,2023-03-25T01:02:00.000Z,,,,PaymentMethodZLSCH
+payment:585,1970-01-01T00:00:00.000Z,D:Direct Debit,2000.0,,
+payment:585,2023-12-01T19:45:00.000Z,,,,AmountDMBTR
+payment:585,2023-12-01T19:45:00.000Z,,,,PaymentMethodZLSCH
+payment:313,1970-01-01T00:00:00.000Z,D:Direct Debit,18900.0,,
+payment:313,2023-03-12T11:01:00.000Z,,,,AmountDMBTR
+payment:313,2023-03-12T11:01:00.000Z,,,,PaymentMethodZLSCH
+payment:198,1970-01-01T00:00:00.000Z,D:Direct Debit,60300.0,,
+payment:198,2022-10-14T04:37:00.000Z,,,,AmountDMBTR
+payment:198,2022-10-14T04:37:00.000Z,,,,PaymentMethodZLSCH
+payment:767,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,127750.0,,
+payment:767,2024-05-22T23:27:00.000Z,,,,AmountDMBTR
+payment:767,2024-05-22T23:27:00.000Z,,,,PaymentMethodZLSCH
+payment:767,2024-05-25T14:31:00.000Z,,,,AmountDMBTR
+payment:767,2024-05-25T14:31:00.000Z,,,,PaymentMethodZLSCH
+payment:186,1970-01-01T00:00:00.000Z,D:Direct Debit,44650.0,,
+payment:186,2022-09-30T04:17:00.000Z,,,,AmountDMBTR
+payment:186,2022-09-30T04:17:00.000Z,,,,PaymentMethodZLSCH
+payment:680,1970-01-01T00:00:00.000Z,C: Bank Collection,75000.0,,
+payment:680,2024-02-27T20:52:00.000Z,,,,AmountDMBTR
+payment:680,2024-02-27T20:52:00.000Z,,,,PaymentMethodZLSCH
+payment:901,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,146250.0,,
+payment:901,2024-10-02T13:57:00.000Z,,,,AmountDMBTR
+payment:901,2024-10-02T13:57:00.000Z,,,,PaymentMethodZLSCH
+payment:4,1970-01-01T00:00:00.000Z,D:Direct Debit,21750.0,,
+payment:4,2022-04-27T12:26:00.000Z,,,,AmountDMBTR
+payment:4,2022-04-27T12:26:00.000Z,,,,PaymentMethodZLSCH
+payment:779,1970-01-01T00:00:00.000Z,C: Bank Collection,37350.0,,
+payment:779,2024-06-02T04:29:00.000Z,,,,AmountDMBTR
+payment:779,2024-06-02T04:29:00.000Z,,,,PaymentMethodZLSCH
+payment:102,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,84000.0,,
+payment:102,2022-07-31T15:16:00.000Z,,,,AmountDMBTR
+payment:102,2022-07-31T15:16:00.000Z,,,,PaymentMethodZLSCH
+payment:93,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,85300.0,,
+payment:93,2022-07-14T17:47:00.000Z,,,,AmountDMBTR
+payment:93,2022-07-14T17:47:00.000Z,,,,PaymentMethodZLSCH
+payment:106,1970-01-01T00:00:00.000Z,D:Direct Debit,185600.0,,
+payment:106,2022-07-30T01:48:00.000Z,,,,AmountDMBTR
+payment:106,2022-07-30T01:48:00.000Z,,,,PaymentMethodZLSCH
+payment:818,1970-01-01T00:00:00.000Z,D:Direct Debit,71250.0,,
+payment:818,2024-07-05T22:15:00.000Z,,,,AmountDMBTR
+payment:818,2024-07-05T22:15:00.000Z,,,,PaymentMethodZLSCH
+payment:818,2024-07-14T17:04:00.000Z,,,,AmountDMBTR
+payment:818,2024-07-14T17:04:00.000Z,,,,PaymentMethodZLSCH
+payment:818,2024-07-16T06:36:00.000Z,,,,AmountDMBTR
+payment:818,2024-07-16T06:36:00.000Z,,,,PaymentMethodZLSCH
+payment:504,1970-01-01T00:00:00.000Z,C: Bank Collection,206250.0,,
+payment:504,2023-09-13T10:19:00.000Z,,,,AmountDMBTR
+payment:504,2023-09-13T10:19:00.000Z,,,,PaymentMethodZLSCH
+payment:471,1970-01-01T00:00:00.000Z,D:Direct Debit,36900.0,,
+payment:471,2023-08-08T11:16:00.000Z,,,,AmountDMBTR
+payment:471,2023-08-08T11:16:00.000Z,,,,PaymentMethodZLSCH
+payment:614,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,375050.0,,
+payment:614,2023-12-30T10:33:00.000Z,,,,AmountDMBTR
+payment:614,2023-12-30T10:33:00.000Z,,,,PaymentMethodZLSCH
+payment:614,2024-01-01T21:52:00.000Z,,,,AmountDMBTR
+payment:614,2024-01-01T21:52:00.000Z,,,,PaymentMethodZLSCH
+payment:761,1970-01-01T00:00:00.000Z,D:Direct Debit,17650.0,,
+payment:761,2024-05-15T19:21:00.000Z,,,,AmountDMBTR
+payment:761,2024-05-15T19:21:00.000Z,,,,PaymentMethodZLSCH
+payment:761,2024-05-16T10:11:00.000Z,,,,AmountDMBTR
+payment:761,2024-05-16T10:11:00.000Z,,,,PaymentMethodZLSCH
+payment:383,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,74450.0,,
+payment:383,2023-05-24T01:33:00.000Z,,,,AmountDMBTR
+payment:383,2023-05-24T01:33:00.000Z,,,,PaymentMethodZLSCH
+payment:444,1970-01-01T00:00:00.000Z,D:Direct Debit,185350.0,,
+payment:444,2023-07-20T01:55:00.000Z,,,,AmountDMBTR
+payment:444,2023-07-20T01:55:00.000Z,,,,PaymentMethodZLSCH
+payment:909,1970-01-01T00:00:00.000Z,C: Bank Collection,26250.0,,
+payment:909,2024-10-09T03:39:00.000Z,,,,AmountDMBTR
+payment:909,2024-10-09T03:39:00.000Z,,,,PaymentMethodZLSCH
+payment:909,2024-10-09T23:02:00.000Z,,,,AmountDMBTR
+payment:909,2024-10-09T23:02:00.000Z,,,,PaymentMethodZLSCH
+payment:909,2024-10-12T03:52:00.000Z,,,,AmountDMBTR
+payment:909,2024-10-12T03:52:00.000Z,,,,PaymentMethodZLSCH
+payment:498,1970-01-01T00:00:00.000Z,D:Direct Debit,85050.0,,
+payment:498,2023-09-13T00:07:00.000Z,,,,AmountDMBTR
+payment:498,2023-09-13T00:07:00.000Z,,,,PaymentMethodZLSCH
+payment:498,2023-09-22T03:08:00.000Z,,,,AmountDMBTR
+payment:498,2023-09-22T03:08:00.000Z,,,,PaymentMethodZLSCH
+payment:498,2023-09-25T12:24:00.000Z,,,,AmountDMBTR
+payment:498,2023-09-25T12:24:00.000Z,,,,PaymentMethodZLSCH
+payment:459,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,17150.0,,
+payment:459,2023-07-31T18:36:00.000Z,,,,AmountDMBTR
+payment:459,2023-07-31T18:36:00.000Z,,,,PaymentMethodZLSCH
+payment:411,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,79650.0,,
+payment:411,2023-06-16T19:42:00.000Z,,,,AmountDMBTR
+payment:411,2023-06-16T19:42:00.000Z,,,,PaymentMethodZLSCH
+payment:411,2023-06-19T19:03:00.000Z,,,,AmountDMBTR
+payment:411,2023-06-19T19:03:00.000Z,,,,PaymentMethodZLSCH
+payment:647,1970-01-01T00:00:00.000Z,C: Bank Collection,83800.0,,
+payment:647,2024-01-30T10:43:00.000Z,,,,AmountDMBTR
+payment:647,2024-01-30T10:43:00.000Z,,,,PaymentMethodZLSCH
+payment:805,1970-01-01T00:00:00.000Z,D:Direct Debit,7350.0,,
+payment:805,2024-06-22T21:13:00.000Z,,,,AmountDMBTR
+payment:805,2024-06-22T21:13:00.000Z,,,,PaymentMethodZLSCH
+payment:911,1970-01-01T00:00:00.000Z,C: Bank Collection,64500.0,,
+payment:911,2024-10-11T21:59:00.000Z,,,,AmountDMBTR
+payment:911,2024-10-11T21:59:00.000Z,,,,PaymentMethodZLSCH
+payment:320,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24000.0,,
+payment:320,2023-03-17T05:40:00.000Z,,,,AmountDMBTR
+payment:320,2023-03-17T05:40:00.000Z,,,,PaymentMethodZLSCH
+payment:728,1970-01-01T00:00:00.000Z,C: Bank Collection,17550.0,,
+payment:728,2024-04-24T09:11:00.000Z,,,,AmountDMBTR
+payment:728,2024-04-24T09:11:00.000Z,,,,PaymentMethodZLSCH
+payment:638,1970-01-01T00:00:00.000Z,C: Bank Collection,10350.0,,
+payment:638,2024-01-15T01:37:00.000Z,,,,AmountDMBTR
+payment:638,2024-01-15T01:37:00.000Z,,,,PaymentMethodZLSCH
+payment:638,2024-01-17T23:09:00.000Z,,,,AmountDMBTR
+payment:638,2024-01-17T23:09:00.000Z,,,,PaymentMethodZLSCH
+payment:268,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,61200.0,,
+payment:268,2023-01-16T16:08:00.000Z,,,,AmountDMBTR
+payment:268,2023-01-16T16:08:00.000Z,,,,PaymentMethodZLSCH
+payment:20,1970-01-01T00:00:00.000Z,D:Direct Debit,8400.0,,
+payment:20,2022-05-12T19:07:00.000Z,,,,AmountDMBTR
+payment:20,2022-05-12T19:07:00.000Z,,,,PaymentMethodZLSCH
+payment:724,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,82150.0,,
+payment:724,2024-04-13T10:50:00.000Z,,,,AmountDMBTR
+payment:724,2024-04-13T10:50:00.000Z,,,,PaymentMethodZLSCH
+payment:356,1970-01-01T00:00:00.000Z,C: Bank Collection,23800.0,,
+payment:356,2023-04-15T17:46:00.000Z,,,,AmountDMBTR
+payment:356,2023-04-15T17:46:00.000Z,,,,PaymentMethodZLSCH
+payment:449,1970-01-01T00:00:00.000Z,C: Bank Collection,83000.0,,
+payment:449,2023-07-28T02:36:00.000Z,,,,AmountDMBTR
+payment:449,2023-07-28T02:36:00.000Z,,,,PaymentMethodZLSCH
+payment:351,1970-01-01T00:00:00.000Z,D:Direct Debit,6000.0,,
+payment:351,2023-04-15T05:16:00.000Z,,,,AmountDMBTR
+payment:351,2023-04-15T05:16:00.000Z,,,,PaymentMethodZLSCH
+payment:126,1970-01-01T00:00:00.000Z,D:Direct Debit,174800.0,,
+payment:126,2022-08-23T14:25:00.000Z,,,,AmountDMBTR
+payment:126,2022-08-23T14:25:00.000Z,,,,PaymentMethodZLSCH
+payment:372,1970-01-01T00:00:00.000Z,D:Direct Debit,2800.0,,
+payment:372,2023-05-05T15:31:00.000Z,,,,AmountDMBTR
+payment:372,2023-05-05T15:31:00.000Z,,,,PaymentMethodZLSCH
+payment:531,1970-01-01T00:00:00.000Z,D:Direct Debit,5250.0,,
+payment:531,2023-10-03T01:05:00.000Z,,,,AmountDMBTR
+payment:531,2023-10-03T01:05:00.000Z,,,,PaymentMethodZLSCH
+payment:698,1970-01-01T00:00:00.000Z,D:Direct Debit,52250.0,,
+payment:698,2024-03-18T07:48:00.000Z,,,,AmountDMBTR
+payment:698,2024-03-18T07:48:00.000Z,,,,PaymentMethodZLSCH
+payment:362,1970-01-01T00:00:00.000Z,D:Direct Debit,141450.0,,
+payment:362,2023-04-19T23:30:00.000Z,,,,AmountDMBTR
+payment:362,2023-04-19T23:30:00.000Z,,,,PaymentMethodZLSCH
+payment:831,1970-01-01T00:00:00.000Z,C: Bank Collection,8000.0,,
+payment:831,2024-07-18T19:26:00.000Z,,,,AmountDMBTR
+payment:831,2024-07-18T19:26:00.000Z,,,,PaymentMethodZLSCH
+payment:924,1970-01-01T00:00:00.000Z,C: Bank Collection,154500.0,,
+payment:924,2024-10-27T03:02:00.000Z,,,,AmountDMBTR
+payment:924,2024-10-27T03:02:00.000Z,,,,PaymentMethodZLSCH
+payment:227,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,131450.0,,
+payment:227,2022-11-14T22:50:00.000Z,,,,AmountDMBTR
+payment:227,2022-11-14T22:50:00.000Z,,,,PaymentMethodZLSCH
+payment:227,2022-11-22T11:42:00.000Z,,,,AmountDMBTR
+payment:227,2022-11-22T11:42:00.000Z,,,,PaymentMethodZLSCH
+payment:897,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,10500.0,,
+payment:897,2024-10-02T10:08:00.000Z,,,,AmountDMBTR
+payment:897,2024-10-02T10:08:00.000Z,,,,PaymentMethodZLSCH
+payment:748,1970-01-01T00:00:00.000Z,D:Direct Debit,83700.0,,
+payment:748,2024-05-09T21:49:00.000Z,,,,AmountDMBTR
+payment:748,2024-05-09T21:49:00.000Z,,,,PaymentMethodZLSCH
+payment:38,1970-01-01T00:00:00.000Z,D:Direct Debit,34650.0,,
+payment:38,2022-05-24T15:28:00.000Z,,,,AmountDMBTR
+payment:38,2022-05-24T15:28:00.000Z,,,,PaymentMethodZLSCH
+payment:169,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,4000.0,,
+payment:169,2022-09-25T16:06:00.000Z,,,,AmountDMBTR
+payment:169,2022-09-25T16:06:00.000Z,,,,PaymentMethodZLSCH
+payment:199,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,16000.0,,
+payment:199,2022-10-11T17:01:00.000Z,,,,AmountDMBTR
+payment:199,2022-10-11T17:01:00.000Z,,,,PaymentMethodZLSCH
+payment:722,1970-01-01T00:00:00.000Z,C: Bank Collection,50050.0,,
+payment:722,2024-04-08T15:44:00.000Z,,,,AmountDMBTR
+payment:722,2024-04-08T15:44:00.000Z,,,,PaymentMethodZLSCH
+payment:269,1970-01-01T00:00:00.000Z,C: Bank Collection,47250.0,,
+payment:269,2023-01-24T14:18:00.000Z,,,,AmountDMBTR
+payment:269,2023-01-24T14:18:00.000Z,,,,PaymentMethodZLSCH
+payment:705,1970-01-01T00:00:00.000Z,D:Direct Debit,20700.0,,
+payment:705,2024-03-22T04:46:00.000Z,,,,AmountDMBTR
+payment:705,2024-03-22T04:46:00.000Z,,,,PaymentMethodZLSCH
+payment:228,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,165950.0,,
+payment:228,2022-11-15T12:27:00.000Z,,,,AmountDMBTR
+payment:228,2022-11-15T12:27:00.000Z,,,,PaymentMethodZLSCH
+payment:228,2022-11-16T11:10:00.000Z,,,,AmountDMBTR
+payment:228,2022-11-16T11:10:00.000Z,,,,PaymentMethodZLSCH
+payment:153,1970-01-01T00:00:00.000Z,C: Bank Collection,178500.0,,
+payment:153,2022-09-10T22:09:00.000Z,,,,AmountDMBTR
+payment:153,2022-09-10T22:09:00.000Z,,,,PaymentMethodZLSCH
+payment:868,1970-01-01T00:00:00.000Z,D:Direct Debit,86450.0,,
+payment:868,2024-08-29T05:06:00.000Z,,,,AmountDMBTR
+payment:868,2024-08-29T05:06:00.000Z,,,,PaymentMethodZLSCH
+payment:868,2024-08-29T09:10:00.000Z,,,,AmountDMBTR
+payment:868,2024-08-29T09:10:00.000Z,,,,PaymentMethodZLSCH
+payment:296,1970-01-01T00:00:00.000Z,D:Direct Debit,123750.0,,
+payment:296,2023-02-22T11:23:00.000Z,,,,AmountDMBTR
+payment:296,2023-02-22T11:23:00.000Z,,,,PaymentMethodZLSCH
+payment:703,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,85750.0,,
+payment:703,2024-03-14T16:09:00.000Z,,,,AmountDMBTR
+payment:703,2024-03-14T16:09:00.000Z,,,,PaymentMethodZLSCH
+payment:850,1970-01-01T00:00:00.000Z,C: Bank Collection,34100.0,,
+payment:850,2024-08-05T03:53:00.000Z,,,,AmountDMBTR
+payment:850,2024-08-05T03:53:00.000Z,,,,PaymentMethodZLSCH
+payment:97,1970-01-01T00:00:00.000Z,D:Direct Debit,34250.0,,
+payment:97,2022-07-19T05:56:00.000Z,,,,AmountDMBTR
+payment:97,2022-07-19T05:56:00.000Z,,,,PaymentMethodZLSCH
+payment:369,1970-01-01T00:00:00.000Z,C: Bank Collection,8400.0,,
+payment:369,2023-04-29T01:51:00.000Z,,,,AmountDMBTR
+payment:369,2023-04-29T01:51:00.000Z,,,,PaymentMethodZLSCH
+payment:369,2023-05-02T11:20:00.000Z,,,,AmountDMBTR
+payment:369,2023-05-02T11:20:00.000Z,,,,PaymentMethodZLSCH
+payment:387,1970-01-01T00:00:00.000Z,D:Direct Debit,57350.0,,
+payment:387,2023-06-02T03:36:00.000Z,,,,AmountDMBTR
+payment:387,2023-06-02T03:36:00.000Z,,,,PaymentMethodZLSCH
+payment:842,1970-01-01T00:00:00.000Z,D:Direct Debit,29950.0,,
+payment:842,2024-07-25T19:48:00.000Z,,,,AmountDMBTR
+payment:842,2024-07-25T19:48:00.000Z,,,,PaymentMethodZLSCH
+payment:863,1970-01-01T00:00:00.000Z,D:Direct Debit,19500.0,,
+payment:863,2024-08-22T06:12:00.000Z,,,,AmountDMBTR
+payment:863,2024-08-22T06:12:00.000Z,,,,PaymentMethodZLSCH
+payment:307,1970-01-01T00:00:00.000Z,D:Direct Debit,125300.0,,
+payment:307,2023-03-07T20:04:00.000Z,,,,AmountDMBTR
+payment:307,2023-03-07T20:04:00.000Z,,,,PaymentMethodZLSCH
+payment:852,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,26600.0,,
+payment:852,2024-08-11T15:51:00.000Z,,,,AmountDMBTR
+payment:852,2024-08-11T15:51:00.000Z,,,,PaymentMethodZLSCH
+payment:862,1970-01-01T00:00:00.000Z,C: Bank Collection,48000.0,,
+payment:862,2024-08-24T09:08:00.000Z,,,,AmountDMBTR
+payment:862,2024-08-24T09:08:00.000Z,,,,PaymentMethodZLSCH
+payment:468,1970-01-01T00:00:00.000Z,C: Bank Collection,10000.0,,
+payment:468,2023-08-09T15:18:00.000Z,,,,AmountDMBTR
+payment:468,2023-08-09T15:18:00.000Z,,,,PaymentMethodZLSCH
+payment:147,1970-01-01T00:00:00.000Z,C: Bank Collection,26250.0,,
+payment:147,2022-09-07T05:42:00.000Z,,,,AmountDMBTR
+payment:147,2022-09-07T05:42:00.000Z,,,,PaymentMethodZLSCH
+payment:147,2022-09-09T13:40:00.000Z,,,,AmountDMBTR
+payment:147,2022-09-09T13:40:00.000Z,,,,PaymentMethodZLSCH
+payment:910,1970-01-01T00:00:00.000Z,C: Bank Collection,19450.0,,
+payment:910,2024-10-07T16:42:00.000Z,,,,AmountDMBTR
+payment:910,2024-10-07T16:42:00.000Z,,,,PaymentMethodZLSCH
+payment:140,1970-01-01T00:00:00.000Z,D:Direct Debit,82600.0,,
+payment:140,2022-09-02T15:04:00.000Z,,,,AmountDMBTR
+payment:140,2022-09-02T15:04:00.000Z,,,,PaymentMethodZLSCH
+payment:521,1970-01-01T00:00:00.000Z,C: Bank Collection,290400.0,,
+payment:521,2023-09-25T16:58:00.000Z,,,,AmountDMBTR
+payment:521,2023-09-25T16:58:00.000Z,,,,PaymentMethodZLSCH
+payment:338,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,44400.0,,
+payment:338,2023-03-27T18:32:00.000Z,,,,AmountDMBTR
+payment:338,2023-03-27T18:32:00.000Z,,,,PaymentMethodZLSCH
+payment:338,2023-03-31T05:43:00.000Z,,,,AmountDMBTR
+payment:338,2023-03-31T05:43:00.000Z,,,,PaymentMethodZLSCH
+payment:338,2023-04-03T00:27:00.000Z,,,,AmountDMBTR
+payment:338,2023-04-03T00:27:00.000Z,,,,PaymentMethodZLSCH
+payment:533,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,62600.0,,
+payment:533,2023-10-03T07:15:00.000Z,,,,AmountDMBTR
+payment:533,2023-10-03T07:15:00.000Z,,,,PaymentMethodZLSCH
+payment:898,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,63150.0,,
+payment:898,2024-10-03T12:21:00.000Z,,,,AmountDMBTR
+payment:898,2024-10-03T12:21:00.000Z,,,,PaymentMethodZLSCH
+payment:912,1970-01-01T00:00:00.000Z,D:Direct Debit,42000.0,,
+payment:912,2024-10-11T08:19:00.000Z,,,,AmountDMBTR
+payment:912,2024-10-11T08:19:00.000Z,,,,PaymentMethodZLSCH
+payment:300,1970-01-01T00:00:00.000Z,D:Direct Debit,2800.0,,
+payment:300,2023-02-27T21:23:00.000Z,,,,AmountDMBTR
+payment:300,2023-02-27T21:23:00.000Z,,,,PaymentMethodZLSCH
+payment:708,1970-01-01T00:00:00.000Z,D:Direct Debit,95800.0,,
+payment:708,2024-03-26T16:52:00.000Z,,,,AmountDMBTR
+payment:708,2024-03-26T16:52:00.000Z,,,,PaymentMethodZLSCH
+payment:65,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,18750.0,,
+payment:65,2022-06-15T01:51:00.000Z,,,,AmountDMBTR
+payment:65,2022-06-15T01:51:00.000Z,,,,PaymentMethodZLSCH
+payment:564,1970-01-01T00:00:00.000Z,C: Bank Collection,112500.0,,
+payment:564,2023-11-16T06:01:00.000Z,,,,AmountDMBTR
+payment:564,2023-11-16T06:01:00.000Z,,,,PaymentMethodZLSCH
+payment:114,1970-01-01T00:00:00.000Z,C: Bank Collection,28800.0,,
+payment:114,2022-08-04T12:20:00.000Z,,,,AmountDMBTR
+payment:114,2022-08-04T12:20:00.000Z,,,,PaymentMethodZLSCH
+payment:114,2022-08-08T06:08:00.000Z,,,,AmountDMBTR
+payment:114,2022-08-08T06:08:00.000Z,,,,PaymentMethodZLSCH
+payment:114,2022-08-10T21:07:00.000Z,,,,AmountDMBTR
+payment:114,2022-08-10T21:07:00.000Z,,,,PaymentMethodZLSCH
+payment:179,1970-01-01T00:00:00.000Z,C: Bank Collection,60200.0,,
+payment:179,2022-09-30T23:55:00.000Z,,,,AmountDMBTR
+payment:179,2022-09-30T23:55:00.000Z,,,,PaymentMethodZLSCH
+payment:535,1970-01-01T00:00:00.000Z,D:Direct Debit,1200.0,,
+payment:535,2023-10-06T20:17:00.000Z,,,,AmountDMBTR
+payment:535,2023-10-06T20:17:00.000Z,,,,PaymentMethodZLSCH
+payment:677,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,12600.0,,
+payment:677,2024-02-28T09:22:00.000Z,,,,AmountDMBTR
+payment:677,2024-02-28T09:22:00.000Z,,,,PaymentMethodZLSCH
+payment:208,1970-01-01T00:00:00.000Z,C: Bank Collection,48500.0,,
+payment:208,2022-10-13T23:06:00.000Z,,,,AmountDMBTR
+payment:208,2022-10-13T23:06:00.000Z,,,,PaymentMethodZLSCH
+payment:771,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40900.0,,
+payment:771,2024-05-26T00:45:00.000Z,,,,AmountDMBTR
+payment:771,2024-05-26T00:45:00.000Z,,,,PaymentMethodZLSCH
+payment:856,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,125000.0,,
+payment:856,2024-08-21T06:22:00.000Z,,,,AmountDMBTR
+payment:856,2024-08-21T06:22:00.000Z,,,,PaymentMethodZLSCH
+payment:859,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,56250.0,,
+payment:859,2024-08-18T18:44:00.000Z,,,,AmountDMBTR
+payment:859,2024-08-18T18:44:00.000Z,,,,PaymentMethodZLSCH
+payment:125,1970-01-01T00:00:00.000Z,D:Direct Debit,233200.0,,
+payment:125,2022-08-18T20:38:00.000Z,,,,AmountDMBTR
+payment:125,2022-08-18T20:38:00.000Z,,,,PaymentMethodZLSCH
+payment:892,1970-01-01T00:00:00.000Z,D:Direct Debit,28350.0,,
+payment:892,2024-10-07T01:04:00.000Z,,,,AmountDMBTR
+payment:892,2024-10-07T01:04:00.000Z,,,,PaymentMethodZLSCH
+payment:892,2024-10-13T09:52:00.000Z,,,,AmountDMBTR
+payment:892,2024-10-13T09:52:00.000Z,,,,PaymentMethodZLSCH
+payment:633,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,21000.0,,
+payment:633,2024-01-12T05:48:00.000Z,,,,AmountDMBTR
+payment:633,2024-01-12T05:48:00.000Z,,,,PaymentMethodZLSCH
+payment:464,1970-01-01T00:00:00.000Z,D:Direct Debit,105800.0,,
+payment:464,2023-08-04T17:07:00.000Z,,,,AmountDMBTR
+payment:464,2023-08-04T17:07:00.000Z,,,,PaymentMethodZLSCH
+payment:21,1970-01-01T00:00:00.000Z,C: Bank Collection,14850.0,,
+payment:21,2022-05-15T23:44:00.000Z,,,,AmountDMBTR
+payment:21,2022-05-15T23:44:00.000Z,,,,PaymentMethodZLSCH
+payment:534,1970-01-01T00:00:00.000Z,C: Bank Collection,51000.0,,
+payment:534,2023-10-07T03:38:00.000Z,,,,AmountDMBTR
+payment:534,2023-10-07T03:38:00.000Z,,,,PaymentMethodZLSCH
+payment:534,2023-10-09T08:22:00.000Z,,,,AmountDMBTR
+payment:534,2023-10-09T08:22:00.000Z,,,,PaymentMethodZLSCH
+payment:717,1970-01-01T00:00:00.000Z,C: Bank Collection,33950.0,,
+payment:717,2024-04-06T07:47:00.000Z,,,,AmountDMBTR
+payment:717,2024-04-06T07:47:00.000Z,,,,PaymentMethodZLSCH
+payment:712,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,177400.0,,
+payment:712,2024-04-10T02:12:00.000Z,,,,AmountDMBTR
+payment:712,2024-04-10T02:12:00.000Z,,,,PaymentMethodZLSCH
+payment:103,1970-01-01T00:00:00.000Z,C: Bank Collection,41350.0,,
+payment:103,2022-07-25T19:33:00.000Z,,,,AmountDMBTR
+payment:103,2022-07-25T19:33:00.000Z,,,,PaymentMethodZLSCH
+payment:662,1970-01-01T00:00:00.000Z,D:Direct Debit,74400.0,,
+payment:662,2024-02-08T12:55:00.000Z,,,,AmountDMBTR
+payment:662,2024-02-08T12:55:00.000Z,,,,PaymentMethodZLSCH
+payment:568,1970-01-01T00:00:00.000Z,C: Bank Collection,21000.0,,
+payment:568,2023-11-24T14:54:00.000Z,,,,AmountDMBTR
+payment:568,2023-11-24T14:54:00.000Z,,,,PaymentMethodZLSCH
+payment:568,2023-11-25T22:46:00.000Z,,,,AmountDMBTR
+payment:568,2023-11-25T22:46:00.000Z,,,,PaymentMethodZLSCH
+payment:19,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,117300.0,,
+payment:19,2022-05-14T09:32:00.000Z,,,,AmountDMBTR
+payment:19,2022-05-14T09:32:00.000Z,,,,PaymentMethodZLSCH
+payment:847,1970-01-01T00:00:00.000Z,C: Bank Collection,84000.0,,
+payment:847,2024-07-31T10:55:00.000Z,,,,AmountDMBTR
+payment:847,2024-07-31T10:55:00.000Z,,,,PaymentMethodZLSCH
+payment:847,2024-08-01T21:24:00.000Z,,,,AmountDMBTR
+payment:847,2024-08-01T21:24:00.000Z,,,,PaymentMethodZLSCH
+payment:706,1970-01-01T00:00:00.000Z,C: Bank Collection,1450.0,,
+payment:706,2024-03-19T12:29:00.000Z,,,,AmountDMBTR
+payment:706,2024-03-19T12:29:00.000Z,,,,PaymentMethodZLSCH
+payment:77,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,76650.0,,
+payment:77,2022-06-28T17:17:00.000Z,,,,AmountDMBTR
+payment:77,2022-06-28T17:17:00.000Z,,,,PaymentMethodZLSCH
+payment:77,2022-06-30T23:12:00.000Z,,,,AmountDMBTR
+payment:77,2022-06-30T23:12:00.000Z,,,,PaymentMethodZLSCH
+payment:109,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,81900.0,,
+payment:109,2022-07-31T07:54:00.000Z,,,,AmountDMBTR
+payment:109,2022-07-31T07:54:00.000Z,,,,PaymentMethodZLSCH
+payment:109,2022-08-01T15:54:00.000Z,,,,AmountDMBTR
+payment:109,2022-08-01T15:54:00.000Z,,,,PaymentMethodZLSCH
+payment:742,1970-01-01T00:00:00.000Z,D:Direct Debit,102300.0,,
+payment:742,2024-05-01T01:29:00.000Z,,,,AmountDMBTR
+payment:742,2024-05-01T01:29:00.000Z,,,,PaymentMethodZLSCH
+payment:309,1970-01-01T00:00:00.000Z,D:Direct Debit,23700.0,,
+payment:309,2023-03-08T15:04:00.000Z,,,,AmountDMBTR
+payment:309,2023-03-08T15:04:00.000Z,,,,PaymentMethodZLSCH
+payment:398,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,55650.0,,
+payment:398,2023-06-02T05:54:00.000Z,,,,AmountDMBTR
+payment:398,2023-06-02T05:54:00.000Z,,,,PaymentMethodZLSCH
+payment:538,1970-01-01T00:00:00.000Z,C: Bank Collection,139750.0,,
+payment:538,2023-10-11T06:29:00.000Z,,,,AmountDMBTR
+payment:538,2023-10-11T06:29:00.000Z,,,,PaymentMethodZLSCH
+payment:211,1970-01-01T00:00:00.000Z,C: Bank Collection,23800.0,,
+payment:211,2022-10-20T22:36:00.000Z,,,,AmountDMBTR
+payment:211,2022-10-20T22:36:00.000Z,,,,PaymentMethodZLSCH
+payment:813,1970-01-01T00:00:00.000Z,D:Direct Debit,44800.0,,
+payment:813,2024-06-30T12:17:00.000Z,,,,AmountDMBTR
+payment:813,2024-06-30T12:17:00.000Z,,,,PaymentMethodZLSCH
+payment:794,1970-01-01T00:00:00.000Z,D:Direct Debit,15300.0,,
+payment:794,2024-06-13T14:40:00.000Z,,,,AmountDMBTR
+payment:794,2024-06-13T14:40:00.000Z,,,,PaymentMethodZLSCH
+payment:794,2024-06-13T15:23:00.000Z,,,,AmountDMBTR
+payment:794,2024-06-13T15:23:00.000Z,,,,PaymentMethodZLSCH
+payment:401,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,20100.0,,
+payment:401,2023-06-02T18:17:00.000Z,,,,AmountDMBTR
+payment:401,2023-06-02T18:17:00.000Z,,,,PaymentMethodZLSCH
+payment:527,1970-01-01T00:00:00.000Z,C: Bank Collection,96200.0,,
+payment:527,2023-09-29T06:13:00.000Z,,,,AmountDMBTR
+payment:527,2023-09-29T06:13:00.000Z,,,,PaymentMethodZLSCH
+payment:2,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,68600.0,,
+payment:2,2022-04-18T10:05:00.000Z,,,,AmountDMBTR
+payment:2,2022-04-18T10:05:00.000Z,,,,PaymentMethodZLSCH
+payment:54,1970-01-01T00:00:00.000Z,C: Bank Collection,141950.0,,
+payment:54,2022-06-08T01:22:00.000Z,,,,AmountDMBTR
+payment:54,2022-06-08T01:22:00.000Z,,,,PaymentMethodZLSCH
+payment:54,2022-06-20T10:05:00.000Z,,,,AmountDMBTR
+payment:54,2022-06-20T10:05:00.000Z,,,,PaymentMethodZLSCH
+payment:416,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,51600.0,,
+payment:416,2023-06-21T10:46:00.000Z,,,,AmountDMBTR
+payment:416,2023-06-21T10:46:00.000Z,,,,PaymentMethodZLSCH
+payment:416,2023-06-22T03:41:00.000Z,,,,AmountDMBTR
+payment:416,2023-06-22T03:41:00.000Z,,,,PaymentMethodZLSCH
+payment:656,1970-01-01T00:00:00.000Z,C: Bank Collection,105600.0,,
+payment:656,2024-02-09T20:25:00.000Z,,,,AmountDMBTR
+payment:656,2024-02-09T20:25:00.000Z,,,,PaymentMethodZLSCH
+payment:72,1970-01-01T00:00:00.000Z,D:Direct Debit,18800.0,,
+payment:72,2022-06-28T14:59:00.000Z,,,,AmountDMBTR
+payment:72,2022-06-28T14:59:00.000Z,,,,PaymentMethodZLSCH
+payment:158,1970-01-01T00:00:00.000Z,C: Bank Collection,78300.0,,
+payment:158,2022-09-22T21:48:00.000Z,,,,AmountDMBTR
+payment:158,2022-09-22T21:48:00.000Z,,,,PaymentMethodZLSCH
+payment:678,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,12400.0,,
+payment:678,2024-02-23T19:40:00.000Z,,,,AmountDMBTR
+payment:678,2024-02-23T19:40:00.000Z,,,,PaymentMethodZLSCH
+payment:150,1970-01-01T00:00:00.000Z,D:Direct Debit,9600.0,,
+payment:150,2022-09-11T21:35:00.000Z,,,,AmountDMBTR
+payment:150,2022-09-11T21:35:00.000Z,,,,PaymentMethodZLSCH
+payment:220,1970-01-01T00:00:00.000Z,D:Direct Debit,142500.0,,
+payment:220,2022-11-03T22:10:00.000Z,,,,AmountDMBTR
+payment:220,2022-11-03T22:10:00.000Z,,,,PaymentMethodZLSCH
+payment:385,1970-01-01T00:00:00.000Z,D:Direct Debit,100800.0,,
+payment:385,2023-05-23T02:11:00.000Z,,,,AmountDMBTR
+payment:385,2023-05-23T02:11:00.000Z,,,,PaymentMethodZLSCH
+payment:380,1970-01-01T00:00:00.000Z,D:Direct Debit,11600.0,,
+payment:380,2023-05-12T22:57:00.000Z,,,,AmountDMBTR
+payment:380,2023-05-12T22:57:00.000Z,,,,PaymentMethodZLSCH
+payment:840,1970-01-01T00:00:00.000Z,C: Bank Collection,32500.0,,
+payment:840,2024-08-01T14:38:00.000Z,,,,AmountDMBTR
+payment:840,2024-08-01T14:38:00.000Z,,,,PaymentMethodZLSCH
+payment:162,1970-01-01T00:00:00.000Z,C: Bank Collection,66600.0,,
+payment:162,2022-09-20T05:16:00.000Z,,,,AmountDMBTR
+payment:162,2022-09-20T05:16:00.000Z,,,,PaymentMethodZLSCH
+payment:600,1970-01-01T00:00:00.000Z,D:Direct Debit,29950.0,,
+payment:600,2023-12-17T06:12:00.000Z,,,,AmountDMBTR
+payment:600,2023-12-17T06:12:00.000Z,,,,PaymentMethodZLSCH
+payment:382,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,28300.0,,
+payment:382,2023-05-31T21:13:00.000Z,,,,AmountDMBTR
+payment:382,2023-05-31T21:13:00.000Z,,,,PaymentMethodZLSCH
+payment:14,1970-01-01T00:00:00.000Z,C: Bank Collection,54000.0,,
+payment:14,2022-05-10T19:28:00.000Z,,,,AmountDMBTR
+payment:14,2022-05-10T19:28:00.000Z,,,,PaymentMethodZLSCH
+payment:788,1970-01-01T00:00:00.000Z,C: Bank Collection,41600.0,,
+payment:788,2024-06-20T01:32:00.000Z,,,,AmountDMBTR
+payment:788,2024-06-20T01:32:00.000Z,,,,PaymentMethodZLSCH
+payment:243,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,18900.0,,
+payment:243,2022-12-16T07:07:00.000Z,,,,AmountDMBTR
+payment:243,2022-12-16T07:07:00.000Z,,,,PaymentMethodZLSCH
+payment:243,2022-12-17T06:52:00.000Z,,,,AmountDMBTR
+payment:243,2022-12-17T06:52:00.000Z,,,,PaymentMethodZLSCH
+payment:880,1970-01-01T00:00:00.000Z,D:Direct Debit,50700.0,,
+payment:880,2024-09-16T20:26:00.000Z,,,,AmountDMBTR
+payment:880,2024-09-16T20:26:00.000Z,,,,PaymentMethodZLSCH
+payment:880,2024-09-22T20:41:00.000Z,,,,AmountDMBTR
+payment:880,2024-09-22T20:41:00.000Z,,,,PaymentMethodZLSCH
+payment:428,1970-01-01T00:00:00.000Z,C: Bank Collection,89600.0,,
+payment:428,2023-07-11T23:32:00.000Z,,,,AmountDMBTR
+payment:428,2023-07-11T23:32:00.000Z,,,,PaymentMethodZLSCH
+payment:593,1970-01-01T00:00:00.000Z,C: Bank Collection,18500.0,,
+payment:593,2023-12-10T07:15:00.000Z,,,,AmountDMBTR
+payment:593,2023-12-10T07:15:00.000Z,,,,PaymentMethodZLSCH
+payment:520,1970-01-01T00:00:00.000Z,D:Direct Debit,123100.0,,
+payment:520,2023-09-26T04:26:00.000Z,,,,AmountDMBTR
+payment:520,2023-09-26T04:26:00.000Z,,,,PaymentMethodZLSCH
+payment:626,1970-01-01T00:00:00.000Z,C: Bank Collection,26600.0,,
+payment:626,2024-01-13T12:09:00.000Z,,,,AmountDMBTR
+payment:626,2024-01-13T12:09:00.000Z,,,,PaymentMethodZLSCH
+payment:559,1970-01-01T00:00:00.000Z,D:Direct Debit,93450.0,,
+payment:559,2023-11-10T14:44:00.000Z,,,,AmountDMBTR
+payment:559,2023-11-10T14:44:00.000Z,,,,PaymentMethodZLSCH
+payment:559,2023-11-14T02:17:00.000Z,,,,AmountDMBTR
+payment:559,2023-11-14T02:17:00.000Z,,,,PaymentMethodZLSCH
+payment:312,1970-01-01T00:00:00.000Z,D:Direct Debit,123750.0,,
+payment:312,2023-03-11T02:37:00.000Z,,,,AmountDMBTR
+payment:312,2023-03-11T02:37:00.000Z,,,,PaymentMethodZLSCH
+payment:219,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,34350.0,,
+payment:219,2022-10-29T07:18:00.000Z,,,,AmountDMBTR
+payment:219,2022-10-29T07:18:00.000Z,,,,PaymentMethodZLSCH
+payment:540,1970-01-01T00:00:00.000Z,D:Direct Debit,272200.0,,
+payment:540,2023-10-12T09:39:00.000Z,,,,AmountDMBTR
+payment:540,2023-10-12T09:39:00.000Z,,,,PaymentMethodZLSCH
+payment:773,1970-01-01T00:00:00.000Z,D:Direct Debit,106050.0,,
+payment:773,2024-05-28T04:01:00.000Z,,,,AmountDMBTR
+payment:773,2024-05-28T04:01:00.000Z,,,,PaymentMethodZLSCH
+payment:567,1970-01-01T00:00:00.000Z,D:Direct Debit,46500.0,,
+payment:567,2023-11-27T22:13:00.000Z,,,,AmountDMBTR
+payment:567,2023-11-27T22:13:00.000Z,,,,PaymentMethodZLSCH
+payment:470,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,16250.0,,
+payment:470,2023-08-14T07:48:00.000Z,,,,AmountDMBTR
+payment:470,2023-08-14T07:48:00.000Z,,,,PaymentMethodZLSCH
+payment:502,1970-01-01T00:00:00.000Z,D:Direct Debit,114600.0,,
+payment:502,2023-09-13T14:45:00.000Z,,,,AmountDMBTR
+payment:502,2023-09-13T14:45:00.000Z,,,,PaymentMethodZLSCH
+payment:843,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,26600.0,,
+payment:843,2024-07-29T14:10:00.000Z,,,,AmountDMBTR
+payment:843,2024-07-29T14:10:00.000Z,,,,PaymentMethodZLSCH
+payment:791,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,76500.0,,
+payment:791,2024-06-18T08:05:00.000Z,,,,AmountDMBTR
+payment:791,2024-06-18T08:05:00.000Z,,,,PaymentMethodZLSCH
+payment:772,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,129050.0,,
+payment:772,2024-05-22T09:23:00.000Z,,,,AmountDMBTR
+payment:772,2024-05-22T09:23:00.000Z,,,,PaymentMethodZLSCH
+payment:785,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,3600.0,,
+payment:785,2024-06-17T13:43:00.000Z,,,,AmountDMBTR
+payment:785,2024-06-17T13:43:00.000Z,,,,PaymentMethodZLSCH
+payment:819,1970-01-01T00:00:00.000Z,C: Bank Collection,14900.0,,
+payment:819,2024-07-12T15:13:00.000Z,,,,AmountDMBTR
+payment:819,2024-07-12T15:13:00.000Z,,,,PaymentMethodZLSCH
+payment:819,2024-07-15T19:25:00.000Z,,,,AmountDMBTR
+payment:819,2024-07-15T19:25:00.000Z,,,,PaymentMethodZLSCH
+payment:819,2024-07-18T10:20:00.000Z,,,,AmountDMBTR
+payment:819,2024-07-18T10:20:00.000Z,,,,PaymentMethodZLSCH
+payment:625,1970-01-01T00:00:00.000Z,C: Bank Collection,20700.0,,
+payment:625,2024-01-07T15:19:00.000Z,,,,AmountDMBTR
+payment:625,2024-01-07T15:19:00.000Z,,,,PaymentMethodZLSCH
+payment:617,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27000.0,,
+payment:617,2023-12-29T11:24:00.000Z,,,,AmountDMBTR
+payment:617,2023-12-29T11:24:00.000Z,,,,PaymentMethodZLSCH
+payment:517,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,1600.0,,
+payment:517,2023-09-22T17:58:00.000Z,,,,AmountDMBTR
+payment:517,2023-09-22T17:58:00.000Z,,,,PaymentMethodZLSCH
+payment:723,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,38250.0,,
+payment:723,2024-04-16T01:42:00.000Z,,,,AmountDMBTR
+payment:723,2024-04-16T01:42:00.000Z,,,,PaymentMethodZLSCH
+payment:530,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,156750.0,,
+payment:530,2023-10-01T07:13:00.000Z,,,,AmountDMBTR
+payment:530,2023-10-01T07:13:00.000Z,,,,PaymentMethodZLSCH
+payment:875,1970-01-01T00:00:00.000Z,D:Direct Debit,27900.0,,
+payment:875,2024-09-17T17:13:00.000Z,,,,AmountDMBTR
+payment:875,2024-09-17T17:13:00.000Z,,,,PaymentMethodZLSCH
+payment:124,1970-01-01T00:00:00.000Z,D:Direct Debit,66900.0,,
+payment:124,2022-08-20T08:00:00.000Z,,,,AmountDMBTR
+payment:124,2022-08-20T08:00:00.000Z,,,,PaymentMethodZLSCH
+payment:124,2022-08-22T18:50:00.000Z,,,,AmountDMBTR
+payment:124,2022-08-22T18:50:00.000Z,,,,PaymentMethodZLSCH
+payment:389,1970-01-01T00:00:00.000Z,C: Bank Collection,13200.0,,
+payment:389,2023-05-26T06:23:00.000Z,,,,AmountDMBTR
+payment:389,2023-05-26T06:23:00.000Z,,,,PaymentMethodZLSCH
+payment:389,2023-05-29T03:26:00.000Z,,,,AmountDMBTR
+payment:389,2023-05-29T03:26:00.000Z,,,,PaymentMethodZLSCH
+payment:389,2023-05-31T21:39:00.000Z,,,,AmountDMBTR
+payment:389,2023-05-31T21:39:00.000Z,,,,PaymentMethodZLSCH
+payment:778,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,105600.0,,
+payment:778,2024-05-30T15:20:00.000Z,,,,AmountDMBTR
+payment:778,2024-05-30T15:20:00.000Z,,,,PaymentMethodZLSCH
+payment:79,1970-01-01T00:00:00.000Z,C: Bank Collection,2500.0,,
+payment:79,2022-07-01T00:27:00.000Z,,,,AmountDMBTR
+payment:79,2022-07-01T00:27:00.000Z,,,,PaymentMethodZLSCH
+payment:341,1970-01-01T00:00:00.000Z,D:Direct Debit,16450.0,,
+payment:341,2023-03-31T03:44:00.000Z,,,,AmountDMBTR
+payment:341,2023-03-31T03:44:00.000Z,,,,PaymentMethodZLSCH
+payment:23,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,20150.0,,
+payment:23,2022-05-16T04:52:00.000Z,,,,AmountDMBTR
+payment:23,2022-05-16T04:52:00.000Z,,,,PaymentMethodZLSCH
+payment:23,2022-05-23T05:23:00.000Z,,,,AmountDMBTR
+payment:23,2022-05-23T05:23:00.000Z,,,,PaymentMethodZLSCH
+payment:747,1970-01-01T00:00:00.000Z,D:Direct Debit,82800.0,,
+payment:747,2024-05-04T19:55:00.000Z,,,,AmountDMBTR
+payment:747,2024-05-04T19:55:00.000Z,,,,PaymentMethodZLSCH
+payment:149,1970-01-01T00:00:00.000Z,D:Direct Debit,123500.0,,
+payment:149,2022-09-11T03:23:00.000Z,,,,AmountDMBTR
+payment:149,2022-09-11T03:23:00.000Z,,,,PaymentMethodZLSCH
+payment:315,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,83700.0,,
+payment:315,2023-03-14T10:55:00.000Z,,,,AmountDMBTR
+payment:315,2023-03-14T10:55:00.000Z,,,,PaymentMethodZLSCH
+payment:562,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,26700.0,,
+payment:562,2023-11-17T06:13:00.000Z,,,,AmountDMBTR
+payment:562,2023-11-17T06:13:00.000Z,,,,PaymentMethodZLSCH
+payment:562,2023-11-18T13:10:00.000Z,,,,AmountDMBTR
+payment:562,2023-11-18T13:10:00.000Z,,,,PaymentMethodZLSCH
+payment:907,1970-01-01T00:00:00.000Z,C: Bank Collection,15600.0,,
+payment:907,2024-10-06T04:39:00.000Z,,,,AmountDMBTR
+payment:907,2024-10-06T04:39:00.000Z,,,,PaymentMethodZLSCH
+payment:214,1970-01-01T00:00:00.000Z,C: Bank Collection,40500.0,,
+payment:214,2022-10-30T16:45:00.000Z,,,,AmountDMBTR
+payment:214,2022-10-30T16:45:00.000Z,,,,PaymentMethodZLSCH
+payment:686,1970-01-01T00:00:00.000Z,C: Bank Collection,61750.0,,
+payment:686,2024-03-04T09:12:00.000Z,,,,AmountDMBTR
+payment:686,2024-03-04T09:12:00.000Z,,,,PaymentMethodZLSCH
+payment:686,2024-03-06T00:46:00.000Z,,,,AmountDMBTR
+payment:686,2024-03-06T00:46:00.000Z,,,,PaymentMethodZLSCH
+payment:235,1970-01-01T00:00:00.000Z,D:Direct Debit,16500.0,,
+payment:235,2022-11-26T14:40:00.000Z,,,,AmountDMBTR
+payment:235,2022-11-26T14:40:00.000Z,,,,PaymentMethodZLSCH
+payment:22,1970-01-01T00:00:00.000Z,C: Bank Collection,40700.0,,
+payment:22,2022-05-12T11:51:00.000Z,,,,AmountDMBTR
+payment:22,2022-05-12T11:51:00.000Z,,,,PaymentMethodZLSCH
+payment:155,1970-01-01T00:00:00.000Z,C: Bank Collection,3900.0,,
+payment:155,2022-09-28T05:01:00.000Z,,,,AmountDMBTR
+payment:155,2022-09-28T05:01:00.000Z,,,,PaymentMethodZLSCH
+payment:155,2022-10-01T01:22:00.000Z,,,,AmountDMBTR
+payment:155,2022-10-01T01:22:00.000Z,,,,PaymentMethodZLSCH
+payment:644,1970-01-01T00:00:00.000Z,D:Direct Debit,209000.0,,
+payment:644,2024-01-24T17:28:00.000Z,,,,AmountDMBTR
+payment:644,2024-01-24T17:28:00.000Z,,,,PaymentMethodZLSCH
+payment:644,2024-01-25T19:32:00.000Z,,,,AmountDMBTR
+payment:644,2024-01-25T19:32:00.000Z,,,,PaymentMethodZLSCH
+payment:726,1970-01-01T00:00:00.000Z,C: Bank Collection,153600.0,,
+payment:726,2024-04-11T18:24:00.000Z,,,,AmountDMBTR
+payment:726,2024-04-11T18:24:00.000Z,,,,PaymentMethodZLSCH
+payment:726,2024-04-18T23:24:00.000Z,,,,AmountDMBTR
+payment:726,2024-04-18T23:24:00.000Z,,,,PaymentMethodZLSCH
+payment:726,2024-04-25T08:57:00.000Z,,,,AmountDMBTR
+payment:726,2024-04-25T08:57:00.000Z,,,,PaymentMethodZLSCH
+payment:466,1970-01-01T00:00:00.000Z,C: Bank Collection,40600.0,,
+payment:466,2023-08-09T06:11:00.000Z,,,,AmountDMBTR
+payment:466,2023-08-09T06:11:00.000Z,,,,PaymentMethodZLSCH
+payment:466,2023-08-09T08:37:00.000Z,,,,AmountDMBTR
+payment:466,2023-08-09T08:37:00.000Z,,,,PaymentMethodZLSCH
+payment:463,1970-01-01T00:00:00.000Z,D:Direct Debit,56850.0,,
+payment:463,2023-08-05T19:22:00.000Z,,,,AmountDMBTR
+payment:463,2023-08-05T19:22:00.000Z,,,,PaymentMethodZLSCH
+payment:641,1970-01-01T00:00:00.000Z,D:Direct Debit,169500.0,,
+payment:641,2024-01-17T17:04:00.000Z,,,,AmountDMBTR
+payment:641,2024-01-17T17:04:00.000Z,,,,PaymentMethodZLSCH
+payment:739,1970-01-01T00:00:00.000Z,C: Bank Collection,231450.0,,
+payment:739,2024-04-25T12:07:00.000Z,,,,AmountDMBTR
+payment:739,2024-04-25T12:07:00.000Z,,,,PaymentMethodZLSCH
+payment:739,2024-04-27T10:06:00.000Z,,,,AmountDMBTR
+payment:739,2024-04-27T10:06:00.000Z,,,,PaymentMethodZLSCH
+payment:101,1970-01-01T00:00:00.000Z,D:Direct Debit,16150.0,,
+payment:101,2022-07-27T05:30:00.000Z,,,,AmountDMBTR
+payment:101,2022-07-27T05:30:00.000Z,,,,PaymentMethodZLSCH
+payment:667,1970-01-01T00:00:00.000Z,D:Direct Debit,28850.0,,
+payment:667,2024-02-14T16:33:00.000Z,,,,AmountDMBTR
+payment:667,2024-02-14T16:33:00.000Z,,,,PaymentMethodZLSCH
+payment:427,1970-01-01T00:00:00.000Z,C: Bank Collection,155450.0,,
+payment:427,2023-07-07T14:33:00.000Z,,,,AmountDMBTR
+payment:427,2023-07-07T14:33:00.000Z,,,,PaymentMethodZLSCH
+payment:655,1970-01-01T00:00:00.000Z,D:Direct Debit,9900.0,,
+payment:655,2024-02-06T18:51:00.000Z,,,,AmountDMBTR
+payment:655,2024-02-06T18:51:00.000Z,,,,PaymentMethodZLSCH
+payment:916,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27550.0,,
+payment:916,2024-10-09T15:18:00.000Z,,,,AmountDMBTR
+payment:916,2024-10-09T15:18:00.000Z,,,,PaymentMethodZLSCH
+payment:732,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,73500.0,,
+payment:732,2024-04-19T16:07:00.000Z,,,,AmountDMBTR
+payment:732,2024-04-19T16:07:00.000Z,,,,PaymentMethodZLSCH
+payment:91,1970-01-01T00:00:00.000Z,D:Direct Debit,39150.0,,
+payment:91,2022-07-11T22:52:00.000Z,,,,AmountDMBTR
+payment:91,2022-07-11T22:52:00.000Z,,,,PaymentMethodZLSCH
+payment:91,2022-07-20T03:59:00.000Z,,,,AmountDMBTR
+payment:91,2022-07-20T03:59:00.000Z,,,,PaymentMethodZLSCH
+payment:780,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,25200.0,,
+payment:780,2024-05-31T22:14:00.000Z,,,,AmountDMBTR
+payment:780,2024-05-31T22:14:00.000Z,,,,PaymentMethodZLSCH
+payment:18,1970-01-01T00:00:00.000Z,C: Bank Collection,39650.0,,
+payment:18,2022-05-16T20:34:00.000Z,,,,AmountDMBTR
+payment:18,2022-05-16T20:34:00.000Z,,,,PaymentMethodZLSCH
+payment:554,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,154350.0,,
+payment:554,2023-11-06T11:49:00.000Z,,,,AmountDMBTR
+payment:554,2023-11-06T11:49:00.000Z,,,,PaymentMethodZLSCH
+payment:215,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,24300.0,,
+payment:215,2022-10-27T00:49:00.000Z,,,,AmountDMBTR
+payment:215,2022-10-27T00:49:00.000Z,,,,PaymentMethodZLSCH
+payment:545,1970-01-01T00:00:00.000Z,D:Direct Debit,24700.0,,
+payment:545,2023-10-19T06:36:00.000Z,,,,AmountDMBTR
+payment:545,2023-10-19T06:36:00.000Z,,,,PaymentMethodZLSCH
+payment:545,2023-10-22T03:01:00.000Z,,,,AmountDMBTR
+payment:545,2023-10-22T03:01:00.000Z,,,,PaymentMethodZLSCH
+payment:350,1970-01-01T00:00:00.000Z,C: Bank Collection,124400.0,,
+payment:350,2023-04-06T17:11:00.000Z,,,,AmountDMBTR
+payment:350,2023-04-06T17:11:00.000Z,,,,PaymentMethodZLSCH
+payment:229,1970-01-01T00:00:00.000Z,D:Direct Debit,58250.0,,
+payment:229,2022-11-18T13:58:00.000Z,,,,AmountDMBTR
+payment:229,2022-11-18T13:58:00.000Z,,,,PaymentMethodZLSCH
+payment:543,1970-01-01T00:00:00.000Z,C: Bank Collection,33050.0,,
+payment:543,2023-10-17T05:02:00.000Z,,,,AmountDMBTR
+payment:543,2023-10-17T05:02:00.000Z,,,,PaymentMethodZLSCH
+payment:841,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,27900.0,,
+payment:841,2024-07-27T12:31:00.000Z,,,,AmountDMBTR
+payment:841,2024-07-27T12:31:00.000Z,,,,PaymentMethodZLSCH
+payment:841,2024-08-01T03:42:00.000Z,,,,AmountDMBTR
+payment:841,2024-08-01T03:42:00.000Z,,,,PaymentMethodZLSCH
+payment:174,1970-01-01T00:00:00.000Z,D:Direct Debit,124600.0,,
+payment:174,2022-09-24T16:45:00.000Z,,,,AmountDMBTR
+payment:174,2022-09-24T16:45:00.000Z,,,,PaymentMethodZLSCH
+payment:811,1970-01-01T00:00:00.000Z,C: Bank Collection,119200.0,,
+payment:811,2024-07-04T09:22:00.000Z,,,,AmountDMBTR
+payment:811,2024-07-04T09:22:00.000Z,,,,PaymentMethodZLSCH
+payment:433,1970-01-01T00:00:00.000Z,C: Bank Collection,15600.0,,
+payment:433,2023-07-07T07:21:00.000Z,,,,AmountDMBTR
+payment:433,2023-07-07T07:21:00.000Z,,,,PaymentMethodZLSCH
+payment:650,1970-01-01T00:00:00.000Z,D:Direct Debit,51700.0,,
+payment:650,2024-01-30T04:08:00.000Z,,,,AmountDMBTR
+payment:650,2024-01-30T04:08:00.000Z,,,,PaymentMethodZLSCH
+payment:536,1970-01-01T00:00:00.000Z,C: Bank Collection,21600.0,,
+payment:536,2023-10-09T18:25:00.000Z,,,,AmountDMBTR
+payment:536,2023-10-09T18:25:00.000Z,,,,PaymentMethodZLSCH
+payment:431,1970-01-01T00:00:00.000Z,C: Bank Collection,40500.0,,
+payment:431,2023-07-09T11:28:00.000Z,,,,AmountDMBTR
+payment:431,2023-07-09T11:28:00.000Z,,,,PaymentMethodZLSCH
+payment:709,1970-01-01T00:00:00.000Z,C: Bank Collection,43500.0,,
+payment:709,2024-03-23T00:13:00.000Z,,,,AmountDMBTR
+payment:709,2024-03-23T00:13:00.000Z,,,,PaymentMethodZLSCH
+payment:858,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,128650.0,,
+payment:858,2024-08-20T14:45:00.000Z,,,,AmountDMBTR
+payment:858,2024-08-20T14:45:00.000Z,,,,PaymentMethodZLSCH
+payment:594,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,122100.0,,
+payment:594,2023-12-13T11:34:00.000Z,,,,AmountDMBTR
+payment:594,2023-12-13T11:34:00.000Z,,,,PaymentMethodZLSCH
+payment:195,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,29250.0,,
+payment:195,2022-10-09T19:04:00.000Z,,,,AmountDMBTR
+payment:195,2022-10-09T19:04:00.000Z,,,,PaymentMethodZLSCH
+payment:33,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,50400.0,,
+payment:33,2022-05-31T05:56:00.000Z,,,,AmountDMBTR
+payment:33,2022-05-31T05:56:00.000Z,,,,PaymentMethodZLSCH
+payment:127,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,80600.0,,
+payment:127,2022-08-19T09:31:00.000Z,,,,AmountDMBTR
+payment:127,2022-08-19T09:31:00.000Z,,,,PaymentMethodZLSCH
+payment:687,1970-01-01T00:00:00.000Z,C: Bank Collection,39000.0,,
+payment:687,2024-03-05T13:11:00.000Z,,,,AmountDMBTR
+payment:687,2024-03-05T13:11:00.000Z,,,,PaymentMethodZLSCH
+payment:682,1970-01-01T00:00:00.000Z,C: Bank Collection,32400.0,,
+payment:682,2024-02-29T18:52:00.000Z,,,,AmountDMBTR
+payment:682,2024-02-29T18:52:00.000Z,,,,PaymentMethodZLSCH
+payment:376,1970-01-01T00:00:00.000Z,D:Direct Debit,48500.0,,
+payment:376,2023-05-11T00:37:00.000Z,,,,AmountDMBTR
+payment:376,2023-05-11T00:37:00.000Z,,,,PaymentMethodZLSCH
+payment:458,1970-01-01T00:00:00.000Z,C: Bank Collection,57950.0,,
+payment:458,2023-08-11T06:37:00.000Z,,,,AmountDMBTR
+payment:458,2023-08-11T06:37:00.000Z,,,,PaymentMethodZLSCH
+payment:404,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,7750.0,,
+payment:404,2023-06-06T20:27:00.000Z,,,,AmountDMBTR
+payment:404,2023-06-06T20:27:00.000Z,,,,PaymentMethodZLSCH
+payment:908,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,14500.0,,
+payment:908,2024-10-12T19:12:00.000Z,,,,AmountDMBTR
+payment:908,2024-10-12T19:12:00.000Z,,,,PaymentMethodZLSCH
+payment:908,2024-10-18T05:44:00.000Z,,,,AmountDMBTR
+payment:908,2024-10-18T05:44:00.000Z,,,,PaymentMethodZLSCH
+payment:587,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,184300.0,,
+payment:587,2023-12-14T00:34:00.000Z,,,,AmountDMBTR
+payment:587,2023-12-14T00:34:00.000Z,,,,PaymentMethodZLSCH
+payment:161,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,14000.0,,
+payment:161,2022-09-16T15:16:00.000Z,,,,AmountDMBTR
+payment:161,2022-09-16T15:16:00.000Z,,,,PaymentMethodZLSCH
+payment:28,1970-01-01T00:00:00.000Z,D:Direct Debit,400.0,,
+payment:28,2022-05-19T10:58:00.000Z,,,,AmountDMBTR
+payment:28,2022-05-19T10:58:00.000Z,,,,PaymentMethodZLSCH
+payment:28,2022-05-25T16:41:00.000Z,,,,AmountDMBTR
+payment:28,2022-05-25T16:41:00.000Z,,,,PaymentMethodZLSCH
+payment:28,2022-05-29T02:43:00.000Z,,,,AmountDMBTR
+payment:28,2022-05-29T02:43:00.000Z,,,,PaymentMethodZLSCH
+payment:658,1970-01-01T00:00:00.000Z,D:Direct Debit,193200.0,,
+payment:658,2024-02-08T18:01:00.000Z,,,,AmountDMBTR
+payment:658,2024-02-08T18:01:00.000Z,,,,PaymentMethodZLSCH
+payment:658,2024-02-11T10:23:00.000Z,,,,AmountDMBTR
+payment:658,2024-02-11T10:23:00.000Z,,,,PaymentMethodZLSCH
+payment:216,1970-01-01T00:00:00.000Z,D:Direct Debit,86250.0,,
+payment:216,2022-10-26T10:25:00.000Z,,,,AmountDMBTR
+payment:216,2022-10-26T10:25:00.000Z,,,,PaymentMethodZLSCH
+payment:769,1970-01-01T00:00:00.000Z,C: Bank Collection,82500.0,,
+payment:769,2024-05-20T10:23:00.000Z,,,,AmountDMBTR
+payment:769,2024-05-20T10:23:00.000Z,,,,PaymentMethodZLSCH
+payment:193,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,36400.0,,
+payment:193,2022-10-06T07:53:00.000Z,,,,AmountDMBTR
+payment:193,2022-10-06T07:53:00.000Z,,,,PaymentMethodZLSCH
+payment:193,2022-10-06T10:36:00.000Z,,,,AmountDMBTR
+payment:193,2022-10-06T10:36:00.000Z,,,,PaymentMethodZLSCH
+payment:733,1970-01-01T00:00:00.000Z,D:Direct Debit,13000.0,,
+payment:733,2024-04-22T12:35:00.000Z,,,,AmountDMBTR
+payment:733,2024-04-22T12:35:00.000Z,,,,PaymentMethodZLSCH
+payment:733,2024-04-26T23:05:00.000Z,,,,AmountDMBTR
+payment:733,2024-04-26T23:05:00.000Z,,,,PaymentMethodZLSCH
+payment:55,1970-01-01T00:00:00.000Z,D:Direct Debit,219500.0,,
+payment:55,2022-06-07T22:15:00.000Z,,,,AmountDMBTR
+payment:55,2022-06-07T22:15:00.000Z,,,,PaymentMethodZLSCH
+payment:55,2022-06-09T08:45:00.000Z,,,,AmountDMBTR
+payment:55,2022-06-09T08:45:00.000Z,,,,PaymentMethodZLSCH
+payment:579,1970-01-01T00:00:00.000Z,C: Bank Collection,316650.0,,
+payment:579,2023-11-30T07:58:00.000Z,,,,AmountDMBTR
+payment:579,2023-11-30T07:58:00.000Z,,,,PaymentMethodZLSCH
+payment:674,1970-01-01T00:00:00.000Z,D:Direct Debit,38250.0,,
+payment:674,2024-02-16T15:59:00.000Z,,,,AmountDMBTR
+payment:674,2024-02-16T15:59:00.000Z,,,,PaymentMethodZLSCH
+payment:81,1970-01-01T00:00:00.000Z,C: Bank Collection,49350.0,,
+payment:81,2022-06-30T09:11:00.000Z,,,,AmountDMBTR
+payment:81,2022-06-30T09:11:00.000Z,,,,PaymentMethodZLSCH
+payment:137,1970-01-01T00:00:00.000Z,D:Direct Debit,3600.0,,
+payment:137,2022-08-26T10:17:00.000Z,,,,AmountDMBTR
+payment:137,2022-08-26T10:17:00.000Z,,,,PaymentMethodZLSCH
+payment:434,1970-01-01T00:00:00.000Z,D:Direct Debit,133000.0,,
+payment:434,2023-07-10T15:26:00.000Z,,,,AmountDMBTR
+payment:434,2023-07-10T15:26:00.000Z,,,,PaymentMethodZLSCH
+payment:675,1970-01-01T00:00:00.000Z,C: Bank Collection,136200.0,,
+payment:675,2024-02-19T13:39:00.000Z,,,,AmountDMBTR
+payment:675,2024-02-19T13:39:00.000Z,,,,PaymentMethodZLSCH
+payment:335,1970-01-01T00:00:00.000Z,C: Bank Collection,20400.0,,
+payment:335,2023-03-23T16:02:00.000Z,,,,AmountDMBTR
+payment:335,2023-03-23T16:02:00.000Z,,,,PaymentMethodZLSCH
+payment:335,2023-03-30T02:37:00.000Z,,,,AmountDMBTR
+payment:335,2023-03-30T02:37:00.000Z,,,,PaymentMethodZLSCH
+payment:0,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,29300.0,,
+payment:0,2022-04-16T15:46:00.000Z,,,,AmountDMBTR
+payment:0,2022-04-16T15:46:00.000Z,,,,PaymentMethodZLSCH
+payment:0,2022-04-28T02:22:00.000Z,,,,AmountDMBTR
+payment:0,2022-04-28T02:22:00.000Z,,,,PaymentMethodZLSCH
+payment:0,2022-04-28T22:16:00.000Z,,,,AmountDMBTR
+payment:0,2022-04-28T22:16:00.000Z,,,,PaymentMethodZLSCH
+payment:729,1970-01-01T00:00:00.000Z,C: Bank Collection,109900.0,,
+payment:729,2024-04-17T23:40:00.000Z,,,,AmountDMBTR
+payment:729,2024-04-17T23:40:00.000Z,,,,PaymentMethodZLSCH
+payment:134,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,19800.0,,
+payment:134,2022-08-28T08:13:00.000Z,,,,AmountDMBTR
+payment:134,2022-08-28T08:13:00.000Z,,,,PaymentMethodZLSCH
+payment:793,1970-01-01T00:00:00.000Z,D:Direct Debit,28050.0,,
+payment:793,2024-06-20T00:45:00.000Z,,,,AmountDMBTR
+payment:793,2024-06-20T00:45:00.000Z,,,,PaymentMethodZLSCH
+payment:177,1970-01-01T00:00:00.000Z,D:Direct Debit,226150.0,,
+payment:177,2022-09-22T21:16:00.000Z,,,,AmountDMBTR
+payment:177,2022-09-22T21:16:00.000Z,,,,PaymentMethodZLSCH
+payment:432,1970-01-01T00:00:00.000Z,C: Bank Collection,6300.0,,
+payment:432,2023-07-08T00:42:00.000Z,,,,AmountDMBTR
+payment:432,2023-07-08T00:42:00.000Z,,,,PaymentMethodZLSCH
+payment:581,1970-01-01T00:00:00.000Z,C: Bank Collection,72400.0,,
+payment:581,2023-12-03T13:51:00.000Z,,,,AmountDMBTR
+payment:581,2023-12-03T13:51:00.000Z,,,,PaymentMethodZLSCH
+payment:519,1970-01-01T00:00:00.000Z,C: Bank Collection,39000.0,,
+payment:519,2023-09-22T21:29:00.000Z,,,,AmountDMBTR
+payment:519,2023-09-22T21:29:00.000Z,,,,PaymentMethodZLSCH
+payment:333,1970-01-01T00:00:00.000Z,C: Bank Collection,4550.0,,
+payment:333,2023-03-25T01:00:00.000Z,,,,AmountDMBTR
+payment:333,2023-03-25T01:00:00.000Z,,,,PaymentMethodZLSCH
+payment:399,1970-01-01T00:00:00.000Z,D:Direct Debit,16500.0,,
+payment:399,2023-06-01T01:01:00.000Z,,,,AmountDMBTR
+payment:399,2023-06-01T01:01:00.000Z,,,,PaymentMethodZLSCH
+payment:232,1970-01-01T00:00:00.000Z,D:Direct Debit,189750.0,,
+payment:232,2022-11-24T19:28:00.000Z,,,,AmountDMBTR
+payment:232,2022-11-24T19:28:00.000Z,,,,PaymentMethodZLSCH
+payment:620,1970-01-01T00:00:00.000Z,D:Direct Debit,60000.0,,
+payment:620,2024-01-02T12:41:00.000Z,,,,AmountDMBTR
+payment:620,2024-01-02T12:41:00.000Z,,,,PaymentMethodZLSCH
+payment:121,1970-01-01T00:00:00.000Z,D:Direct Debit,56300.0,,
+payment:121,2022-08-11T22:35:00.000Z,,,,AmountDMBTR
+payment:121,2022-08-11T22:35:00.000Z,,,,PaymentMethodZLSCH
+payment:494,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,58700.0,,
+payment:494,2023-09-04T18:32:00.000Z,,,,AmountDMBTR
+payment:494,2023-09-04T18:32:00.000Z,,,,PaymentMethodZLSCH
+payment:494,2023-09-05T18:27:00.000Z,,,,AmountDMBTR
+payment:494,2023-09-05T18:27:00.000Z,,,,PaymentMethodZLSCH
+payment:292,1970-01-01T00:00:00.000Z,C: Bank Collection,10500.0,,
+payment:292,2023-02-25T03:29:00.000Z,,,,AmountDMBTR
+payment:292,2023-02-25T03:29:00.000Z,,,,PaymentMethodZLSCH
+payment:839,1970-01-01T00:00:00.000Z,D:Direct Debit,5850.0,,
+payment:839,2024-07-26T14:35:00.000Z,,,,AmountDMBTR
+payment:839,2024-07-26T14:35:00.000Z,,,,PaymentMethodZLSCH
+payment:168,1970-01-01T00:00:00.000Z,C: Bank Collection,15300.0,,
+payment:168,2022-09-24T21:01:00.000Z,,,,AmountDMBTR
+payment:168,2022-09-24T21:01:00.000Z,,,,PaymentMethodZLSCH
+payment:628,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,33500.0,,
+payment:628,2024-01-06T17:23:00.000Z,,,,AmountDMBTR
+payment:628,2024-01-06T17:23:00.000Z,,,,PaymentMethodZLSCH
+payment:628,2024-01-08T11:13:00.000Z,,,,AmountDMBTR
+payment:628,2024-01-08T11:13:00.000Z,,,,PaymentMethodZLSCH
+payment:920,1970-01-01T00:00:00.000Z,C: Bank Collection,60450.0,,
+payment:920,2024-10-14T19:50:00.000Z,,,,AmountDMBTR
+payment:920,2024-10-14T19:50:00.000Z,,,,PaymentMethodZLSCH
+payment:488,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,87750.0,,
+payment:488,2023-09-03T03:04:00.000Z,,,,AmountDMBTR
+payment:488,2023-09-03T03:04:00.000Z,,,,PaymentMethodZLSCH
+payment:681,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,8550.0,,
+payment:681,2024-03-01T19:21:00.000Z,,,,AmountDMBTR
+payment:681,2024-03-01T19:21:00.000Z,,,,PaymentMethodZLSCH
+payment:85,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,34500.0,,
+payment:85,2022-07-13T09:24:00.000Z,,,,AmountDMBTR
+payment:85,2022-07-13T09:24:00.000Z,,,,PaymentMethodZLSCH
+payment:249,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,650.0,,
+payment:249,2022-12-23T16:17:00.000Z,,,,AmountDMBTR
+payment:249,2022-12-23T16:17:00.000Z,,,,PaymentMethodZLSCH
+payment:591,1970-01-01T00:00:00.000Z,C: Bank Collection,26600.0,,
+payment:591,2023-12-07T21:34:00.000Z,,,,AmountDMBTR
+payment:591,2023-12-07T21:34:00.000Z,,,,PaymentMethodZLSCH
+payment:591,2023-12-09T08:14:00.000Z,,,,AmountDMBTR
+payment:591,2023-12-09T08:14:00.000Z,,,,PaymentMethodZLSCH
+payment:591,2023-12-17T09:38:00.000Z,,,,AmountDMBTR
+payment:591,2023-12-17T09:38:00.000Z,,,,PaymentMethodZLSCH
+payment:286,1970-01-01T00:00:00.000Z,C: Bank Collection,49550.0,,
+payment:286,2023-02-10T08:24:00.000Z,,,,AmountDMBTR
+payment:286,2023-02-10T08:24:00.000Z,,,,PaymentMethodZLSCH
+payment:796,1970-01-01T00:00:00.000Z,C: Bank Collection,51300.0,,
+payment:796,2024-06-14T06:10:00.000Z,,,,AmountDMBTR
+payment:796,2024-06-14T06:10:00.000Z,,,,PaymentMethodZLSCH
+payment:375,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,16000.0,,
+payment:375,2023-05-09T13:14:00.000Z,,,,AmountDMBTR
+payment:375,2023-05-09T13:14:00.000Z,,,,PaymentMethodZLSCH
+payment:395,1970-01-01T00:00:00.000Z,C: Bank Collection,36750.0,,
+payment:395,2023-05-30T09:34:00.000Z,,,,AmountDMBTR
+payment:395,2023-05-30T09:34:00.000Z,,,,PaymentMethodZLSCH
+payment:455,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,8800.0,,
+payment:455,2023-07-29T10:31:00.000Z,,,,AmountDMBTR
+payment:455,2023-07-29T10:31:00.000Z,,,,PaymentMethodZLSCH
+payment:652,1970-01-01T00:00:00.000Z,C: Bank Collection,144000.0,,
+payment:652,2024-02-03T09:47:00.000Z,,,,AmountDMBTR
+payment:652,2024-02-03T09:47:00.000Z,,,,PaymentMethodZLSCH
+payment:207,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,4800.0,,
+payment:207,2022-10-14T03:07:00.000Z,,,,AmountDMBTR
+payment:207,2022-10-14T03:07:00.000Z,,,,PaymentMethodZLSCH
+payment:207,2022-10-16T14:03:00.000Z,,,,AmountDMBTR
+payment:207,2022-10-16T14:03:00.000Z,,,,PaymentMethodZLSCH
+payment:207,2022-10-17T10:07:00.000Z,,,,AmountDMBTR
+payment:207,2022-10-17T10:07:00.000Z,,,,PaymentMethodZLSCH
+payment:207,2022-10-25T19:42:00.000Z,,,,AmountDMBTR
+payment:207,2022-10-25T19:42:00.000Z,,,,PaymentMethodZLSCH
+payment:207,2022-10-26T17:55:00.000Z,,,,AmountDMBTR
+payment:207,2022-10-26T17:55:00.000Z,,,,PaymentMethodZLSCH
+payment:566,1970-01-01T00:00:00.000Z,C: Bank Collection,33000.0,,
+payment:566,2023-11-18T21:58:00.000Z,,,,AmountDMBTR
+payment:566,2023-11-18T21:58:00.000Z,,,,PaymentMethodZLSCH
+payment:730,1970-01-01T00:00:00.000Z,C: Bank Collection,33300.0,,
+payment:730,2024-04-21T18:05:00.000Z,,,,AmountDMBTR
+payment:730,2024-04-21T18:05:00.000Z,,,,PaymentMethodZLSCH
+payment:89,1970-01-01T00:00:00.000Z,C: Bank Collection,173200.0,,
+payment:89,2022-07-07T15:39:00.000Z,,,,AmountDMBTR
+payment:89,2022-07-07T15:39:00.000Z,,,,PaymentMethodZLSCH
+payment:89,2022-07-10T05:54:00.000Z,,,,AmountDMBTR
+payment:89,2022-07-10T05:54:00.000Z,,,,PaymentMethodZLSCH
+payment:802,1970-01-01T00:00:00.000Z,D:Direct Debit,28350.0,,
+payment:802,2024-06-27T12:53:00.000Z,,,,AmountDMBTR
+payment:802,2024-06-27T12:53:00.000Z,,,,PaymentMethodZLSCH
+payment:293,1970-01-01T00:00:00.000Z,C: Bank Collection,61500.0,,
+payment:293,2023-02-28T09:36:00.000Z,,,,AmountDMBTR
+payment:293,2023-02-28T09:36:00.000Z,,,,PaymentMethodZLSCH
+payment:777,1970-01-01T00:00:00.000Z,C: Bank Collection,115000.0,,
+payment:777,2024-05-27T18:51:00.000Z,,,,AmountDMBTR
+payment:777,2024-05-27T18:51:00.000Z,,,,PaymentMethodZLSCH
+payment:777,2024-06-01T09:50:00.000Z,,,,AmountDMBTR
+payment:777,2024-06-01T09:50:00.000Z,,,,PaymentMethodZLSCH
+payment:826,1970-01-01T00:00:00.000Z,D:Direct Debit,213600.0,,
+payment:826,2024-07-17T23:54:00.000Z,,,,AmountDMBTR
+payment:826,2024-07-17T23:54:00.000Z,,,,PaymentMethodZLSCH
+payment:580,1970-01-01T00:00:00.000Z,C: Bank Collection,30600.0,,
+payment:580,2023-11-28T09:19:00.000Z,,,,AmountDMBTR
+payment:580,2023-11-28T09:19:00.000Z,,,,PaymentMethodZLSCH
+payment:563,1970-01-01T00:00:00.000Z,C: Bank Collection,181650.0,,
+payment:563,2023-11-16T05:14:00.000Z,,,,AmountDMBTR
+payment:563,2023-11-16T05:14:00.000Z,,,,PaymentMethodZLSCH
+payment:82,1970-01-01T00:00:00.000Z,D:Direct Debit,164700.0,,
+payment:82,2022-07-05T06:51:00.000Z,,,,AmountDMBTR
+payment:82,2022-07-05T06:51:00.000Z,,,,PaymentMethodZLSCH
+payment:82,2022-07-08T18:47:00.000Z,,,,AmountDMBTR
+payment:82,2022-07-08T18:47:00.000Z,,,,PaymentMethodZLSCH
+payment:265,1970-01-01T00:00:00.000Z,C: Bank Collection,248350.0,,
+payment:265,2023-01-13T19:13:00.000Z,,,,AmountDMBTR
+payment:265,2023-01-13T19:13:00.000Z,,,,PaymentMethodZLSCH
+payment:651,1970-01-01T00:00:00.000Z,C: Bank Collection,27200.0,,
+payment:651,2024-01-30T12:14:00.000Z,,,,AmountDMBTR
+payment:651,2024-01-30T12:14:00.000Z,,,,PaymentMethodZLSCH
+payment:253,1970-01-01T00:00:00.000Z,D:Direct Debit,75600.0,,
+payment:253,2022-12-31T13:40:00.000Z,,,,AmountDMBTR
+payment:253,2022-12-31T13:40:00.000Z,,,,PaymentMethodZLSCH
+payment:253,2023-01-08T10:30:00.000Z,,,,AmountDMBTR
+payment:253,2023-01-08T10:30:00.000Z,,,,PaymentMethodZLSCH
+payment:253,2023-01-14T07:47:00.000Z,,,,AmountDMBTR
+payment:253,2023-01-14T07:47:00.000Z,,,,PaymentMethodZLSCH
+payment:302,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,25850.0,,
+payment:302,2023-03-06T05:16:00.000Z,,,,AmountDMBTR
+payment:302,2023-03-06T05:16:00.000Z,,,,PaymentMethodZLSCH
+payment:508,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,126750.0,,
+payment:508,2023-09-20T19:16:00.000Z,,,,AmountDMBTR
+payment:508,2023-09-20T19:16:00.000Z,,,,PaymentMethodZLSCH
+payment:508,2023-09-21T16:14:00.000Z,,,,AmountDMBTR
+payment:508,2023-09-21T16:14:00.000Z,,,,PaymentMethodZLSCH
+payment:460,1970-01-01T00:00:00.000Z,C: Bank Collection,47500.0,,
+payment:460,2023-08-02T02:16:00.000Z,,,,AmountDMBTR
+payment:460,2023-08-02T02:16:00.000Z,,,,PaymentMethodZLSCH
+payment:84,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,82400.0,,
+payment:84,2022-07-04T13:33:00.000Z,,,,AmountDMBTR
+payment:84,2022-07-04T13:33:00.000Z,,,,PaymentMethodZLSCH
+payment:848,1970-01-01T00:00:00.000Z,D:Direct Debit,62650.0,,
+payment:848,2024-07-30T10:36:00.000Z,,,,AmountDMBTR
+payment:848,2024-07-30T10:36:00.000Z,,,,PaymentMethodZLSCH
+payment:182,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,38400.0,,
+payment:182,2022-09-25T00:12:00.000Z,,,,AmountDMBTR
+payment:182,2022-09-25T00:12:00.000Z,,,,PaymentMethodZLSCH
+payment:334,1970-01-01T00:00:00.000Z,C: Bank Collection,5500.0,,
+payment:334,2023-03-23T21:55:00.000Z,,,,AmountDMBTR
+payment:334,2023-03-23T21:55:00.000Z,,,,PaymentMethodZLSCH
+payment:570,1970-01-01T00:00:00.000Z,C: Bank Collection,33600.0,,
+payment:570,2023-11-26T07:05:00.000Z,,,,AmountDMBTR
+payment:570,2023-11-26T07:05:00.000Z,,,,PaymentMethodZLSCH
+payment:861,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,200.0,,
+payment:861,2024-08-27T22:21:00.000Z,,,,AmountDMBTR
+payment:861,2024-08-27T22:21:00.000Z,,,,PaymentMethodZLSCH
+payment:716,1970-01-01T00:00:00.000Z,C: Bank Collection,89100.0,,
+payment:716,2024-04-03T08:03:00.000Z,,,,AmountDMBTR
+payment:716,2024-04-03T08:03:00.000Z,,,,PaymentMethodZLSCH
+payment:251,1970-01-01T00:00:00.000Z,D:Direct Debit,7500.0,,
+payment:251,2022-12-28T22:09:00.000Z,,,,AmountDMBTR
+payment:251,2022-12-28T22:09:00.000Z,,,,PaymentMethodZLSCH
+payment:526,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,15000.0,,
+payment:526,2023-10-01T06:48:00.000Z,,,,AmountDMBTR
+payment:526,2023-10-01T06:48:00.000Z,,,,PaymentMethodZLSCH
+payment:526,2023-10-09T15:41:00.000Z,,,,AmountDMBTR
+payment:526,2023-10-09T15:41:00.000Z,,,,PaymentMethodZLSCH
+payment:697,1970-01-01T00:00:00.000Z,D:Direct Debit,19600.0,,
+payment:697,2024-03-13T04:49:00.000Z,,,,AmountDMBTR
+payment:697,2024-03-13T04:49:00.000Z,,,,PaymentMethodZLSCH
+payment:697,2024-03-14T04:39:00.000Z,,,,AmountDMBTR
+payment:697,2024-03-14T04:39:00.000Z,,,,PaymentMethodZLSCH
+payment:254,1970-01-01T00:00:00.000Z,D:Direct Debit,72200.0,,
+payment:254,2022-12-30T16:07:00.000Z,,,,AmountDMBTR
+payment:254,2022-12-30T16:07:00.000Z,,,,PaymentMethodZLSCH
+payment:181,1970-01-01T00:00:00.000Z,C: Bank Collection,19600.0,,
+payment:181,2022-09-23T15:47:00.000Z,,,,AmountDMBTR
+payment:181,2022-09-23T15:47:00.000Z,,,,PaymentMethodZLSCH
+payment:607,1970-01-01T00:00:00.000Z,D:Direct Debit,29100.0,,
+payment:607,2023-12-21T03:04:00.000Z,,,,AmountDMBTR
+payment:607,2023-12-21T03:04:00.000Z,,,,PaymentMethodZLSCH
+payment:450,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,47500.0,,
+payment:450,2023-07-25T08:59:00.000Z,,,,AmountDMBTR
+payment:450,2023-07-25T08:59:00.000Z,,,,PaymentMethodZLSCH
+payment:803,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,10000.0,,
+payment:803,2024-06-25T00:24:00.000Z,,,,AmountDMBTR
+payment:803,2024-06-25T00:24:00.000Z,,,,PaymentMethodZLSCH
+payment:505,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,87150.0,,
+payment:505,2023-09-17T01:51:00.000Z,,,,AmountDMBTR
+payment:505,2023-09-17T01:51:00.000Z,,,,PaymentMethodZLSCH
+payment:505,2023-09-22T16:42:00.000Z,,,,AmountDMBTR
+payment:505,2023-09-22T16:42:00.000Z,,,,PaymentMethodZLSCH
+payment:514,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,39600.0,,
+payment:514,2023-09-21T18:17:00.000Z,,,,AmountDMBTR
+payment:514,2023-09-21T18:17:00.000Z,,,,PaymentMethodZLSCH
+payment:204,1970-01-01T00:00:00.000Z,D:Direct Debit,118150.0,,
+payment:204,2022-10-14T23:17:00.000Z,,,,AmountDMBTR
+payment:204,2022-10-14T23:17:00.000Z,,,,PaymentMethodZLSCH
+payment:615,1970-01-01T00:00:00.000Z,D:Direct Debit,28200.0,,
+payment:615,2024-01-05T05:37:00.000Z,,,,AmountDMBTR
+payment:615,2024-01-05T05:37:00.000Z,,,,PaymentMethodZLSCH
+payment:331,1970-01-01T00:00:00.000Z,C: Bank Collection,32150.0,,
+payment:331,2023-03-21T08:22:00.000Z,,,,AmountDMBTR
+payment:331,2023-03-21T08:22:00.000Z,,,,PaymentMethodZLSCH
+payment:512,1970-01-01T00:00:00.000Z,D:Direct Debit,14600.0,,
+payment:512,2023-09-19T07:56:00.000Z,,,,AmountDMBTR
+payment:512,2023-09-19T07:56:00.000Z,,,,PaymentMethodZLSCH
+payment:512,2023-09-23T00:04:00.000Z,,,,AmountDMBTR
+payment:512,2023-09-23T00:04:00.000Z,,,,PaymentMethodZLSCH
+payment:765,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,72500.0,,
+payment:765,2024-05-17T20:34:00.000Z,,,,AmountDMBTR
+payment:765,2024-05-17T20:34:00.000Z,,,,PaymentMethodZLSCH
+payment:612,1970-01-01T00:00:00.000Z,D:Direct Debit,22500.0,,
+payment:612,2024-01-12T19:12:00.000Z,,,,AmountDMBTR
+payment:612,2024-01-12T19:12:00.000Z,,,,PaymentMethodZLSCH
+payment:612,2024-01-16T06:32:00.000Z,,,,AmountDMBTR
+payment:612,2024-01-16T06:32:00.000Z,,,,PaymentMethodZLSCH
+payment:255,1970-01-01T00:00:00.000Z,D:Direct Debit,94900.0,,
+payment:255,2023-01-01T04:27:00.000Z,,,,AmountDMBTR
+payment:255,2023-01-01T04:27:00.000Z,,,,PaymentMethodZLSCH
+payment:255,2023-01-07T03:38:00.000Z,,,,AmountDMBTR
+payment:255,2023-01-07T03:38:00.000Z,,,,PaymentMethodZLSCH
+payment:129,1970-01-01T00:00:00.000Z,C: Bank Collection,19600.0,,
+payment:129,2022-08-22T09:06:00.000Z,,,,AmountDMBTR
+payment:129,2022-08-22T09:06:00.000Z,,,,PaymentMethodZLSCH
+payment:727,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,87500.0,,
+payment:727,2024-04-16T11:49:00.000Z,,,,AmountDMBTR
+payment:727,2024-04-16T11:49:00.000Z,,,,PaymentMethodZLSCH
+payment:727,2024-04-16T12:17:00.000Z,,,,AmountDMBTR
+payment:727,2024-04-16T12:17:00.000Z,,,,PaymentMethodZLSCH
+payment:573,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,14400.0,,
+payment:573,2023-11-30T19:29:00.000Z,,,,AmountDMBTR
+payment:573,2023-11-30T19:29:00.000Z,,,,PaymentMethodZLSCH
+payment:456,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,102550.0,,
+payment:456,2023-07-31T13:30:00.000Z,,,,AmountDMBTR
+payment:456,2023-07-31T13:30:00.000Z,,,,PaymentMethodZLSCH
+payment:829,1970-01-01T00:00:00.000Z,D:Direct Debit,45250.0,,
+payment:829,2024-07-16T14:22:00.000Z,,,,AmountDMBTR
+payment:829,2024-07-16T14:22:00.000Z,,,,PaymentMethodZLSCH
+payment:829,2024-07-16T19:46:00.000Z,,,,AmountDMBTR
+payment:829,2024-07-16T19:46:00.000Z,,,,PaymentMethodZLSCH
+payment:622,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,22750.0,,
+payment:622,2024-01-03T19:29:00.000Z,,,,AmountDMBTR
+payment:622,2024-01-03T19:29:00.000Z,,,,PaymentMethodZLSCH
+payment:202,1970-01-01T00:00:00.000Z,D:Direct Debit,9300.0,,
+payment:202,2022-10-12T11:20:00.000Z,,,,AmountDMBTR
+payment:202,2022-10-12T11:20:00.000Z,,,,PaymentMethodZLSCH
+payment:768,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,162000.0,,
+payment:768,2024-05-21T02:19:00.000Z,,,,AmountDMBTR
+payment:768,2024-05-21T02:19:00.000Z,,,,PaymentMethodZLSCH
+payment:817,1970-01-01T00:00:00.000Z,D:Direct Debit,93500.0,,
+payment:817,2024-07-05T08:09:00.000Z,,,,AmountDMBTR
+payment:817,2024-07-05T08:09:00.000Z,,,,PaymentMethodZLSCH
+payment:718,1970-01-01T00:00:00.000Z,D:Direct Debit,235650.0,,
+payment:718,2024-04-08T03:55:00.000Z,,,,AmountDMBTR
+payment:718,2024-04-08T03:55:00.000Z,,,,PaymentMethodZLSCH
+payment:51,1970-01-01T00:00:00.000Z,C: Bank Collection,79200.0,,
+payment:51,2022-06-07T07:50:00.000Z,,,,AmountDMBTR
+payment:51,2022-06-07T07:50:00.000Z,,,,PaymentMethodZLSCH
+payment:702,1970-01-01T00:00:00.000Z,C: Bank Collection,12400.0,,
+payment:702,2024-03-15T00:47:00.000Z,,,,AmountDMBTR
+payment:702,2024-03-15T00:47:00.000Z,,,,PaymentMethodZLSCH
+payment:905,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,15000.0,,
+payment:905,2024-10-08T09:27:00.000Z,,,,AmountDMBTR
+payment:905,2024-10-08T09:27:00.000Z,,,,PaymentMethodZLSCH
+payment:905,2024-10-12T13:15:00.000Z,,,,AmountDMBTR
+payment:905,2024-10-12T13:15:00.000Z,,,,PaymentMethodZLSCH
+payment:345,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,237200.0,,
+payment:345,2023-04-04T21:20:00.000Z,,,,AmountDMBTR
+payment:345,2023-04-04T21:20:00.000Z,,,,PaymentMethodZLSCH
+payment:163,1970-01-01T00:00:00.000Z,D:Direct Debit,75600.0,,
+payment:163,2022-09-17T03:20:00.000Z,,,,AmountDMBTR
+payment:163,2022-09-17T03:20:00.000Z,,,,PaymentMethodZLSCH
+payment:715,1970-01-01T00:00:00.000Z,C: Bank Collection,10500.0,,
+payment:715,2024-04-06T10:43:00.000Z,,,,AmountDMBTR
+payment:715,2024-04-06T10:43:00.000Z,,,,PaymentMethodZLSCH
+payment:525,1970-01-01T00:00:00.000Z,C: Bank Collection,2100.0,,
+payment:525,2023-09-29T23:37:00.000Z,,,,AmountDMBTR
+payment:525,2023-09-29T23:37:00.000Z,,,,PaymentMethodZLSCH
+payment:525,2023-10-06T12:27:00.000Z,,,,AmountDMBTR
+payment:525,2023-10-06T12:27:00.000Z,,,,PaymentMethodZLSCH
+payment:210,1970-01-01T00:00:00.000Z,D:Direct Debit,40650.0,,
+payment:210,2022-10-19T00:42:00.000Z,,,,AmountDMBTR
+payment:210,2022-10-19T00:42:00.000Z,,,,PaymentMethodZLSCH
+payment:210,2022-10-20T15:52:00.000Z,,,,AmountDMBTR
+payment:210,2022-10-20T15:52:00.000Z,,,,PaymentMethodZLSCH
+payment:78,1970-01-01T00:00:00.000Z,C: Bank Collection,84600.0,,
+payment:78,2022-06-30T18:15:00.000Z,,,,AmountDMBTR
+payment:78,2022-06-30T18:15:00.000Z,,,,PaymentMethodZLSCH
+payment:262,1970-01-01T00:00:00.000Z,C: Bank Collection,25200.0,,
+payment:262,2023-01-13T12:10:00.000Z,,,,AmountDMBTR
+payment:262,2023-01-13T12:10:00.000Z,,,,PaymentMethodZLSCH
+payment:809,1970-01-01T00:00:00.000Z,D:Direct Debit,41600.0,,
+payment:809,2024-07-06T03:42:00.000Z,,,,AmountDMBTR
+payment:809,2024-07-06T03:42:00.000Z,,,,PaymentMethodZLSCH
+payment:809,2024-07-09T05:03:00.000Z,,,,AmountDMBTR
+payment:809,2024-07-09T05:03:00.000Z,,,,PaymentMethodZLSCH
+payment:583,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,49350.0,,
+payment:583,2023-11-29T16:09:00.000Z,,,,AmountDMBTR
+payment:583,2023-11-29T16:09:00.000Z,,,,PaymentMethodZLSCH
+payment:583,2023-12-01T16:27:00.000Z,,,,AmountDMBTR
+payment:583,2023-12-01T16:27:00.000Z,,,,PaymentMethodZLSCH
+payment:11,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,51250.0,,
+payment:11,2022-05-07T15:39:00.000Z,,,,AmountDMBTR
+payment:11,2022-05-07T15:39:00.000Z,,,,PaymentMethodZLSCH
+payment:467,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,95000.0,,
+payment:467,2023-08-09T21:02:00.000Z,,,,AmountDMBTR
+payment:467,2023-08-09T21:02:00.000Z,,,,PaymentMethodZLSCH
+payment:529,1970-01-01T00:00:00.000Z,C: Bank Collection,67200.0,,
+payment:529,2023-10-01T07:34:00.000Z,,,,AmountDMBTR
+payment:529,2023-10-01T07:34:00.000Z,,,,PaymentMethodZLSCH
+payment:529,2023-10-03T08:30:00.000Z,,,,AmountDMBTR
+payment:529,2023-10-03T08:30:00.000Z,,,,PaymentMethodZLSCH
+payment:529,2023-10-05T09:46:00.000Z,,,,AmountDMBTR
+payment:529,2023-10-05T09:46:00.000Z,,,,PaymentMethodZLSCH
+payment:552,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,51750.0,,
+payment:552,2023-11-23T23:17:00.000Z,,,,AmountDMBTR
+payment:552,2023-11-23T23:17:00.000Z,,,,PaymentMethodZLSCH
+payment:745,1970-01-01T00:00:00.000Z,C: Bank Collection,67800.0,,
+payment:745,2024-05-03T17:00:00.000Z,,,,AmountDMBTR
+payment:745,2024-05-03T17:00:00.000Z,,,,PaymentMethodZLSCH
+payment:657,1970-01-01T00:00:00.000Z,C: Bank Collection,123000.0,,
+payment:657,2024-02-05T10:43:00.000Z,,,,AmountDMBTR
+payment:657,2024-02-05T10:43:00.000Z,,,,PaymentMethodZLSCH
+payment:657,2024-02-08T13:52:00.000Z,,,,AmountDMBTR
+payment:657,2024-02-08T13:52:00.000Z,,,,PaymentMethodZLSCH
+payment:247,1970-01-01T00:00:00.000Z,D:Direct Debit,1400.0,,
+payment:247,2022-12-16T17:47:00.000Z,,,,AmountDMBTR
+payment:247,2022-12-16T17:47:00.000Z,,,,PaymentMethodZLSCH
+payment:75,1970-01-01T00:00:00.000Z,C: Bank Collection,76000.0,,
+payment:75,2022-06-26T12:30:00.000Z,,,,AmountDMBTR
+payment:75,2022-06-26T12:30:00.000Z,,,,PaymentMethodZLSCH
+payment:75,2022-06-28T11:31:00.000Z,,,,AmountDMBTR
+payment:75,2022-06-28T11:31:00.000Z,,,,PaymentMethodZLSCH
+payment:278,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,101250.0,,
+payment:278,2023-01-31T05:38:00.000Z,,,,AmountDMBTR
+payment:278,2023-01-31T05:38:00.000Z,,,,PaymentMethodZLSCH
+payment:319,1970-01-01T00:00:00.000Z,D:Direct Debit,35100.0,,
+payment:319,2023-03-16T09:11:00.000Z,,,,AmountDMBTR
+payment:319,2023-03-16T09:11:00.000Z,,,,PaymentMethodZLSCH
+payment:409,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,29050.0,,
+payment:409,2023-06-14T09:56:00.000Z,,,,AmountDMBTR
+payment:409,2023-06-14T09:56:00.000Z,,,,PaymentMethodZLSCH
+payment:343,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,3200.0,,
+payment:343,2023-04-07T07:46:00.000Z,,,,AmountDMBTR
+payment:343,2023-04-07T07:46:00.000Z,,,,PaymentMethodZLSCH
+payment:632,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,19250.0,,
+payment:632,2024-01-10T17:44:00.000Z,,,,AmountDMBTR
+payment:632,2024-01-10T17:44:00.000Z,,,,PaymentMethodZLSCH
+payment:482,1970-01-01T00:00:00.000Z,D:Direct Debit,19800.0,,
+payment:482,2023-08-24T11:02:00.000Z,,,,AmountDMBTR
+payment:482,2023-08-24T11:02:00.000Z,,,,PaymentMethodZLSCH
+payment:482,2023-08-25T00:16:00.000Z,,,,AmountDMBTR
+payment:482,2023-08-25T00:16:00.000Z,,,,PaymentMethodZLSCH
+payment:482,2023-08-26T19:55:00.000Z,,,,AmountDMBTR
+payment:482,2023-08-26T19:55:00.000Z,,,,PaymentMethodZLSCH
+payment:518,1970-01-01T00:00:00.000Z,C: Bank Collection,145100.0,,
+payment:518,2023-09-26T14:41:00.000Z,,,,AmountDMBTR
+payment:518,2023-09-26T14:41:00.000Z,,,,PaymentMethodZLSCH
+payment:305,1970-01-01T00:00:00.000Z,D:Direct Debit,154000.0,,
+payment:305,2023-03-01T15:30:00.000Z,,,,AmountDMBTR
+payment:305,2023-03-01T15:30:00.000Z,,,,PaymentMethodZLSCH
+payment:259,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,38400.0,,
+payment:259,2023-01-08T15:04:00.000Z,,,,AmountDMBTR
+payment:259,2023-01-08T15:04:00.000Z,,,,PaymentMethodZLSCH
+payment:223,1970-01-01T00:00:00.000Z,D:Direct Debit,43400.0,,
+payment:223,2022-11-07T09:20:00.000Z,,,,AmountDMBTR
+payment:223,2022-11-07T09:20:00.000Z,,,,PaymentMethodZLSCH
+payment:609,1970-01-01T00:00:00.000Z,D:Direct Debit,121800.0,,
+payment:609,2024-01-03T23:40:00.000Z,,,,AmountDMBTR
+payment:609,2024-01-03T23:40:00.000Z,,,,PaymentMethodZLSCH
+payment:756,1970-01-01T00:00:00.000Z,C: Bank Collection,16150.0,,
+payment:756,2024-05-08T19:05:00.000Z,,,,AmountDMBTR
+payment:756,2024-05-08T19:05:00.000Z,,,,PaymentMethodZLSCH
+payment:782,1970-01-01T00:00:00.000Z,C: Bank Collection,33300.0,,
+payment:782,2024-06-03T03:59:00.000Z,,,,AmountDMBTR
+payment:782,2024-06-03T03:59:00.000Z,,,,PaymentMethodZLSCH
+payment:751,1970-01-01T00:00:00.000Z,D:Direct Debit,8100.0,,
+payment:751,2024-05-15T00:03:00.000Z,,,,AmountDMBTR
+payment:751,2024-05-15T00:03:00.000Z,,,,PaymentMethodZLSCH
+payment:360,1970-01-01T00:00:00.000Z,D:Direct Debit,3750.0,,
+payment:360,2023-04-15T06:14:00.000Z,,,,AmountDMBTR
+payment:360,2023-04-15T06:14:00.000Z,,,,PaymentMethodZLSCH
+payment:865,1970-01-01T00:00:00.000Z,C: Bank Collection,113750.0,,
+payment:865,2024-09-03T00:09:00.000Z,,,,AmountDMBTR
+payment:865,2024-09-03T00:09:00.000Z,,,,PaymentMethodZLSCH
+payment:876,1970-01-01T00:00:00.000Z,C: Bank Collection,147300.0,,
+payment:876,2024-09-13T17:03:00.000Z,,,,AmountDMBTR
+payment:876,2024-09-13T17:03:00.000Z,,,,PaymentMethodZLSCH
+payment:547,1970-01-01T00:00:00.000Z,D:Direct Debit,1800.0,,
+payment:547,2023-10-31T04:31:00.000Z,,,,AmountDMBTR
+payment:547,2023-10-31T04:31:00.000Z,,,,PaymentMethodZLSCH
+payment:547,2023-11-07T04:03:00.000Z,,,,AmountDMBTR
+payment:547,2023-11-07T04:03:00.000Z,,,,PaymentMethodZLSCH
+payment:547,2023-11-11T16:01:00.000Z,,,,AmountDMBTR
+payment:547,2023-11-11T16:01:00.000Z,,,,PaymentMethodZLSCH
+payment:547,2023-11-17T06:53:00.000Z,,,,AmountDMBTR
+payment:547,2023-11-17T06:53:00.000Z,,,,PaymentMethodZLSCH
+payment:388,1970-01-01T00:00:00.000Z,C: Bank Collection,24500.0,,
+payment:388,2023-05-29T14:49:00.000Z,,,,AmountDMBTR
+payment:388,2023-05-29T14:49:00.000Z,,,,PaymentMethodZLSCH
+payment:145,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,32700.0,,
+payment:145,2022-09-12T05:11:00.000Z,,,,AmountDMBTR
+payment:145,2022-09-12T05:11:00.000Z,,,,PaymentMethodZLSCH
+payment:145,2022-09-12T12:08:00.000Z,,,,AmountDMBTR
+payment:145,2022-09-12T12:08:00.000Z,,,,PaymentMethodZLSCH
+payment:188,1970-01-01T00:00:00.000Z,D:Direct Debit,84550.0,,
+payment:188,2022-10-06T02:19:00.000Z,,,,AmountDMBTR
+payment:188,2022-10-06T02:19:00.000Z,,,,PaymentMethodZLSCH
+payment:256,1970-01-01T00:00:00.000Z,D:Direct Debit,34000.0,,
+payment:256,2023-01-03T01:14:00.000Z,,,,AmountDMBTR
+payment:256,2023-01-03T01:14:00.000Z,,,,PaymentMethodZLSCH
+payment:236,1970-01-01T00:00:00.000Z,C: Bank Collection,16800.0,,
+payment:236,2022-12-09T16:06:00.000Z,,,,AmountDMBTR
+payment:236,2022-12-09T16:06:00.000Z,,,,PaymentMethodZLSCH
+payment:236,2022-12-16T23:53:00.000Z,,,,AmountDMBTR
+payment:236,2022-12-16T23:53:00.000Z,,,,PaymentMethodZLSCH
+payment:799,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,22500.0,,
+payment:799,2024-06-18T20:39:00.000Z,,,,AmountDMBTR
+payment:799,2024-06-18T20:39:00.000Z,,,,PaymentMethodZLSCH
+payment:191,1970-01-01T00:00:00.000Z,D:Direct Debit,99000.0,,
+payment:191,2022-09-30T08:55:00.000Z,,,,AmountDMBTR
+payment:191,2022-09-30T08:55:00.000Z,,,,PaymentMethodZLSCH
+payment:820,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,54750.0,,
+payment:820,2024-07-15T06:40:00.000Z,,,,AmountDMBTR
+payment:820,2024-07-15T06:40:00.000Z,,,,PaymentMethodZLSCH
+payment:367,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,89150.0,,
+payment:367,2023-04-26T22:55:00.000Z,,,,AmountDMBTR
+payment:367,2023-04-26T22:55:00.000Z,,,,PaymentMethodZLSCH
+payment:867,1970-01-01T00:00:00.000Z,C: Bank Collection,71250.0,,
+payment:867,2024-08-29T15:40:00.000Z,,,,AmountDMBTR
+payment:867,2024-08-29T15:40:00.000Z,,,,PaymentMethodZLSCH
+payment:867,2024-08-31T02:20:00.000Z,,,,AmountDMBTR
+payment:867,2024-08-31T02:20:00.000Z,,,,PaymentMethodZLSCH
+payment:230,1970-01-01T00:00:00.000Z,D:Direct Debit,106500.0,,
+payment:230,2022-11-19T19:24:00.000Z,,,,AmountDMBTR
+payment:230,2022-11-19T19:24:00.000Z,,,,PaymentMethodZLSCH
+payment:895,1970-01-01T00:00:00.000Z,D:Direct Debit,6000.0,,
+payment:895,2024-09-30T23:28:00.000Z,,,,AmountDMBTR
+payment:895,2024-09-30T23:28:00.000Z,,,,PaymentMethodZLSCH
+payment:783,1970-01-01T00:00:00.000Z,C: Bank Collection,146150.0,,
+payment:783,2024-05-31T07:29:00.000Z,,,,AmountDMBTR
+payment:783,2024-05-31T07:29:00.000Z,,,,PaymentMethodZLSCH
+payment:896,1970-01-01T00:00:00.000Z,C: Bank Collection,62400.0,,
+payment:896,2024-09-27T17:02:00.000Z,,,,AmountDMBTR
+payment:896,2024-09-27T17:02:00.000Z,,,,PaymentMethodZLSCH
+payment:9,1970-01-01T00:00:00.000Z,D:Direct Debit,121500.0,,
+payment:9,2022-04-29T20:29:00.000Z,,,,AmountDMBTR
+payment:9,2022-04-29T20:29:00.000Z,,,,PaymentMethodZLSCH
+payment:9,2022-05-05T08:01:00.000Z,,,,AmountDMBTR
+payment:9,2022-05-05T08:01:00.000Z,,,,PaymentMethodZLSCH
+payment:9,2022-05-06T21:10:00.000Z,,,,AmountDMBTR
+payment:9,2022-05-06T21:10:00.000Z,,,,PaymentMethodZLSCH
+payment:9,2022-05-15T19:32:00.000Z,,,,AmountDMBTR
+payment:9,2022-05-15T19:32:00.000Z,,,,PaymentMethodZLSCH
+payment:837,1970-01-01T00:00:00.000Z,D:Direct Debit,268950.0,,
+payment:837,2024-07-25T19:11:00.000Z,,,,AmountDMBTR
+payment:837,2024-07-25T19:11:00.000Z,,,,PaymentMethodZLSCH
+payment:83,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,8000.0,,
+payment:83,2022-07-06T02:21:00.000Z,,,,AmountDMBTR
+payment:83,2022-07-06T02:21:00.000Z,,,,PaymentMethodZLSCH
+payment:595,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,91200.0,,
+payment:595,2023-12-16T07:39:00.000Z,,,,AmountDMBTR
+payment:595,2023-12-16T07:39:00.000Z,,,,PaymentMethodZLSCH
+payment:808,1970-01-01T00:00:00.000Z,C: Bank Collection,6250.0,,
+payment:808,2024-06-26T07:31:00.000Z,,,,AmountDMBTR
+payment:808,2024-06-26T07:31:00.000Z,,,,PaymentMethodZLSCH
+payment:630,1970-01-01T00:00:00.000Z,D:Direct Debit,24750.0,,
+payment:630,2024-01-09T07:28:00.000Z,,,,AmountDMBTR
+payment:630,2024-01-09T07:28:00.000Z,,,,PaymentMethodZLSCH
+payment:393,1970-01-01T00:00:00.000Z,C: Bank Collection,107200.0,,
+payment:393,2023-05-30T04:35:00.000Z,,,,AmountDMBTR
+payment:393,2023-05-30T04:35:00.000Z,,,,PaymentMethodZLSCH
+payment:406,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,41500.0,,
+payment:406,2023-06-06T10:00:00.000Z,,,,AmountDMBTR
+payment:406,2023-06-06T10:00:00.000Z,,,,PaymentMethodZLSCH
+payment:274,1970-01-01T00:00:00.000Z,C: Bank Collection,87900.0,,
+payment:274,2023-02-01T14:45:00.000Z,,,,AmountDMBTR
+payment:274,2023-02-01T14:45:00.000Z,,,,PaymentMethodZLSCH
+payment:870,1970-01-01T00:00:00.000Z,D:Direct Debit,33750.0,,
+payment:870,2024-09-02T23:14:00.000Z,,,,AmountDMBTR
+payment:870,2024-09-02T23:14:00.000Z,,,,PaymentMethodZLSCH
+payment:35,1970-01-01T00:00:00.000Z,D:Direct Debit,38950.0,,
+payment:35,2022-05-23T17:15:00.000Z,,,,AmountDMBTR
+payment:35,2022-05-23T17:15:00.000Z,,,,PaymentMethodZLSCH
+payment:602,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,40300.0,,
+payment:602,2023-12-16T19:33:00.000Z,,,,AmountDMBTR
+payment:602,2023-12-16T19:33:00.000Z,,,,PaymentMethodZLSCH
+payment:844,1970-01-01T00:00:00.000Z,D:Direct Debit,24100.0,,
+payment:844,2024-07-31T22:34:00.000Z,,,,AmountDMBTR
+payment:844,2024-07-31T22:34:00.000Z,,,,PaymentMethodZLSCH
+payment:844,2024-08-05T03:49:00.000Z,,,,AmountDMBTR
+payment:844,2024-08-05T03:49:00.000Z,,,,PaymentMethodZLSCH
+payment:836,1970-01-01T00:00:00.000Z,D:Direct Debit,21600.0,,
+payment:836,2024-07-24T22:43:00.000Z,,,,AmountDMBTR
+payment:836,2024-07-24T22:43:00.000Z,,,,PaymentMethodZLSCH
+payment:754,1970-01-01T00:00:00.000Z,C: Bank Collection,52200.0,,
+payment:754,2024-05-09T06:07:00.000Z,,,,AmountDMBTR
+payment:754,2024-05-09T06:07:00.000Z,,,,PaymentMethodZLSCH
+payment:441,1970-01-01T00:00:00.000Z,C: Bank Collection,165700.0,,
+payment:441,2023-07-22T15:59:00.000Z,,,,AmountDMBTR
+payment:441,2023-07-22T15:59:00.000Z,,,,PaymentMethodZLSCH
+payment:815,1970-01-01T00:00:00.000Z,C: Bank Collection,76650.0,,
+payment:815,2024-07-06T16:07:00.000Z,,,,AmountDMBTR
+payment:815,2024-07-06T16:07:00.000Z,,,,PaymentMethodZLSCH
+payment:261,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,9750.0,,
+payment:261,2023-01-09T16:58:00.000Z,,,,AmountDMBTR
+payment:261,2023-01-09T16:58:00.000Z,,,,PaymentMethodZLSCH
+payment:457,1970-01-01T00:00:00.000Z,C: Bank Collection,31500.0,,
+payment:457,2023-08-10T22:12:00.000Z,,,,AmountDMBTR
+payment:457,2023-08-10T22:12:00.000Z,,,,PaymentMethodZLSCH
+payment:238,1970-01-01T00:00:00.000Z,C: Bank Collection,110700.0,,
+payment:238,2022-12-13T13:01:00.000Z,,,,AmountDMBTR
+payment:238,2022-12-13T13:01:00.000Z,,,,PaymentMethodZLSCH
+payment:440,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,15000.0,,
+payment:440,2023-07-11T18:18:00.000Z,,,,AmountDMBTR
+payment:440,2023-07-11T18:18:00.000Z,,,,PaymentMethodZLSCH
+payment:489,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,93000.0,,
+payment:489,2023-08-31T05:48:00.000Z,,,,AmountDMBTR
+payment:489,2023-08-31T05:48:00.000Z,,,,PaymentMethodZLSCH
+payment:489,2023-08-31T22:48:00.000Z,,,,AmountDMBTR
+payment:489,2023-08-31T22:48:00.000Z,,,,PaymentMethodZLSCH
+payment:342,1970-01-01T00:00:00.000Z,D:Direct Debit,25200.0,,
+payment:342,2023-04-03T16:46:00.000Z,,,,AmountDMBTR
+payment:342,2023-04-03T16:46:00.000Z,,,,PaymentMethodZLSCH
+payment:469,1970-01-01T00:00:00.000Z,D:Direct Debit,15200.0,,
+payment:469,2023-08-08T07:06:00.000Z,,,,AmountDMBTR
+payment:469,2023-08-08T07:06:00.000Z,,,,PaymentMethodZLSCH
+payment:105,1970-01-01T00:00:00.000Z,C: Bank Collection,3300.0,,
+payment:105,2022-07-28T06:34:00.000Z,,,,AmountDMBTR
+payment:105,2022-07-28T06:34:00.000Z,,,,PaymentMethodZLSCH
+payment:105,2022-07-31T21:05:00.000Z,,,,AmountDMBTR
+payment:105,2022-07-31T21:05:00.000Z,,,,PaymentMethodZLSCH
+payment:41,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,48000.0,,
+payment:41,2022-06-04T10:07:00.000Z,,,,AmountDMBTR
+payment:41,2022-06-04T10:07:00.000Z,,,,PaymentMethodZLSCH
+payment:41,2022-06-07T12:47:00.000Z,,,,AmountDMBTR
+payment:41,2022-06-07T12:47:00.000Z,,,,PaymentMethodZLSCH
+payment:415,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,71200.0,,
+payment:415,2023-06-16T01:53:00.000Z,,,,AmountDMBTR
+payment:415,2023-06-16T01:53:00.000Z,,,,PaymentMethodZLSCH
+payment:452,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,37500.0,,
+payment:452,2023-07-28T16:06:00.000Z,,,,AmountDMBTR
+payment:452,2023-07-28T16:06:00.000Z,,,,PaymentMethodZLSCH
+payment:86,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,135000.0,,
+payment:86,2022-07-08T06:27:00.000Z,,,,AmountDMBTR
+payment:86,2022-07-08T06:27:00.000Z,,,,PaymentMethodZLSCH
+payment:96,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,79500.0,,
+payment:96,2022-07-15T19:52:00.000Z,,,,AmountDMBTR
+payment:96,2022-07-15T19:52:00.000Z,,,,PaymentMethodZLSCH
+payment:624,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,263150.0,,
+payment:624,2024-01-03T19:41:00.000Z,,,,AmountDMBTR
+payment:624,2024-01-03T19:41:00.000Z,,,,PaymentMethodZLSCH
+payment:919,1970-01-01T00:00:00.000Z,D:Direct Debit,50400.0,,
+payment:919,2024-10-12T06:56:00.000Z,,,,AmountDMBTR
+payment:919,2024-10-12T06:56:00.000Z,,,,PaymentMethodZLSCH
+payment:180,1970-01-01T00:00:00.000Z,C: Bank Collection,9000.0,,
+payment:180,2022-09-23T17:24:00.000Z,,,,AmountDMBTR
+payment:180,2022-09-23T17:24:00.000Z,,,,PaymentMethodZLSCH
+payment:879,1970-01-01T00:00:00.000Z,C: Bank Collection,48600.0,,
+payment:879,2024-09-14T05:42:00.000Z,,,,AmountDMBTR
+payment:879,2024-09-14T05:42:00.000Z,,,,PaymentMethodZLSCH
+payment:329,1970-01-01T00:00:00.000Z,D:Direct Debit,17850.0,,
+payment:329,2023-03-17T13:23:00.000Z,,,,AmountDMBTR
+payment:329,2023-03-17T13:23:00.000Z,,,,PaymentMethodZLSCH
+payment:283,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,202600.0,,
+payment:283,2023-02-07T16:47:00.000Z,,,,AmountDMBTR
+payment:283,2023-02-07T16:47:00.000Z,,,,PaymentMethodZLSCH
+payment:283,2023-02-10T04:48:00.000Z,,,,AmountDMBTR
+payment:283,2023-02-10T04:48:00.000Z,,,,PaymentMethodZLSCH
+payment:762,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,17100.0,,
+payment:762,2024-05-15T06:52:00.000Z,,,,AmountDMBTR
+payment:762,2024-05-15T06:52:00.000Z,,,,PaymentMethodZLSCH
+payment:339,1970-01-01T00:00:00.000Z,C: Bank Collection,33800.0,,
+payment:339,2023-03-30T16:57:00.000Z,,,,AmountDMBTR
+payment:339,2023-03-30T16:57:00.000Z,,,,PaymentMethodZLSCH
+payment:339,2023-04-03T12:44:00.000Z,,,,AmountDMBTR
+payment:339,2023-04-03T12:44:00.000Z,,,,PaymentMethodZLSCH
+payment:676,1970-01-01T00:00:00.000Z,D:Direct Debit,113850.0,,
+payment:676,2024-02-19T20:39:00.000Z,,,,AmountDMBTR
+payment:676,2024-02-19T20:39:00.000Z,,,,PaymentMethodZLSCH
+payment:316,1970-01-01T00:00:00.000Z,C: Bank Collection,74250.0,,
+payment:316,2023-03-14T16:50:00.000Z,,,,AmountDMBTR
+payment:316,2023-03-14T16:50:00.000Z,,,,PaymentMethodZLSCH
+payment:160,1970-01-01T00:00:00.000Z,C: Bank Collection,44450.0,,
+payment:160,2022-09-19T15:14:00.000Z,,,,AmountDMBTR
+payment:160,2022-09-19T15:14:00.000Z,,,,PaymentMethodZLSCH
+payment:160,2022-09-21T20:36:00.000Z,,,,AmountDMBTR
+payment:160,2022-09-21T20:36:00.000Z,,,,PaymentMethodZLSCH
+payment:160,2022-09-26T03:25:00.000Z,,,,AmountDMBTR
+payment:160,2022-09-26T03:25:00.000Z,,,,PaymentMethodZLSCH
+payment:438,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,76800.0,,
+payment:438,2023-07-12T16:51:00.000Z,,,,AmountDMBTR
+payment:438,2023-07-12T16:51:00.000Z,,,,PaymentMethodZLSCH
+payment:70,1970-01-01T00:00:00.000Z,D:Direct Debit,79350.0,,
+payment:70,2022-06-23T17:31:00.000Z,,,,AmountDMBTR
+payment:70,2022-06-23T17:31:00.000Z,,,,PaymentMethodZLSCH
+payment:743,1970-01-01T00:00:00.000Z,C: Bank Collection,63950.0,,
+payment:743,2024-05-01T08:22:00.000Z,,,,AmountDMBTR
+payment:743,2024-05-01T08:22:00.000Z,,,,PaymentMethodZLSCH
+payment:209,1970-01-01T00:00:00.000Z,C: Bank Collection,7200.0,,
+payment:209,2022-10-24T13:15:00.000Z,,,,AmountDMBTR
+payment:209,2022-10-24T13:15:00.000Z,,,,PaymentMethodZLSCH
+payment:653,1970-01-01T00:00:00.000Z,A: Bank TransferB: Check,142850.0,,
+payment:653,2024-02-01T06:15:00.000Z,,,,AmountDMBTR
+payment:653,2024-02-01T06:15:00.000Z,,,,PaymentMethodZLSCH
+payment:878,1970-01-01T00:00:00.000Z,D:Direct Debit,7700.0,,
+payment:878,2024-09-15T06:53:00.000Z,,,,AmountDMBTR
+payment:878,2024-09-15T06:53:00.000Z,,,,PaymentMethodZLSCH
+payment:349,1970-01-01T00:00:00.000Z,C: Bank Collection,5000.0,,
+payment:349,2023-04-07T22:27:00.000Z,,,,AmountDMBTR
+payment:349,2023-04-07T22:27:00.000Z,,,,PaymentMethodZLSCH
+payment:189,1970-01-01T00:00:00.000Z,D:Direct Debit,28500.0,,
+payment:189,2022-09-30T19:00:00.000Z,,,,AmountDMBTR
+payment:189,2022-09-30T19:00:00.000Z,,,,PaymentMethodZLSCH
+payment:827,1970-01-01T00:00:00.000Z,D:Direct Debit,5000.0,,
+payment:827,2024-07-17T22:07:00.000Z,,,,AmountDMBTR
+payment:827,2024-07-17T22:07:00.000Z,,,,PaymentMethodZLSCH
+payment:359,1970-01-01T00:00:00.000Z,D:Direct Debit,38000.0,,
+payment:359,2023-04-15T00:46:00.000Z,,,,AmountDMBTR
+payment:359,2023-04-15T00:46:00.000Z,,,,PaymentMethodZLSCH
+payment:359,2023-04-18T21:31:00.000Z,,,,AmountDMBTR
+payment:359,2023-04-18T21:31:00.000Z,,,,PaymentMethodZLSCH
+payment:822,1970-01-01T00:00:00.000Z,D:Direct Debit,19300.0,,
+payment:822,2024-07-10T08:44:00.000Z,,,,AmountDMBTR
+payment:822,2024-07-10T08:44:00.000Z,,,,PaymentMethodZLSCH
+payment:396,1970-01-01T00:00:00.000Z,C: Bank Collection,46200.0,,
+payment:396,2023-06-05T08:57:00.000Z,,,,AmountDMBTR
+payment:396,2023-06-05T08:57:00.000Z,,,,PaymentMethodZLSCH
+payment:196,1970-01-01T00:00:00.000Z,C: Bank Collection,37500.0,,
+payment:196,2022-10-08T00:38:00.000Z,,,,AmountDMBTR
+payment:196,2022-10-08T00:38:00.000Z,,,,PaymentMethodZLSCH
+payment:52,1970-01-01T00:00:00.000Z,C: Bank Collection,55500.0,,
+payment:52,2022-06-05T02:24:00.000Z,,,,AmountDMBTR
+payment:52,2022-06-05T02:24:00.000Z,,,,PaymentMethodZLSCH
+payment:814,1970-01-01T00:00:00.000Z,D:Direct Debit,30500.0,,
+payment:814,2024-07-01T04:16:00.000Z,,,,AmountDMBTR
+payment:814,2024-07-01T04:16:00.000Z,,,,PaymentMethodZLSCH
+payment:814,2024-07-02T06:26:00.000Z,,,,AmountDMBTR
+payment:814,2024-07-02T06:26:00.000Z,,,,PaymentMethodZLSCH
+payment:451,1970-01-01T00:00:00.000Z,C: Bank Collection,103400.0,,
+payment:451,2023-08-03T02:40:00.000Z,,,,AmountDMBTR
+payment:451,2023-08-03T02:40:00.000Z,,,,PaymentMethodZLSCH

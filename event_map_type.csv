@@ -1,0 +1,11 @@
+ocel_type,ocel_type_map
+Approve Purchase Order,ApprovePurchaseOrder
+Approve Purchase Requisition,ApprovePurchaseRequisition
+Create Goods Receipt,CreateGoodsReceipt
+Create Invoice Receipt,CreateInvoiceReceipt
+Create Purchase Order,CreatePurchaseOrder
+Create Purchase Requisition,CreatePurchaseRequisition
+Create Request for Quotation,CreateRequestforQuotation
+Delegate Purchase Requisition Approval,DelegatePurchaseRequisitionApproval
+Execute Payment,ExecutePayment
+Perform Two-Way Match,PerformTwoWayMatch
