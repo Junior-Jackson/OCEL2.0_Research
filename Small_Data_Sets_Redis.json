@@ -1,0 +1,276 @@
+//Redis 
+//Manually Import Event Documents Through Redis Insight. Use Json data type. For each Document, name the Document name; Event:n, where n is the _id number. 
+{"_id":"1",
+"Attributes":[
+{"Start_TimeStamp":3682800},
+{"Complete_TimeStamp":3690000},
+{"Event_Type":"Submission_of_Requisition"},
+{"Requisition_Cost":0}
+]},
+{"_id":"2",
+"Attributes":[
+{"Start_TimeStamp":3834000},
+{"Complete_TimeStamp":3841200},
+{"Event_Type":"Submission_of_Requisition"},
+{"Requisition_Cost":0}
+]},
+{"_id":"3",
+"Attributes":[
+{"Start_TimeStamp":3906000},
+{"Complete_TimeStamp":3924000},
+{"Event_Type":"Submission_of_Requisition"},
+{"Requisition_Cost":0}
+]},{
+"_id":"4",
+"Attributes":[
+{"Start_TimeStamp":3655800},
+{"Complete_TimeStamp":3929400},
+{"Event_Type":"Approval_Supervisor"},
+{"Requisition_Cost":0}
+]},
+{"_id":"5",
+"Attributes":[
+{"Start_TimeStamp":3843000},
+{"Complete_TimeStamp":3855600},
+{"Event_Type":"Approval_Supervisor"},
+{"Requisition_Cost":0}
+]},
+{"_id":"6",
+"Attributes":[
+{"Start_TimeStamp":3925800},
+{"Complete_TimeStamp":3931200},
+{"Event_Type":"Approval_Supervisor"},
+{"Requisition_Cost":0}
+]},
+{"_id":"7",
+"Attributes":[
+{"Start_TimeStamp":3691800},
+{"Complete_TimeStamp":3751200},
+{"Event_Type":"Approval_Budget_Manager"},
+{"Requisition_Cost":0}
+]},
+{"_id":"8",
+"Attributes":[
+{"Start_TimeStamp":3843000},
+{"Complete_TimeStamp":3924000},
+{"Event_Type":"Approval_Budget_Manager"},
+{"Requisition_Cost":0}
+]},
+{"_id":"9",
+"Attributes":[
+{"Start_TimeStamp":4008600},
+{"Complete_TimeStamp":4032000},
+{"Event_Type":"Approval_Budget_Manager"},
+{"Requisition_Cost":0}
+]},
+{"_id":"10",
+"Attributes":[
+{"Start_TimeStamp":3691800},
+{"Complete_TimeStamp":4006800},
+{"Event_Type":"Approval_Department_Head"},
+{"Requisition_Cost":0}
+]},
+{"_id":"11",
+"Attributes":[
+{"Start_TimeStamp":3922200},
+{"Complete_TimeStamp":3931200},
+{"Event_Type":"Convert_To_Phurcase_Order"},
+{"Requisition_Cost":0}
+]},
+{"_id":"12",
+"Attributes":[
+{"Start_TimeStamp":3925800},
+{"Complete_TimeStamp":3949200},
+{"Event_Type":"Convert_To_Phurcase_Order"},
+{"Requisition_Cost":0}
+]},
+{"_id":"13",
+"Attributes":[
+{"Start_TimeStamp":4008600},
+{"Complete_TimeStamp":4032000},
+{"Event_Type":"Convert_To_Phurcase_Order"},
+{"Requisition_Cost":0}
+]},
+{"_id":"14",
+"Attributes":[
+{"Start_TimeStamp":4010400},
+{"Complete_TimeStamp":4017600},
+{"Event_Type":"Phurcase_Order_Sent"},
+{"Requisition_Cost":0}
+]},
+{"_id":"15",
+"Attributes":[
+{"Start_TimeStamp":4208400},
+{"Complete_TimeStamp":4276800},
+{"Event_Type":"Phurcase_Order_Sent"},
+{"Requisition_Cost":0}
+]},
+{"_id":"16",
+"Attributes":[
+{"Start_TimeStamp":4033800},
+{"Complete_TimeStamp":4104000},
+{"Event_Type":"Phurcase_Order_Sent"},
+{"Requisition_Cost":0}
+]},
+{"_id":"17",
+"Attributes":[
+{"Start_TimeStamp":4280400},
+{"Complete_TimeStamp":4280400},
+{"Event_Type":"Invoice_Recieved"},
+{"Requisition_Cost":0}
+]},
+{"_id":"18",
+"Attributes":[
+{"Start_TimeStamp":4104000},
+{"Complete_TimeStamp":4179600},
+{"Event_Type":"Invoice_Recieved"},
+{"Requisition_Cost":0}
+]},
+{"_id":"19",
+"Attributes":[
+{"Start_TimeStamp":4280400},
+{"Complete_TimeStamp":4356000},
+{"Event_Type":"Pays_Invoice"},
+{"Requisition_Cost":290}
+]},
+{"_id":"20",
+"Attributes":[
+{"Start_TimeStamp":4179600},
+{"Complete_TimeStamp":4190400},
+{"Event_Type":"Pays_Invoice"},
+{"Requisition_Cost":295}
+]},
+{"_id":"21",
+"Attributes":[
+{"Start_TimeStamp":4795200},
+{"Complete_TimeStamp":4798800},
+{"Event_Type":"Receive_Goods"},
+{"Requisition_Cost":290}
+]},
+{"_id":"22",
+"Attributes":[
+{"Start_TimeStamp":4795200},
+{"Complete_TimeStamp":4800600},
+{"Event_Type":"Receive_Goods"},
+{"Requisition_Cost":295}
+]},
+{"_id":"23",
+"Attributes":[
+{"Start_TimeStamp":4798800},
+{"Complete_TimeStamp":4806000},
+{"Event_Type":"Store_Goods_Into_Warehouse"},
+{"Requisition_Cost":290}
+]},
+{"_id":"24",
+"Attributes":[
+{"Start_TimeStamp":4798800},
+{"Complete_TimeStamp":4807800},
+{"Event_Type":"Store_Goods_Into_Warehouse"},
+{"Requisition_Cost":295}
+]},
+{"_id":"25",
+"Attributes":[
+{"Start_TimeStamp":4806000},
+{"Complete_TimeStamp":4806000},
+{"Event_Type":"Process_Order_Completed"},
+{"Requisition_Cost":290}
+]},
+{"_id":"26",
+"Attributes":[
+{"Start_TimeStamp":4806000},
+{"Complete_TimeStamp":4806000},
+{"Event_Type":"Process_Order_Completed"},
+{"Requisition_Cost":295}
+]},
+{"_id":"27",
+"Attributes":[
+{"Start_TimeStamp":4442400},
+{"Complete_TimeStamp":4788000},
+{"Event_Type":"Invoice_Declines"},
+{"Requisition_Cost":0}
+]},
+{"_id":"28",
+"Attributes":[
+  {"Start_TimeStamp":"2024-01-20T08:00:00"},
+  {"Complete_TimeStamp":"2024-01-20T10:00:00"},
+  {"Event_Type":"Submission_of_Requisition"},
+  {"Requisition_Cost":0}
+]},
+{"_id":"29",
+"Attributes":[
+  {"Start_TimeStamp":"2024-01-20T10:30:00"},
+  {"Complete_TimeStamp":"2024-01-21T09:00:00"},
+  {"Event_Type":"Approval_Supervisor"},
+  {"Requisition_Cost":0}
+]},
+{"_id":"30",
+"Attributes":[
+  {"Start_TimeStamp":"2024-01-20T10:30:00"},
+  {"Complete_TimeStamp":"2024-01-20T12:00:00"},
+  {"Event_Type":"Decline_Budget_Manager"},
+  {"Requisition_Cost":0}
+]},
+{"_id":"31",
+"Attributes":[
+  {"Start_TimeStamp":"2024-01-21T09:00:00"},
+  {"Complete_TimeStamp":"2024-01-21T09:00:00"},
+  {"Event_Type":"Decline_Approval"},
+  {"Requisition_Cost":0}
+]}
+// Create Index by using Redis Search for the 'Event' Document
+ft.Create idx:Events on json prefix 1 Event: Schema$.Attributes.[*].Event_Type as Event_Type Text NoStem Sortable $.Attributes.[*].Start_TimeStamp as Start_TimeStamp Numeric Sortable$.Attributes.[*].Complete_TimeStamp as Complete_TimeStamp Numeric Sortable NoIndex $.Attributes.[*].Requisition_Cost as Requisition_Cost NUMERIC Sortable
+
+//Manually Import Invoice Documents Through Redis Insight. Use Json data type. For each Document, name the Document name; Invoice:n, where n is the number from _id. 
+{
+  "_id":"Invoice:1",
+  "Attributes":[
+    {"Payment":290},
+    {"Payment_Method":"Credit"},
+    {"Type":"Invoice"},
+    {"Paid_by":"Staff:2"},
+    {"Paid_by_Type":"Supervisor"},
+    {"Material_List":[
+      "Material:1","Material:2","Material:3","Material:4"
+    ]}
+  ]
+},
+{
+  "_id":"Invoice:2",
+  "Attributes":[
+    {"Payment":295},
+    {"Payment_Method":"Credit"},
+    {"Type":"Invoice"},
+    {"Paid_by":"Staff:2"},
+    {"Paid_by_Type":"Supervisor"},
+    {"Material_List":[
+      "Material:5","Material:6","Material:7","Material:8","Material:9"
+    ]}
+  ]
+}
+// Create Index by using Redis Search for the 'Invoice' Document
+ft.Create idx:Invoice on json prefix 1 Invoice: Schema $.Attributes.[*].Payment as Payment Numeric Sortable $.Attributes.[*].Payment_Method as Payment_Method Text NoStem  Sortable NoIndex $.Attributes.[*].Type as Type Text NoStem  Sortable NoIndex $.Attributes.[*].Paid_by as Paid_by Text NoStem  Sortable $.Attributes.[*].Paid_by_Type as Paid_by_Type Text NoStem Sortable $.Attributes.[*].Material_List as Material_List Text NoStem Sortable 
+
+// Answer Process Mining Questions 
+// Process Discovery 
+// D1 What is the most frequent action that occurs throughout this process? 
+FT.AGGREGATE idx:Event "*" GROUPBY 1 @Event_Type REDUCE COUNT 0 AS ValueCount SORTBY 2 @ValueCount DESC LIMIT 0 1
+// D2 What is the most frequent action that occurs sequentially?
+
+// D3 How many requisition were successfully delivered? 
+ft.search idx:Event "@Event_Type:Process_Order_Completed" 
+// D4  How many requisitions require approval from the department heads, and compare this to the requisition amount valued above  \$10,000?
+
+// D5 Given the requisition value above $10,000 , how many of these given requisition were denied (with the exclusion of the ones that were approved by the staff)
+    ft.search idx:Event "@Event_Type:Invoice_Declines @Requisition_Cost:[10000 100000000000000]"
+// Process Conformance 
+// C1 Are there any orders marked completed before receiving the goods? If so, how many and list out the orders
+
+// C2 Are any requisition not approved by the supervisor and/or the budget manger that continued afterwards? If so name the requisition and name of the staffs.
+
+// C3 Are there any materials supplied that are not the same as the ones stated in the purchase order? If so, state the material name with the associated amount with the location of where the material are stored. 
+
+// C4 Were all of the invoices paid by the supervisor? If there are any that are not, State which invoice and the material associated with the invoice.
+ft.search idx:Invoice "-@Paid_by_Type:Supervisor" return 2 $._id $.Material_List
+// P1 
+
+// P2 
