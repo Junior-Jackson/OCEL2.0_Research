@@ -1,5 +1,4 @@
 # OCEL2.0_Research
-Hello
 This Branch provides all of the necessary CSV files to import and test for Neo4j's Large event logs. 
 
 
