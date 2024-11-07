@@ -107,9 +107,9 @@ Values ('Decline_Approval','Event_31','2024-01-21 09:00:00','2024-01-21 09:00:00
 
 //Process Mining Question
 //Process Discovery
-// D3 How many requisition were successfully delivered? 
+// D3 How many requisitions were successfully delivered?
 Select Count(*) FROM Events Where Event_Type = 'Process_Order_Completed';
-// D4 How many requisition require approval from the department heads, and compare this to the requisition amount valued above $10,000 ?
+// D4 How many requisitions require approval from the department heads, and compare this to the requisition amount valued above $10,000?
 // Cannot be answer as one query
 //Part 1 
 SELECT Requisition_Id, Event_Type
@@ -119,7 +119,7 @@ WHERE event_type IN ('Approval_Supervisor', 'Approval_Budget_Manager', 'Approval
 SELECT Requisition_Id, Event_Type
 FROM Events
 WHERE Event_Type = 'Pays_Invoice' AND Requisition_Cost = 10000 
-// D5 Given the requisition value above 10,000 dollars, how many of these given requisition were denied (with the exclusion of the ones that were approved by the staff) 
+// D5 Given the requisition value above $10,000, how many of these given requisitions were denied (with the exclusion of the ones that were approved by the staff?
 SELECT Count(*)
 From Events
 Where Event_Type IN ('Invoice_Declines') AND Requisition_Cost < 10000
