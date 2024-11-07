@@ -12,12 +12,12 @@ db.getCollection('Events').aggregate([
    }},
    {$limit:1}
 ])
-// D3 How many requisition were successfully delivered?
+// D3 How many requisitions were successfully delivered?
 db.getCollection('Events').aggregate([ {
   $match:{"Attributes.Event_Type":"Process_Order_Completed"}
 },
 {$count:"Process_Order_Completed"}])
-// D4 How many requisition require approval from the department heads, and compare this to the requisition amount valued above 10,000 Dollars?
+// D4 How many requisitions require approval from the department heads, and compare this to the requisition amount valued above $10,000?
 // First Half 
 db.getCollection('Events').aggregate([
   {$match:{"Attributes.Event_Type":"Approval_Department_Head"}},
@@ -58,7 +58,7 @@ db.getCollection("Events").aggregate([
 ])
 
 //Add new questions.
-//MD5 When converting from Requisition to phurcase order, were there any other object that were created other than the Phurcase Order? 
+//MD5 When Converting from Requisition to Purchase Order, were there any other Objects that were created other than the Purchase Order?  
 db.getCollection("Events").aggregate([
   {$match:{"Attributes.Event_Type":"Convert_To_Purchase_Order"}},
   {
@@ -84,7 +84,7 @@ db.getCollection("Events").aggregate([
     }
   },
 ])
-//MD6 When the purchase order was sent, were there any of the same Purchase orders that was sent multiple times? 
+//MD6 When the purchase order was sent, were there any of the same Purchase orders that were sent multiple times? 
 db.getCollection("Events").aggregate([
   {$match: {
     "Attributes.Event_Type":"Purchase_Order_Sent"
