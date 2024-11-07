@@ -402,8 +402,6 @@ Match (requisition:Object:Requisition)
 Match (Staff:Object:Staff)
 match z=(Staff)-[]->(Events)<-[]-(requisition)
 Return Staff.Name As Name_Of_Staff, requisition.ID As Requisition
-//C3 Are there any materials supplied that are not the same as the ones stated in the purchase order? If so, state the material name with the associated amount with the location of where the material are stored.
-//i couldnt answer this. 
 //C4 Were all of the invoices paid by the supervisor? If there are any that are not, state which invoice and the material associated with the invoice.
 Match (pays_Invoice:Event:Pays_Invoice)
 Match (staff:Object:Staff)
@@ -411,8 +409,3 @@ Match p = (staff)-[:Handles]->(pays_Invoice)
 where staff.Staff_Type <> "Supervisor"
 Match z = (material)-[:Listed_in]->(invoice)-[:Paided_by]->(pays_Invoice)
 return invoice.ID as Invoice, Collect(material) as Materials, Count(pays_Invoice) as Failed_Amount 
-//Process Performance
-//P1 Out of which staff took the longest to approve the requisition and what was the associated time? 
-//Cannot be answered 
-//P2 For requisitions that were created during January, what was the average time spent approving requisitions from the supervisor? 
-//Cannot be answered 
