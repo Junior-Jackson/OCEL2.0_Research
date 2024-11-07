@@ -131,7 +131,7 @@ create (e:events{
     Lifecycle:row.lifecycle,
     Resource:row.resource
 })
-// Part 16 ImportCreate Request for Quotation
+// Part 16 Import Create Request for Quotation
 Load Csv with headers from 'https://raw.githubusercontent.com/Junior-Jackson/OCEL2.0_Research/refs/heads/CSV-Import-Large-Event-Logs-Neo4j/event_CreateRequestforQuotation.csv'
 as row 
 create (e:events{
@@ -179,16 +179,16 @@ match (e:events{Event_Id:row.ocel_event_id})
 match (n:objects{Object_Id:row.ocel_object_id})
 merge (e)-[:qualifies{qualifier:row.ocel_qualifier}]->(n)
 
-//Process mining questions
-//process discovery.
+//Process Mining Questions
+//Process Discovery.
 
-// PD1 What is the most frequent action that occurs throughout this process? 
+// PD1 What are the most frequent actions that occur throughout this process?
 
 match (events:events)
 return events.Type as Event_Type, count(events.Type) as Number_of_actions
 Order by Number_of_actions DESC Limit 1
 
-// PD2 What is the most frequent actions that occur sequentially
+// PD2 What are the most frequent actions that occur sequentially?
 match(event:events)
 match(Event1:events)
 match(object:objects)
@@ -199,7 +199,7 @@ with p, collect(event.Type + Event1.Type) as Mark
 return count(Mark)as Number_of_Sequence_Action, Mark as Sequence_of_actions
 order by Number_of_Sequence_Action DESC Limit 1 
 
-// PD3 How many purchase orders were created
+// PD3 How many purchase orders were created?
 //from the events Perspective
 match (e:events{Type:"Create Purchase Order"})
 return count(e) as Amount_of_Purchase_Order
@@ -207,7 +207,8 @@ return count(e) as Amount_of_Purchase_Order
 match (o:objects{Type:"purchase_order"})
 return count(o) as Amount_of_Purchase_Order
 // note that objects should provide the inccorrect answer, given how CSV works. 
-// PD4 Given that the purchase order is over $5000, how many requisitions were approved after creating and how many were denied?
+
+// PD4  Given that the purchase order is over $5000 , how many requisitions were approved after creating and how many were denied?
     match (purchase_order:objects{Type:"purchase_order"})
     match (payment:objects{Type:"payment"})
     match p1 = (purchase_order)-[]->(payment)
@@ -218,11 +219,7 @@ return count(o) as Amount_of_Purchase_Order
     match p3 = (Event1)-[]->(purchase_order)
     with count(p2) as Amount_of_Approvals, count (p3) as Total_amount
     return Amount_of_Approvals as Amount_of_Approvals, Total_amount-Amount_of_Approvals as Amount_Denied
-// PD5 Which is the most likely action to proceed after approving the Purchase Order? 
-// Given my knowledge i wasnt able to answer this.
-// PD 6
-
-// PD 7 
+// PD 7 List out each duplicated payment, as well as how many duplicated payments occurred for each.
 match (n:events{Type:"Execute Payment"})
 match (o:objects{Type:"payment"})
 match  p=(n)-[]->(o)
@@ -230,6 +227,7 @@ with o.Object_Id as id , Count(o) as Count
 where Count > 1 
 return id, Count 
 // Process Conformance  
+
 // PC1 Is the payment cost equal to the invoice’s cost? If there isn't, list the invoice and payment ID and the cost of both.
 // Through Object-to-Object relationship
 match {invoice_receipt:objects{Type:"invoice receipt"}}
@@ -251,16 +249,10 @@ match {object:objects{Type:"Purchase_Order"}}
 match p= (Create_requisition)-[]->(object)<-[]-(Approval_Requisition)
 where Create_requisition.resource <> "Manufacturing Department" and Approval_Requisition.resource <> "Procurement Requisition Manager"
 return object.Object_Id as Not_approved_Correctly
-// PC3 Are there any duplicated payments that occurred? If so, what are the associated Invoices that are being duplicated.
-
-// Cannot be done. 
-
-// Process Performance
-// PP1
-//cannot be done. 
 
 //Join Query Testing.  
 //Chain of relationship. 
+
 //1st Chain 
 match (e:events{Type:"Approve Purchase Order"})
 match (o:objects{Type:"purchase_order"})
@@ -306,8 +298,6 @@ match (o2:objects{Type:"purchase_requisition"})
 where f.Type <> "Approve Purchase Order" and g.Type <> "Approve Purchase Order"
 match p = (e)-[]->(o)<-[]-(f)-[]->(o1)<-[]-(g)-[]->(o2)
 return  e.Event_Id, e.Type, o.Object_Id,o.Type,f.Event_Id,f.Object_Id,o1.Object_Id,o1.Type,g.Type,g.Event_Id,o2.Object_Id,o2.Type
-
-
 
 //Split-merge Queries. 
 // Split-merge as Two Query. 
