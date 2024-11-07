@@ -1,5 +1,5 @@
 // Process Discovery 
-// PD1 What is the most frequent actions that occurs throughout this process?
+// PD1 What are the most frequent actions that occur throughout this process?
 db.getCollection('Events').aggregate([
   {$group: {
     _id:"$type",
@@ -12,7 +12,6 @@ db.getCollection('Events').aggregate([
    }},
    {$limit:1}
 ])
-// PD2 What is the most frequent actions that occurs sequentially
 
 // PD3 How many purchase orders were created?
 // Events Perspective 
@@ -41,12 +40,6 @@ db.getCollection("Objects").aggregate([
     count:{$sum:1}
   }}
 ])
-// PD4 Given that the purchase order is over $5000, how many requisitions were approved after creating and how many were denied?
-
-// PD5 Which is the most likely action to precede after approving the Purchase Order.
-
-// PD6 What are the actions that occur from creating a requisition to creating an invoice? List out the actions for each requisition.
-
 //  PD7 List out each duplicated payments, as well as how many duplicated payments occurred for each 
 db.getCollection("Objects").aggregate([
   {$match:{"type": "Execute Payment"}},
@@ -61,15 +54,6 @@ db.getCollection("Objects").aggregate([
   {$match:{count:{$gt:1}}},
   {$sort:{count:-1}}
 ])
-// Process Conformance
-// PC1 Is the payment  cost equal to the invoice’s cost? If there isn't, list the invoice and payment ID and the cost of both.
-
-// PC2 Were any requisitions not created by the manufacturing department and not approved by the Procurement Requisition Manager? If not specify the object.
-
-// PC3  Are there any duplicated payments that occurred? If so, what are the associated Invoices that are being duplicated
-
-// Process Performance. 
-// PP1 What is the longest process to occur within the organisation? 
 
 // Join Query Testing
 // Chain of Relationship 
