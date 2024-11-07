@@ -361,14 +361,14 @@ With p,  collect(event.Type + Event1.Type) as Mark
 Return count(Mark)as Number_of_Sequence_Action, Mark as Sequence_of_actions
 Order By Number_of_Sequence_Action DESC Limit 1
 
-// D3 How many requisition were successfully delivered?
+// D3 How many requisitions were successfully delivered?
 Match (event:Event:Process_Order_Completed)
 Return count(event) as Number_of_completed_requisitions
 //or 
 Match p=(object)-[:Finalised_by]->(Event)
 Where Event.Type = "Process_Order_Completed"
 Return Distinct count(Event)
-// D4 How many requisition require approval from the department heads, and compare this to the requisition amount valued above 10,000 Dollars?
+// D4 How many requisitions require approval from the department heads, and compare this to the requisition amount valued above $10,000?
 Match (requisition:Object:Requisition)
 Match (Phurcase_order:Object:Phurcase_Order)
 Match p=(requisition)-[]->(event)<-[]-(Phurcase_order)
@@ -376,7 +376,7 @@ return Count(Phurcase_order.Total_Cost >= 10000) as Value, Phurcase_order.Type a
 Union 
 Match (approval_department_head:Event:Approval_Department_Head)
 return Count(approval_department_head) as Value, approval_department_head.Type as Type
-// D5 Given the requisition value above 10,000 dollars, how many of these given requisition were denied (with the exclusion of the ones that were approved by the staff?
+// D5 Given the requisition value above $10,000 , how many of these given requisitions were denied (with the exclusion of the ones that were approved by the staff?
 Match (phurcase_order:Object:Phurcase_Order)
 where phurcase_order.Total_Cost >= 10000
 Match p=(phurcase_order)-[:Created_by]->(convert_To_Phurcase_Order:Event:Convert_To_Phurcase_Order)<-[]-(requisition:Object:Requisition)
@@ -393,7 +393,7 @@ match (Goods_Recieved:Event:Receive_Goods)
 Match p= (requisition)-[:Finalised_by]->(Completed_Orders)<-[]-(staff)-[]->(Goods_Recieved)
 where Completed_Orders.Complete_TimeStamp < Goods_Recieved.Complete_TimeStamp
 return Collect (distinct requisition.ID) as Requisition, count(distinct requisition.ID) as Amount 
-//C2 Are any requisition not approved by the supervisor and/or the budget manger that continued afterwards? If so name the requisition and name of the staffs.
+//C2 Are any requisitions not approved by the supervisor and/or the budget manager that continued afterwards? If so name the requisition and name of the staffs.
 Match (Decline:Event:Decline_Approval)
 Match (staff:Object:Staff)
 match p=(staff)-[]->(Decline)<-[]-(Object)-[]->(Events)
