@@ -1,4 +1,4 @@
-e# OCEL2.0_Research
+e# OCEL 2.0 Research
 Navigate through the branches to find the event logs and queries for the specific scenario and NoSQL paradigms.
 
 There are Four Branches:
