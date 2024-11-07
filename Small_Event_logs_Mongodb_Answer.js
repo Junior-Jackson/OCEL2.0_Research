@@ -1,3 +1,4 @@
+// Process Discovery
 // D1 What is the most frequent action that occurs throughout this process? 
 db.getCollection('Events').aggregate([
   {$group: {
@@ -11,10 +12,6 @@ db.getCollection('Events').aggregate([
    }},
    {$limit:1}
 ])
-// D2 What is the most frequent action that occurs sequentially?
-
-//Cannot be done 
-
 // D3 How many requisition were successfully delivered?
 db.getCollection('Events').aggregate([ {
   $match:{"Attributes.Event_Type":"Process_Order_Completed"}
@@ -59,35 +56,6 @@ db.getCollection("Events").aggregate([
       Count:{$sum:1}
   }}
 ])
-// D5 Given the requisition value above 10,000 dollars, how many of these given requisition were denied (with the exclusion of the ones that were approved by the staff?
-
-// i wasn't able to answer this 
-
-//Process Conformance 
-//C1 Are there any orders marked completed before receiving the goods? If so, how many and list out the orders
-
-// i wasn't able to answer this 
-
-//C2 Are any requisition not approved by the supervisor and/or the budget manger that continued afterwards? If so name the requisition and name of the staffs.
-// i wasn't able to answer this 
-
-//C3 Are there any materials supplied that are not the same as the ones stated in the purchase order? If so, state the material name with the associated amount with the location of where the material are stored.
-
-// i wasn't able to answer this 
-
-//C4 Were all of the invoices paid by the supervisor? If there are any that are not, state which invoice and the material associated with the invoice.
-
-// i wasn't able to answer this 
-
-//Process Performance
-
-//P1 Out of which staff took the longest to approve the requisition and what was the associated time? 
-
-//Timestmap isnt supported 
-
-//P2 For requisitions that were created during January, what was the average time spent approving requisitions from the supervisor? 
-
-//Timestamp isnt support. 
 
 //Add new questions.
 //MD5 When converting from Requisition to phurcase order, were there any other object that were created other than the Phurcase Order? 
