@@ -252,25 +252,15 @@ ft.Create idx:Invoice on json prefix 1 Invoice: Schema $.Attributes.[*].Payment 
 
 // Answer Process Mining Questions 
 // Process Discovery 
+
 // D1 What is the most frequent action that occurs throughout this process? 
 FT.AGGREGATE idx:Event "*" GROUPBY 1 @Event_Type REDUCE COUNT 0 AS ValueCount SORTBY 2 @ValueCount DESC LIMIT 0 1
-// D2 What is the most frequent action that occurs sequentially?
 
 // D3 How many requisition were successfully delivered? 
 ft.search idx:Event "@Event_Type:Process_Order_Completed" 
-// D4  How many requisitions require approval from the department heads, and compare this to the requisition amount valued above  \$10,000?
 
 // D5 Given the requisition value above $10,000 , how many of these given requisition were denied (with the exclusion of the ones that were approved by the staff)
-    ft.search idx:Event "@Event_Type:Invoice_Declines @Requisition_Cost:[10000 100000000000000]"
-// Process Conformance 
-// C1 Are there any orders marked completed before receiving the goods? If so, how many and list out the orders
-
-// C2 Are any requisition not approved by the supervisor and/or the budget manger that continued afterwards? If so name the requisition and name of the staffs.
-
-// C3 Are there any materials supplied that are not the same as the ones stated in the purchase order? If so, state the material name with the associated amount with the location of where the material are stored. 
+ft.search idx:Event "@Event_Type:Invoice_Declines @Requisition_Cost:[10000 100000000000000]"
 
 // C4 Were all of the invoices paid by the supervisor? If there are any that are not, State which invoice and the material associated with the invoice.
 ft.search idx:Invoice "-@Paid_by_Type:Supervisor" return 2 $._id $.Material_List
-// P1 
-
-// P2 
